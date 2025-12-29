@@ -331,16 +331,16 @@ class VoiceChatBot:
             try:
                 with open(config_file, 'r', encoding='utf-8') as f:
                     config = json.load(f)
-                    self.api_key = config.get('api_key', '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')
+                    self.api_key = config.get('api_key', '')
                     self.model_url = config.get('model_url', 'https://openrouter.ai/api/v1/chat/completions')
                     self.model = config.get('model', 'xiaomi/mimo-v2-flash:free')
             except:
-                self.api_key = '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'
+                self.api_key = ''
                 self.model_url = 'https://openrouter.ai/api/v1/chat/completions'
                 self.model = 'xiaomi/mimo-v2-flash:free'
         else:
             # Создаем файл с примером
-            self.api_key = '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'
+            self.api_key = ''
             self.model_url = 'https://openrouter.ai/api/v1/chat/completions'
             self.model = 'xiaomi/mimo-v2-flash:free'
             self.save_api_config()
@@ -652,4 +652,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
