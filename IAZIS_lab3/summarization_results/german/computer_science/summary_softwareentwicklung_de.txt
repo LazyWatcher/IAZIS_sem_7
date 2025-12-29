@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\softwareentwicklung_de.txt
+Язык: german
+Заголовок: Softwareentwicklung
+URL: https://de.wikipedia.org/wiki/Softwaretechnik
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:46
+Длина текста: 15849 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Die Softwaretechnik bzw. Softwaretechnologie oder das Software-Engineering (SE) beschäftigt sich mit der Herstellung oder Entwicklung von Software, der Organisation und Modellierung der zugehörigen Datenstrukturen und dem Betrieb von Softwaresystemen. Eine Definition von Helmut Balzert beschreibt das Gebiet als Softwaretechnik umfasst eine Vielzahl von Teilgebieten, die in ihrer Gesamtheit die Softwareentwicklung begleiten. Zur Beschreibung des „Standes der Technik“ des Fachgebiets gibt es verschiedene Ansätze, unter anderem den Guide to the Software Engineering Body of Knowledge (SWEBOK) der IEEE Computer Society. Die IT-Disziplin Softwaretechnik wird im Sprachgebrauch und als Synonym mit „Softwareentwicklung“ bezeichnet; im sprachlich engeren Sinn steht „Softwareentwicklung“ jedoch für die Tätigkeiten, die innerhalb der Disziplin Softwaretechnik ausgeführt werden. In erweitertem Sinn versteht man unter Softwaretechnik – neben dem Entwickeln – auch das Betreiben von Software unter Nutzung der Informationstechnik und/oder die technischen Geräte und die Systemsoftware, die dazu oder zur Softwareentwicklung verwendet werden. Teilgebiete Aufgrund des hohen Aufwandes zur Erstellung und Wartung komplexer Software erfolgt die Entwicklung durch Softwareentwickler anhand eines strukturierten (Projekt-)Planes. In der Praxis werden auch Verfahren eingesetzt, welche die Mehrstufigkeit von Systemanalyse, Systemdesign/Konzept und anschließender Implementierung und Testen aufgeben, beispielsweise unter Prototyping, Agile Softwareentwicklung. Dementsprechend vielfältig, auch abhängig von der Projektart, sind auch die Vorgehensweisen bei der Projektentwicklung: Von einer sehr strukturierten Herangehensweise, siehe Wasserfallmodell, über verschiedene Mischformen bis hin zu sehr flexiblen, offenen Methoden wie der Agilen Softwareentwicklung. Die Phasen und ihre Aufgabenstellungen sind in der folgenden Tabelle aufgeführt: Die oben genannten Teilschritte der Softwareentwicklung werden nicht zwangsläufig bei jedem Projekt komplett durchlaufen. Um Konflikte zwischen den beiden Projektleitern aufzulösen, wird dem übergeordnet oftmals noch ein aus dem Management von Auftraggeber und Auftragnehmer zusammengesetztes Kontrollgremium (Lenkungsausschuss) eingesetzt.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+lean, agile, scrum, projektentwicklung, projektmanagement, qualitätsmanagement, projekts, standardsoftware, balzert, untersuchung, entwicklungsprozess, systemanalyse, systemdesign, wasserfallmodell, agilen, auftraggeber, ergänzung, projektabwicklung, qualitätsstandards, leistungen
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • systemanalyse
+  • systemdesign
+
+Общие понятия:
+  • lean
+  • agile
+  • scrum
+
+Специфические термины:
+  • projektentwicklung
+  • projektmanagement
+  • qualitätsmanagement
+  • projekts
+  • standardsoftware
+  • balzert
+  • untersuchung
+  • entwicklungsprozess
+  • wasserfallmodell
+  • agilen
+  • auftraggeber
+  • ergänzung
+  • projektabwicklung
+  • qualitätsstandards
+  • leistungen
+
+============================================================
+Дата создания реферата: 2025-12-07 12:37:03
+============================================================

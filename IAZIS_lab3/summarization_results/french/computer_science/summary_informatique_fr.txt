@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\informatique_fr.txt
+Язык: french
+Заголовок: Informatique
+URL: https://fr.wikipedia.org/wiki/Informatique
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:27
+Длина текста: 74843 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+En juillet 1968, le ministre fédéral de la Recherche scientifique d'Allemagne de l'Ouest, Gerhard Stoltenberg, prononce le mot « Informatik » lors d'un discours officiel sur la nécessité d'enseigner cette nouvelle discipline dans les universités de son pays ; on emploie ce même terme pour nommer certains cours dans les universités allemandes. Des institutions assimilent parfois la compétence des utilisateurs dans la manipulation des appareils à l'alphabétisation ou à la conduite automobile, comme veut le faire entendre l'expression European Computer Driving License (traduction littérale : « permis de conduire un ordinateur »). Équivalents en anglais Plusieurs termes en anglais désignent l'informatique : informatics (en) : surtout en tant que domaine scientifique (se rencontre en Europe de l'Ouest) ; computer science : l'informatique fondamentale ou science des calculateurs, une branche de la science en rapport avec le traitement automatique d'informations ; computing : qui qualifie les activités nécessitant une masse d'opérations mathématiques et logiques (par exemple, dans cloud computing ou decision support computing) ; electronic data processing : traitement des données à l'aide de l'électronique ; Information technology : souvent utilisé pour désigner le secteur industriel des technologies de l'information. Le secteur très féminisé à ses débuts avec des pionnières comme Ada Lovelace, Grace Hopper, Frances Allen, Adele Goldberg est devenu progressivement plus masculin avec la professionnalisation des différents métiers dans l'informatique (premiers diplômes en informatique). Mécanographie Dans les années 1880, Herman Hollerith, futur fondateur d'IBM, fonde la mécanographie en inventant une machine électromécanique destinée à faciliter le recensement en stockant les informations sur une carte perforée. Les programmeuses de l'ordinateur ENIAC en 1944 sont six mathématiciennes : Marlyn Meltzer, Betty Holberton, Kathleen Antonelli, Ruth Teitelbaum, Jean Bartik, Frances Spence. Après la Seconde Guerre mondiale, l'invention du transistor, puis du circuit intégré permettront de remplacer les relais électromécaniques et les tubes à vide, qui équipent les machines à calculs pour les rendre à la fois plus petites, plus complexes, plus économiques et plus fiables. Dans les années 1970, l'informatique se développe avec les télécommunications, avec Arpanet, le réseau Cyclades et la Distributed System Architecture (DSA) de réseau en couches, qui donnera naissance en 1978 au modèle OSI, appelé aussi « OSI-DSA », puis aux protocoles TCP-IP dans les années 1990, grâce à la baisse des prix des microprocesseurs. La complexité algorithmique sert en particulier à déterminer comment le nombre d'opérations nécessaires évolue en fonction du nombre d'éléments à traiter (la taille des données) : soit l'évolution peut être indépendante de la taille des données, on parle alors de complexité constante ; soit le nombre d'opérations peut augmenter selon un rapport logarithmique, linéaire, polynomial ou exponentiel (dans l'ordre décroissant d'efficacité et pour ne citer que les plus répandues) ; une augmentation exponentielle de la complexité aboutit très rapidement à des durées de calcul déraisonnables pour une utilisation en pratique ; tandis que pour une complexité polynomiale (ou meilleure), le résultat sera obtenu après une durée de calcul réduite, même avec de grandes quantités de données. Exemples d'appareils : la console de jeu est un appareil destiné au jeu vidéo, une activité que l'on peut aussi exercer avec un ordinateur ; le NAS (acronyme de l'anglais network attached storage, littéralement « mémoire attachée à un réseau ») est un appareil destiné à garder des informations en mémoire et à les mettre à disposition via un réseau informatique ; le distributeur de billets : un automate qui distribue sur demande des billets de banque ou des tickets de transport public ; les distributeurs sont souvent des ordinateurs effectuant un nombre limité de tâches ; le récepteur satellite tout comme le décodeur de Télévision Numérique Terrestre : les émissions de télévision se font en numérique et sont captées et décodées par des appareils informatiques ; les appareils d'avionique sont des appareils électroniques et informatiques placés dans les avions et les véhicules spatiaux ; ils servent à la navigation, la prévention des collisions et la télécommunication ; le GPS : un appareil qui affiche une carte géographique, et se positionne sur la carte grâce à un réseau de satellites ; les cartes géographiques sont des informations créées par ordinateur ; le téléphone mobile : initialement c'est un simple appareil analogique utilisable par un nombre restreint d'utilisateurs, le téléphone portable numérisé est utilisable en masse et sert aussi à jouer, à visionner des images ou des vidéos ; Les smartphones sont de véritables ordinateurs de poche, intégrant de nombreux capteurs (positionnement GPS, accéléromètres multi-axes, Capteur photographique, thermomètre, hygromètre), regroupant ainsi plusieurs appareils différents dans un même boîtier ; les systèmes d'arme sont des dispositifs informatiques qui permettent l'organisation et le suivi des opérations militaires : positionnement géographique, calcul des tirs, guidage des appareils et des véhicules ; les robots sont des appareils électromécaniques qui effectuent, de manière autonome, des tâches pour assister ou remplacer des humains ; l'autonomie est assurée par un appareil informatique placé à l'intérieur et/ou à l'extérieur du robot.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+appareil, appareils, communication, équipements, composants, science, france, carte, création, constructeurs, technologies, micrologiciel, aujourd, hui, applicatif, ingénierie, chargé, vente, industriel, numérique
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • science
+  • carte
+  • hui
+  • vente
+
+Специфические термины:
+  • appareil
+  • appareils
+  • communication
+  • équipements
+  • composants
+  • france
+  • création
+  • constructeurs
+  • technologies
+  • micrologiciel
+  • aujourd
+  • applicatif
+  • ingénierie
+  • chargé
+  • industriel
+  • numérique
+
+============================================================
+Дата создания реферата: 2025-12-28 23:39:18
+============================================================

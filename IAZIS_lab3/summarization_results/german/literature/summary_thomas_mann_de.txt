@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\thomas_mann_de.txt
+Язык: german
+Заголовок: Thomas Mann
+URL: https://de.wikipedia.org/wiki/Thomas_Mann
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:04
+Длина текста: 77369 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Der 1924 veröffentlichte Zauberberg, mit dem er die Tradition des europäischen Bildungsromans fortführte, zeigt Manns Gestaltungskunst: Der Erzähler wahrt eine skeptisch-ironische Distanz zu den Figuren, typische Konstellationen kehren leitmotivisch wieder, und es herrscht ein syntaktisch komplexer, anspruchsvoller Stil. Seine militärische Laufbahn endete nach drei Monaten wegen Dienstuntauglichkeit, da es ihm durch Beziehungen seiner Mutter gelang, einen Oberstabsarzt dazu zu bewegen, bei ihm Plattfüße zu diagnostizieren, obwohl, wie er selbst an seinen Bruder Heinrich schrieb, „von einem Plattfuß gar nicht die Rede sein konnte.“ Dieses Erlebnis wird in der Musterungsszene in den Bekenntnissen des Hochstaplers Felix Krull widergespiegelt. Ehe 1904 lernte Thomas Mann Katharina „Katia“ Pringsheim (Tochter des Mathematikers Alfred Pringsheim und Enkelin der Frauenrechtlerin Hedwig Dohm) kennen und begann, um sie zu werben. Jörn Leonhard zitiert in seiner Geschichte des Ersten Weltkriegs die Erinnerung der Kinder an die Worte des Vaters, dass „nun wohl auch gleich ein feuriges Schwert am Himmel erscheinen“ werde, und dessen Erinnerung an Leo Tolstoi, den „Repräsentanten einer radikalen Gewaltlosigkeit“ (Leonhard): „Merkwürdig, aber wenn der Alte noch lebte, er brauchte nichts zu tun, nur da zu sein, auf Jasnaja Poljana, – dies wäre nicht geschehen –, es hätte nicht gewagt, zu geschehen.“ Thomas Mann schrieb an seinen Bruder Heinrich: „Ich persönlich habe mich auf eine vollständige Veränderung der materiellen Grundlagen meines Lebens vorzubereiten. Ganz im damaligen imperialistischen Zeitgeist schrieb er ferner: „Das Gleichgewicht Europas […] war die Ohnmacht Europas, war seine Blamage gewesen, mehr als einmal, …“ Den Kontakt zu Heinrich, der wie Stefan Zweig, Arthur Schnitzler, Romain Rolland und später auch Hermann Hesse gegen die die öffentliche Meinung bestimmenden chauvinistischen Ideen von 1914 anschrieb, hatte er inzwischen ganz abgebrochen. Detailliert setzte er sich mit den geistigen Strömungen der Kriegs- und Vorkriegszeit in seinem umfangreichen Werk Betrachtungen eines Unpolitischen auseinander, in dem er den Unterschied zwischen der deutschen pessimistischen Selbstironie des Geistes bei gleichzeitiger Liebe dessen zum Leben einerseits, und dem romanischen Radikalismus des Geistes bzw. des Lebens andererseits herauszuarbeiten versuchte. Die Stadt reagierte schnell und setzte ein Komitee zur Förderung der Literatur ein – bereits Anfang 1927 wurde Thomas Mann gemeinsam mit Catherina Godwin, Hans Ludwig Held, Hans von Gumppenberg, Emil Preetorius, Peter Dörfler und Wilhelm Weigand in den neu eingerichteten Literaturbeirat der Stadt München berufen. Thomas Mann nannte den Nationalsozialismus in nüchterner Unumwundenheit „eine Riesenwelle exzentrischer Barbarei und primitiv-massendemokratischer Jahrmarktsrohheit“ mit „Massenkrampf, Budengeläut, Halleluja und derwischmäßigem Wiederholen monotoner Schlagworte, bis alles Schaum vor dem Munde hat“. Er fragte, ob das deutsch sei und ob „das Wunschbild einer primitiven, blutreinen, herzens- und verstandesschlichten, hackenzusammenschlagenden, blauäugig gehorsamen und strammen Biederkeit, diese vollkommene nationale Simplizität in einem reifen, vielerfahrenen Kulturvolk wie dem deutschen“ überhaupt verwirklicht werden könne. In seinem Vortrag schloss er eine Allianz mit dem Roten Wien:„Sozialismus ist nichts anderes als der pflichtgemäße Entschluss, den Kopf nicht mehr vor den dringendsten Anforderungen der Materie, des gesellschaftlichen, kollektiven Lebens in den Sand der metaphysischen Dinge zu stecken, sondern sich auf die Seite der zu schlagen, die der Erde einen Sinn geben wollen, einen Menschensinn.“Am 13. Februar 1933 jährte sich Richard Wagners Todestag zum 50.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+krull, katia, hochstaplers, bekenntnisse, wagners, golo, buddenbrook, unpolitischen, komitee, unordnung, heuser, angeles, erwählte, kurzke, thomas-mann-archiv, fischer-taschenbuch-verlag, pringsheim, herzenserfahrung, tolstoi, tetralogie
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • krull
+  • katia
+  • golo
+
+Специфические термины:
+  • hochstaplers
+  • bekenntnisse
+  • wagners
+  • buddenbrook
+  • unpolitischen
+  • komitee
+  • unordnung
+  • heuser
+  • angeles
+  • erwählte
+  • kurzke
+  • thomas-mann-archiv
+  • fischer-taschenbuch-verlag
+  • pringsheim
+  • herzenserfahrung
+  • tolstoi
+  • tetralogie
+
+============================================================
+Дата создания реферата: 2025-12-07 12:42:56
+============================================================

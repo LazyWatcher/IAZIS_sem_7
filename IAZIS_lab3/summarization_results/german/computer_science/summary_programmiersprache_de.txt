@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\programmiersprache_de.txt
+Язык: german
+Заголовок: Programmiersprache
+URL: https://de.wikipedia.org/wiki/Programmiersprache
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:39
+Длина текста: 23610 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Sie setzen sich üblicherweise aus schrittweisen Anweisungen aus erlaubten (Text-)Mustern zusammen, der sogenannten Syntax. Während die ersten Programmiersprachen noch unmittelbar an den Eigenschaften der jeweiligen Rechner ausgerichtet waren, werden heute meist problemorientierte oder auch (allgemeiner) höhere Programmiersprachen verwendet, die eine maschinenunabhängigere und somit für den Menschen leichter verständliche Ausdrucksweise erlauben. Bei deklarativen Programmiersprachen ist der Ausführungsalgorithmus schon vorab festgelegt und wird nicht im Quelltext ausformuliert/beschrieben, sondern es werden nur seine Anfangswerte und Bedingungen festgelegt sowie die Regeln, die das Ergebnis erfüllen muss. Übersicht Die Anweisungen eines Programms werden meist mittels einfacher Texteditoren erzeugt; man nennt sie den Quelltext (oder auch Quellcode). Oft wird eine Kombination aus beiden Varianten gewählt, bei der zuerst der Quelltext des Programms in einen Zwischencode übersetzt wird, welcher dann zur Laufzeit innerhalb einer Laufzeitumgebung in Maschinencode überführt wird. Programmiersprachen bieten meist mindestens Ein-/Ausgabe-Befehle, damit das Programm Daten entgegennehmen und wieder ausgeben kann; Deklaration von Variablen und Feldern, um Informationen zwischenspeichern zu können; mathematische Grund- und Standardfunktionen; Grundfunktionen zur Zeichenkettenverarbeitung; Steueranweisungen für bedingte Ausführung, Wiederholung, Programmunterteilung (z. Damit steigt die Effizienz der Programmierer und die Portabilität der Programme, meist nimmt dafür die Verarbeitungsgeschwindigkeit der erzeugten Programme ab, und die Mächtigkeit der Sprache nimmt ab: Je höher und komfortabler die Sprache, desto mehr ist der Programmierer daran gebunden, die in ihr vorgesehenen Wege zu beschreiten. Sprachen sind verschieden erfolgreich – manche „wachsen“ und finden zunehmend breitere Anwendung; immer wieder sind auch Sprachen mit dem Anspruch entworfen worden, Mehrzweck- und Breitbandsprachen zu sein, oft mit bescheidenem Erfolg (PL/1, Ada, Algol 68). Minisprachen sollen Kinder früh ans Programmieren heranführen (nicht zu verwechseln mit minilanguages, einem Synonym für domain-specific languages). Anweisungskategorien Die Anweisungen von Programmiersprachen (Beispiele siehe hier) lassen sich nach folgenden Gruppen klassifizieren: Eingabe- und Ausgabe-Befehle – lesen Daten von der Tastatur, von einer Datei oder aus anderen Quellen ein oder sie geben sie auf/über ein bestimmtes Ausgabegerät (Bildschirm, Datei, Drucker, …) aus.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+basisklasse, datentyp, zeichenketten, programms, zwischencode, datentypen, deklarativen, generation, attribute, typisierten, imperative, phase, typsystem, gleitkommazahlen, typenlosen, typprüfung, typangaben, fccs, syntax, assemblersprache
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • programms
+  • zwischencode
+  • typsystem
+
+Общие понятия:
+  • phase
+  • fccs
+
+Специфические термины:
+  • basisklasse
+  • datentyp
+  • zeichenketten
+  • datentypen
+  • deklarativen
+  • generation
+  • attribute
+  • typisierten
+  • imperative
+  • gleitkommazahlen
+  • typenlosen
+  • typprüfung
+  • typangaben
+  • syntax
+  • assemblersprache
+
+============================================================
+Дата создания реферата: 2025-12-07 12:37:02
+============================================================

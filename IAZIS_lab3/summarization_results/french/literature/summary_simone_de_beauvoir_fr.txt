@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\simone_de_beauvoir_fr.txt
+Язык: french
+Заголовок: Simone de Beauvoir
+URL: https://fr.wikipedia.org/wiki/Simone_de_Beauvoir
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:59
+Длина текста: 47367 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Simone de Beauvoir (/simɔn də bovwaʁ/ ), née le 9 janvier 1908 dans le 6e arrondissement de Paris et morte le 14 avril 1986 dans le 14e arrondissement, est une philosophe, romancière, mémorialiste, professeur et essayiste française. Puis, de 1958 (Mémoires d'une jeune fille rangée) et jusqu'à la fin de sa vie (La Cérémonie des adieux, 1981), Beauvoir rédigea une œuvre monumentale composée de mémoires et de récits autobiographiques comprenant également La Force de l'âge (1960), La Force des choses (1963), Une mort très douce (1964), Tout compte fait (1972), la distinguant alors parmi les plus importantes mémorialistes du XXe siècle. Souvent considérée comme une théoricienne majeure du féminisme, notamment grâce à son magnum opus Le Deuxième Sexe publié en 1949, ouvrage encyclopédique s'inscrivant dans le courant philosophique de la phénoménologie et en particulier dans son moment existentialiste, Simone de Beauvoir a également participé au Mouvement de libération des femmes dans les années 1970. Biographie Enfance et jeunesse Simone Lucie Ernestine Marie Bertrand de Beauvoir est la fille de Georges Bertrand de Beauvoir, alors avocat, comédien amateur et de Françoise Brasseur, jeune femme issue de la bourgeoisie verdunoise. Dès le plus jeune âge, Simone de Beauvoir se distingue par ses capacités intellectuelles et se partage chaque année la première place avec Élisabeth Lacoin (dite Élisabeth Mabille ou « Zaza » dans son autobiographie), fille de l'ingénieur Maurice Lacoin. Je n'étais plus une conscience vacante, un regard abstrait, mais l'odeur houleuse des blés noirs, l'odeur intime des bruyères, l'épaisse chaleur du midi ou le frisson des crépuscules ; je pesais lourd, et pourtant je m'évaporais dans l'azur, je n'avais plus de bornes. Après la Première Guerre mondiale, son grand-père maternel, Gustave Brasseur, ancien président de la Banque de la Meuse qui a fait faillite, est déclaré banqueroutier, précipitant toute sa famille dans le déshonneur et la déconfiture. Aussi les parents de Simone de Beauvoir sont-ils contraints, par manque de ressources, de quitter l'appartement du boulevard du Montparnasse (à proximité de l'actuel restaurant La Rotonde) pour un appartement sombre, exigu, au cinquième étage sans ascenseur, d'un immeuble de la rue de Rennes. » Émancipation progressive Élevée par une mère très pieuse, puis devenue elle-même croyante exaltée et mystique pendant quelques années, Simone de Beauvoir perd progressivement la foi à quatorze ans, bien avant son départ du cours Desir. « Je trouvais sur sa table une dizaine de volumes aux fraiches couleurs de bonbons acidulés : des Montherlant vert pistache, un Cocteau rouge framboise, des Barrès jaune citron, des Claudel, des Valéry d'une blancheur neigeuse rehaussée d'écarlate.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+algren, beauvoir, nelson, zaza, adoptive, radio-canada, enseignante, olga, kosakiewicz, prime, mineure, sorokin, sorokine, chaperon, jeannelle, simone-de-beauvoir, monteil, brasseur, desir, lacoin
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • zaza
+  • olga
+  • prime
+  • desir
+
+Специфические термины:
+  • algren
+  • beauvoir
+  • nelson
+  • adoptive
+  • radio-canada
+  • enseignante
+  • kosakiewicz
+  • mineure
+  • sorokin
+  • sorokine
+  • chaperon
+  • jeannelle
+  • simone-de-beauvoir
+  • monteil
+  • brasseur
+  • lacoin
+
+============================================================
+Дата создания реферата: 2025-12-07 12:35:41
+============================================================

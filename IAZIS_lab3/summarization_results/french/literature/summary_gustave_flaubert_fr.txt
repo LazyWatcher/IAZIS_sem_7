@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\gustave_flaubert_fr.txt
+Язык: french
+Заголовок: Gustave Flaubert
+URL: https://fr.wikipedia.org/wiki/Gustave_Flaubert
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:52
+Длина текста: 34933 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Considéré comme l'un des plus grands romanciers du XIXe siècle, aux côtés de Victor Hugo, Stendhal, Balzac et Zola, il se distingue par sa conception exigeante du métier d'écrivain et par la modernité de sa poétique romanesque. Prosateur de premier plan de la seconde moitié du XIXe siècle, Gustave Flaubert a marqué la littérature universelle par la profondeur de ses analyses psychologiques, son souci de réalisme, son regard lucide sur les comportements des individus et de la société. Biographie Jeunesse Né en 1821 dans une famille de la bourgeoisie rouennaise, Gustave Flaubert est le cinquième enfant d’Achille Cléophas Flaubert (1784-1846), chirurgien-chef très occupé à l'Hôtel-Dieu de Rouen, et de son épouse, Anne Justine Caroline Fleuriot (1793-1872), fille d'un médecin de Pont-l'Évêque. Il naît le 12 décembre 1821 après une sœur et deux frères décédés en bas âge, et est délaissé en faveur de son frère aîné, brillant élève admiré par la famille (prénommé Achille comme son père, à qui il succédera d'ailleurs comme chirurgien chef de l'Hôtel-Dieu de Rouen). Gustave Flaubert passe une enfance sans joie, marquée par l'environnement sombre de l'appartement de fonction de son père à l'hôpital de Rouen, mais adoucie par sa complicité avec sa sœur cadette, Caroline, née trois ans après lui. Après sa réussite à l'examen, ses parents lui financent un voyage dans les Pyrénées et en Corse, que Flaubert relate dans un ouvrage de jeunesse publié de manière posthume sous le nom de Voyage dans les Pyrénées et en Corse ou dans certaines éditions de Mémoires d'un fou. Il transpose d'ailleurs cette passion muette, avec la charge émotionnelle qu'elle a développée chez lui, dans son roman L'Éducation sentimentale, en particulier dans la page célèbre de « l'apparition » de madame Arnoux au regard du jeune Frédéric et dans leur dernière rencontre poignante. À la fin de l'année 1856, Madame Bovary paraît dans La Revue de Paris, puis, après la rencontre de Flaubert avec l'éditeur Michel Lévy, le roman sort en librairie en avril 1857 et est l’objet d’un procès retentissant pour atteinte aux bonnes mœurs : Flaubert est acquitté grâce à ses liens avec la société du Second Empire et avec l'impératrice, ainsi qu'à l'habileté de son avocat, tandis que Charles Baudelaire, poursuivi par le même tribunal, pour les mêmes raisons, après publication de son recueil Les Fleurs du mal au cours de la même année 1857, est condamné. Sa production littéraire continue avec les Trois contes, volume qui comporte trois nouvelles : Un cœur simple, centré sur la figure de Félicité inspirée par Julie, nourrice puis domestique qui servit la famille Flaubert, puis Gustave seul jusqu'à la mort de ce dernier, La Légende de saint Julien l'Hospitalier, conte hagiographique des temps médiévaux écrit en cinq mois en 1875, et Hérodias autour de la figure de saint Jean Baptiste, écrit dans l'hiver 1875-1876. Aspect physique François Coppée, poète contemporain de Flaubert, lors d'une rencontre dans un salon mondain tenu par la princesse Mathilde, le décrit, en 1869, comme un « géant à teint apoplectique et à moustaches de guerrier mongol, très paré, ayant du linge magnifique et même un soupçon de jabot, qui, après avoir salué la princesse, avait replacé sur l'oreille un chapeau luisant à larges ailes et marchait en faisant craquer dans l'herbe d'étincelantes bottines vernies ».
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+flaubert, rouen, bovary, sentimentale, salammbô, gisèle, séginger, sand, carthage, bouvard, pécuchet, steegmuller, croisset, maxime, colet, bouilhet, maupassant, bruneau, yvan, leclerc
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • rouen
+  • sand
+  • colet
+  • yvan
+
+Специфические термины:
+  • flaubert
+  • bovary
+  • sentimentale
+  • salammbô
+  • gisèle
+  • séginger
+  • carthage
+  • bouvard
+  • pécuchet
+  • steegmuller
+  • croisset
+  • maxime
+  • bouilhet
+  • maupassant
+  • bruneau
+  • leclerc
+
+============================================================
+Дата создания реферата: 2025-12-09 20:57:09
+============================================================

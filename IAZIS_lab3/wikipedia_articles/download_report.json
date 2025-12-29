@@ -1,0 +1,258 @@
+{
+  "download_date": "2025-12-07T12:01:14.691486",
+  "base_directory": "D:\\Student\\Сем_7\\Иязис\\IAZIS_lab3\\wikipedia_articles",
+  "articles": {
+    "french": {
+      "computer_science": [
+        {
+          "filename": "algorithmique_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\algorithmique_fr.txt",
+          "size_bytes": 22405,
+          "size_kb": 21.88
+        },
+        {
+          "filename": "base_de_données_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\base_de_données_fr.txt",
+          "size_bytes": 34215,
+          "size_kb": 33.41
+        },
+        {
+          "filename": "informatique_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\informatique_fr.txt",
+          "size_bytes": 77320,
+          "size_kb": 75.51
+        },
+        {
+          "filename": "intelligence_artificielle_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\intelligence_artificielle_fr.txt",
+          "size_bytes": 131463,
+          "size_kb": 128.38
+        },
+        {
+          "filename": "langage_de_programmation_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\langage_de_programmation_fr.txt",
+          "size_bytes": 32700,
+          "size_kb": 31.93
+        },
+        {
+          "filename": "machine_learning_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\machine_learning_fr.txt",
+          "size_bytes": 54358,
+          "size_kb": 53.08
+        },
+        {
+          "filename": "programmation_informatique_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\programmation_informatique_fr.txt",
+          "size_bytes": 23965,
+          "size_kb": 23.4
+        },
+        {
+          "filename": "réseau_informatique_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\réseau_informatique_fr.txt",
+          "size_bytes": 11168,
+          "size_kb": 10.91
+        },
+        {
+          "filename": "système_d'exploitation_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\système_d'exploitation_fr.txt",
+          "size_bytes": 67355,
+          "size_kb": 65.78
+        },
+        {
+          "filename": "sécurité_informatique_fr.txt",
+          "path": "wikipedia_articles\\french\\computer_science\\sécurité_informatique_fr.txt",
+          "size_bytes": 24981,
+          "size_kb": 24.4
+        }
+      ],
+      "literature": [
+        {
+          "filename": "albert_camus_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\albert_camus_fr.txt",
+          "size_bytes": 83286,
+          "size_kb": 81.33
+        },
+        {
+          "filename": "charles_baudelaire_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\charles_baudelaire_fr.txt",
+          "size_bytes": 57794,
+          "size_kb": 56.44
+        },
+        {
+          "filename": "gustave_flaubert_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\gustave_flaubert_fr.txt",
+          "size_bytes": 36367,
+          "size_kb": 35.51
+        },
+        {
+          "filename": "honoré_de_balzac_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\honoré_de_balzac_fr.txt",
+          "size_bytes": 148388,
+          "size_kb": 144.91
+        },
+        {
+          "filename": "jean-paul_sartre_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\jean-paul_sartre_fr.txt",
+          "size_bytes": 101968,
+          "size_kb": 99.58
+        },
+        {
+          "filename": "littérature_française_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\littérature_française_fr.txt",
+          "size_bytes": 29599,
+          "size_kb": 28.91
+        },
+        {
+          "filename": "marcel_proust_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\marcel_proust_fr.txt",
+          "size_bytes": 63630,
+          "size_kb": 62.14
+        },
+        {
+          "filename": "molière_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\molière_fr.txt",
+          "size_bytes": 167884,
+          "size_kb": 163.95
+        },
+        {
+          "filename": "simone_de_beauvoir_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\simone_de_beauvoir_fr.txt",
+          "size_bytes": 49242,
+          "size_kb": 48.09
+        },
+        {
+          "filename": "victor_hugo_fr.txt",
+          "path": "wikipedia_articles\\french\\literature\\victor_hugo_fr.txt",
+          "size_bytes": 118280,
+          "size_kb": 115.51
+        }
+      ]
+    },
+    "german": {
+      "computer_science": [
+        {
+          "filename": "algorithmus_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\algorithmus_de.txt",
+          "size_bytes": 24655,
+          "size_kb": 24.08
+        },
+        {
+          "filename": "betriebssystem_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\betriebssystem_de.txt",
+          "size_bytes": 41668,
+          "size_kb": 40.69
+        },
+        {
+          "filename": "computernetzwerk_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\computernetzwerk_de.txt",
+          "size_bytes": 13544,
+          "size_kb": 13.23
+        },
+        {
+          "filename": "datenbank_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\datenbank_de.txt",
+          "size_bytes": 17220,
+          "size_kb": 16.82
+        },
+        {
+          "filename": "informatik_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\informatik_de.txt",
+          "size_bytes": 46029,
+          "size_kb": 44.95
+        },
+        {
+          "filename": "it-sicherheit_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\it-sicherheit_de.txt",
+          "size_bytes": 74535,
+          "size_kb": 72.79
+        },
+        {
+          "filename": "künstliche_intelligenz_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\künstliche_intelligenz_de.txt",
+          "size_bytes": 75159,
+          "size_kb": 73.4
+        },
+        {
+          "filename": "maschinelles_lernen_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\maschinelles_lernen_de.txt",
+          "size_bytes": 36770,
+          "size_kb": 35.91
+        },
+        {
+          "filename": "programmiersprache_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\programmiersprache_de.txt",
+          "size_bytes": 24159,
+          "size_kb": 23.59
+        },
+        {
+          "filename": "softwareentwicklung_de.txt",
+          "path": "wikipedia_articles\\german\\computer_science\\softwareentwicklung_de.txt",
+          "size_bytes": 16302,
+          "size_kb": 15.92
+        }
+      ],
+      "literature": [
+        {
+          "filename": "bertolt_brecht_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\bertolt_brecht_de.txt",
+          "size_bytes": 88247,
+          "size_kb": 86.18
+        },
+        {
+          "filename": "deutsche_literatur_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\deutsche_literatur_de.txt",
+          "size_bytes": 121722,
+          "size_kb": 118.87
+        },
+        {
+          "filename": "franz_kafka_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\franz_kafka_de.txt",
+          "size_bytes": 99301,
+          "size_kb": 96.97
+        },
+        {
+          "filename": "friedrich_dürrenmatt_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\friedrich_dürrenmatt_de.txt",
+          "size_bytes": 40337,
+          "size_kb": 39.39
+        },
+        {
+          "filename": "friedrich_schiller_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\friedrich_schiller_de.txt",
+          "size_bytes": 78763,
+          "size_kb": 76.92
+        },
+        {
+          "filename": "günter_grass_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\günter_grass_de.txt",
+          "size_bytes": 61594,
+          "size_kb": 60.15
+        },
+        {
+          "filename": "heinrich_heine_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\heinrich_heine_de.txt",
+          "size_bytes": 120992,
+          "size_kb": 118.16
+        },
+        {
+          "filename": "hermann_hesse_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\hermann_hesse_de.txt",
+          "size_bytes": 70271,
+          "size_kb": 68.62
+        },
+        {
+          "filename": "johann_wolfgang_von_goethe_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\johann_wolfgang_von_goethe_de.txt",
+          "size_bytes": 186259,
+          "size_kb": 181.89
+        },
+        {
+          "filename": "thomas_mann_de.txt",
+          "path": "wikipedia_articles\\german\\literature\\thomas_mann_de.txt",
+          "size_bytes": 79167,
+          "size_kb": 77.31
+        }
+      ]
+    }
+  }
+}

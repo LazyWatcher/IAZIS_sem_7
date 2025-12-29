@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\künstliche_intelligenz_de.txt
+Язык: german
+Заголовок: Künstliche Intelligenz
+URL: https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:40
+Длина текста: 73791 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Künstliche Intelligenz (KI), englisch artificial intelligence, daher auch artifizielle Intelligenz (AI), bezeichnet im weitesten Sinne computerbasierte Systeme, die ihre (virtuelle oder reale) Umgebung analysieren können, um daraus relevante Informationen zu abstrahieren, welche sie nutzen, um Entscheidungen zu treffen, die ihre Chance erhöhen, definierte Ziele zu erreichen. Dazu gehören die Fähigkeiten Umgebungsdaten wahrzunehmen, d. h. auf Stimuli zu reagieren Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und zu handeln Ziele zu definieren, zu erreichen und zu modifizieren Autonom Entscheidungen zu treffen. Begriffsherkunft Der Begriff artificial intelligence (künstliche Intelligenz) wurde 1955 geprägt von dem US-amerikanischen Informatiker John McCarthy im Rahmen eines Förderantrags an die Rockefeller-Stiftung für das Dartmouth Summer Research Project on Artificial Intelligence, einem Forschungsprojekt, bei dem sich im Sommer 1956 eine Gruppe von zehn Wissenschaftlern über ca. Je nach Sichtweise wird die künstliche Intelligenz in Industrie, Forschung und Politik entweder über die zu erzielenden Anwendungen oder den Blick auf die wissenschaftlichen Grundlagen definiert: Die Definitionen für künstliche Intelligenz lassen sich nach Stuart J. Russell und Peter Norvig in vier Kategorien einteilen: Nachbildung von menschlichem Denken Nachbildung von rationalem Denken Nachbildung von menschlichem Verhalten Nachbildung von rationalem Verhalten EU-rechtliche Definition Die KI-Verordnung der EU definiert in Artikel 3 (Begriffsbestimmungen) ein „KI-System“ wie folgt: Diese Definition wird im Erwägungsgrund 12 etwas allgemeinverständlicher eingeordnet. B. von IT- und Compliance-Stakeholdern erarbeitet, stehen im Kontext vorhandener Informationssicherheits-, Compliance- und/oder Risikomanagement-Systeme und orientieren sich - Stand Dezember 2024 - beispielsweise an folgenden Definitionen: Ein System wird als „KI-System“ eingestuft, wenn es mindestens eine Komponente enthält, deren Ausgaben auf Verarbeitungs- bzw. Entscheidungsmustern beruhen, die es zuvor in einer Lernphase auf Basis großer Datenmengen selbst generiert hat. (Stand Dezember 2024) Der Vorteil der vorgenannten Annäherungen liegt darin, dass sie die Unschärfen des „Intelligenz“-Begriffs sowie Interpretationsspielräume der o. g. EU-Verordnung vermeiden, indem ausschließlich bekannte technische Aspekte der in Frage kommenden Systeme zugrunde gelegt werden: Für jeden Quellcode (White Box) kann eine eindeutige Aussage abgeleitet werden, ob eine Lernfähigkeit (z. Ein Navigationssystem ist kein KI-System, wenn es die schnellste Route aufgrund unveränderlicher*, mindestens dem Hersteller/Programmierer bekannter Algorithmen und einer zuvor nach ebenso bekannten Regeln optimierten, unveränderlichen* Datenbank ermittelt. Die philosophische Interpretation dieser Unterteilung umfasst zwei Auffassungen: Schwache KI kann handeln (etwa autonomes Fahren), jedoch ohne Bewusstsein; Vertreter der starken KI hingegen halten ein künstliches Bewusstsein für möglich. Wichtige Tagungen sind die International Joint Conference on Artificial Intelligence (IJCAI), die seit 1969 stattfindet und die seit 1982 von der Europäischen Vereinigung für künstliche Intelligenz (EurAI) organisierte European Conference on Artificial Intelligence (ECAI). Seit der Begriffsprägung im Jahre 1955 hat sich eine Reihe relativ selbständiger Teildisziplinen herausgebildet: Mustererkennung, wozu auch Spracherkennung und Handschrifterkennung zählen; Software-Agent Wissensmodellierung einschließlich Logischer Programmierung und Inferenzmaschinen; Expertensysteme, Frage-Antwort-Systeme und Chatbots; Maschinelles Lernen; Künstliche neuronale Netze und Deep Learning; Computer Vision; Robotik; und Universelle Spieleprogramme.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+intelligence, film, roboter, fähigkeit, prozent, könne, androiden, ki-system, trek, us-amerikanischen, ki-systeme, veröffentlicht, fernsehserie, maschinelles, ki-systemen, regulierung, neuronalen, turing-test, schmidhuber, menschheit
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • ki-system
+  • ki-systeme
+  • ki-systemen
+
+Общие понятия:
+  • film
+  • könne
+  • trek
+
+Специфические термины:
+  • intelligence
+  • roboter
+  • fähigkeit
+  • prozent
+  • androiden
+  • us-amerikanischen
+  • veröffentlicht
+  • fernsehserie
+  • maschinelles
+  • regulierung
+  • neuronalen
+  • turing-test
+  • schmidhuber
+  • menschheit
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:56
+============================================================

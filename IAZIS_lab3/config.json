@@ -1,0 +1,58 @@
+{
+  "system": {
+    "name": "Automatic Document Summarization System",
+    "version": "1.0",
+    "author": "BSUIR Student",
+    "lab_number": 9,
+    "variant": 2
+  },
+  "languages": {
+    "primary": [
+      "french",
+      "german"
+    ],
+    "stopwords": {
+      "french": [
+        "stopwords_fr.txt"
+      ],
+      "german": [
+        "stopwords_de.txt"
+      ]
+    }
+  },
+  "directories": {
+    "input": "wikipedia_articles",
+    "output": "summarization_results",
+    "reports": "reports"
+  },
+  "summarization": {
+    "algorithm": "sentence_extraction",
+    "max_sentences": 10,
+    "min_sentence_length": 5,
+    "use_tfidf": true,
+    "use_position_scoring": true,
+    "keywords_count": 20
+  },
+  "wikipedia": {
+    "user_agent": "DocumentSummarizationBot/1.0",
+    "rate_limit_delay": 0.5,
+    "min_article_length": 500
+  },
+  "categories": {
+    "computer_science": [
+      "Informatique",
+      "Algorithmique",
+      "Programmation",
+      "Intelligence Artificielle",
+      "Base de Données"
+    ],
+    "literature": [
+      "Littérature Française",
+      "Victor Hugo",
+      "Molière",
+      "Deutsche Literatur",
+      "Goethe",
+      "Schiller"
+    ]
+  }
+}

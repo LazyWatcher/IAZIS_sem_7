@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\hermann_hesse_de.txt
+Язык: german
+Заголовок: Hermann Hesse
+URL: https://de.wikipedia.org/wiki/Hermann_Hesse
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:07
+Длина текста: 68911 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Hermann Karl Hesse, Pseudonym: Emil Sinclair (* 2. Juli 1877 in Calw; † 9. August 1962 in Montagnola, Schweiz; heimatberechtigt in Basel und Bern), war ein deutsch-schweizerischer Schriftsteller, Dichter und Maler. Als Autodidakt las er vor allem theologische Abhandlungen, griechische Mythologie, Johann Wolfgang von Goethe, Gotthold Ephraim Lessing, Friedrich Schiller und Friedrich Nietzsche. Sein Vater Johannes Hesse, Sohn des Kreisarztes und Staatsrates Carl Hermann Hesse sowie Enkel eines von Lübeck nach Estland ausgewanderten Kaufmanns, lebte in Weißenstein, Gouvernement Estland, im damaligen Russischen Kaiserreich; damit war auch Hermann von Geburt an russischer Staatsangehöriger. So war der Vater sowohl in Württemberg als auch in der Schweiz ein unangepasster Fremder, der nirgendwo Wurzeln schlug und „immer wie ein sehr höflicher, sehr fremder und einsamer, wenig verstandener Gast“ wirkte. Erlebnisse und Begebenheiten aus seiner Kindheit und Jugend in Calw, die Atmosphäre und Abenteuer am Fluss, die Brücke, die Kapelle, die eng aneinander liegenden Häuser, versteckte Winkel und Ecken sowie die Bewohner mit all ihren liebenswerten Eigenarten oder Schrullen hat Hesse in seinen frühen Gerbersau-Erzählungen beschrieben und zum Leben erweckt. „Eine überaus heitere, bei aller Christlichkeit sehr lebensfrohe Welt […] nichts wünschten wir sehnlicher, als auch einmal dieses Estland […] zu sehen, wo das Leben so paradiesisch, so bunt und lustig war.“ Zudem stand Hermann Hesse die umfassende Bibliothek seines gelehrten Großvaters Hermann Gundert mit Werken der Weltliteratur zur Verfügung, die er sich intensiv erschloss. Im Nachsatz fügte er hinzu: „Ich beginne mir Gedanken zu machen, wer in dieser Affaire schwachsinnig ist.“ Er fühlte sich von Gott, den Eltern und der Welt verlassen und sah hinter den starren pietistisch-religiösen Traditionen der Familie nur noch Scheinheiligkeit. Lehre Nachdem er seiner ersten Buchhändlerlehre in Esslingen am Neckar nach drei Tagen entlaufen war, begann Hesse im Frühsommer 1894 für 14 Monate eine Mechanikerlehre in der Turmuhrenfabrik Perrot in Calw. Gleichzeitig bot Basel dem Einzelgänger auch viele Rückzugsmöglichkeiten in privates Erleben bei größeren Fahrten und Wanderungen, die der künstlerischen Selbsterforschung dienten und auf denen er die Fähigkeit, sinnliches Erleben schriftlich niederzulegen, stets neu erprobte. Familiäre Schicksalsschläge Diese Konflikte mit der deutschen Öffentlichkeit waren noch nicht abgeklungen, als Hesse durch eine Folge von Schicksalsschlägen in eine noch tiefere Lebenskrise gestürzt wurde: Tod seines Vaters am 8. März 1916, die schwere Erkrankung (Hirnhautentzündung) seines zu jener Zeit dreijährigen Sohnes Martin und die zerbrechende Ehe mit Maria Bernoulli.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+hesse, hesses, calw, michels, casa, montagnola, demian, gaienhofen, siddhartha, camuzzi, glasperlenspiel, bernoulli, klavier, camenzind, ninon, morgenlandfahrt, goldmund, calwer, fretz, wasmuth
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • hesse
+  • calw
+  • casa
+  • ninon
+  • fretz
+
+Специфические термины:
+  • hesses
+  • michels
+  • montagnola
+  • demian
+  • gaienhofen
+  • siddhartha
+  • camuzzi
+  • glasperlenspiel
+  • bernoulli
+  • klavier
+  • camenzind
+  • morgenlandfahrt
+  • goldmund
+  • calwer
+  • wasmuth
+
+============================================================
+Дата создания реферата: 2025-12-07 12:40:42
+============================================================

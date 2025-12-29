@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\sécurité_informatique_fr.txt
+Язык: french
+Заголовок: Sécurité informatique
+URL: https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:32
+Длина текста: 23675 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+La sécurité des systèmes d’information (SSI), est l’ensemble des moyens techniques, organisationnels, juridiques et humains nécessaires à la mise en place de moyens visant à empêcher l'utilisation non autorisée, le mauvais usage, la modification ou le détournement du système d'information. Une des méthodes les plus connues traitant de l'analyse des risques SSI est la méthode EBIOS Risk Manager. Une des normes les plus connues traitant des systèmes de management de la sécurité de l'information (SMSI) est l’ISO/CEI 27001 (créée en 2005) qui insiste sur la triade disponibilité, intégrité et confidentialité, tout en imposant une démarche d'amélioration continue. La défense en profondeur, tout droit sorti d'une pratique militaire ancienne, et toujours d'actualité aujourd'hui (principe promu par l'ANSSI dès 2001). Les conséquences d'une mauvaise sécurisation peuvent concerner les organisations, mais aussi la vie privée d'une ou plusieurs personnes, notamment par la diffusion d'informations confidentielles comme leurs coordonnées bancaires, leurs situations patrimoniales, leurs codes confidentiels, etc. De manière générale, la préservation des données relatives aux personnes fait l'objet d'obligations légales régies par la Loi Informatique et Libertés. Plus récemment le Parlement européen et le Conseil de l’Union européenne ont adopté en juillet 2016 la directive Network and Information Security (NIS), afin d'améliorer la sécurité des systèmes d'information européen (voir site web de l'ENISA). La CNIL propose un cadre opérationnel pour sécuriser les données à caractère personnel, en lien avec les exigences du RGPD, notamment à travers son guide de la sécurité des données personnelles. La réglementation européenne Digital Operational Resilience Act qui impose des contraintes de sécurité importantes aux entreprises du secteur financier s'applique à partir de janvier 2025. Selon le rapport annuel Data Breach Investigations Report publié par Verizon en 2023, la majorité des incidents de sécurité identifiés dans les organisations impliquent des atteintes à la confidentialité, à l'intégrité ou à la disponibilité des données, souvent en lien avec des erreurs humaines ou des compromissions d’identifiants. Identifier les dommages Quatre types de dommages peuvent affecter le système d'information d'une organisation: Les dommages financiers : Sous forme de dommages directs, c'est l'action de reconstituer des bases de données qui ont disparu, de reconfigurer un parc de postes informatiques ou de réécrire une application, Sous la forme de dommages indirects, c'est le dédommagement des victimes d'un piratage, le vol d'un secret de fabrication ou la perte de marchés commerciaux ; La perte de l'image de marque : Perte directe par la publicité négative faite autour d'une sécurité insuffisante tel que l'hameçonnage, Perte indirecte par la baisse de confiance du public dans une société, par exemple, les techniques répandues de défacement ; Les dommages réglementaires : L'indisponibilité d'un systèmes d'informations peut mettre en défaut l'entité devant ses obligations légales et juridiques ; Les dommages écologiques et/ou Sanitaires : La défaillance d'un système peut provoquer des catastrophes écologiques (ex.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+cei, smsi, actifs, dommages, sécuriser, sécurisation, audit, impose, vulnérabilités, vraisemblance, reprise, ebios, incidents, malveillante, sélectionner, attaque, continuité, sinistre, ssi, finalité
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • cei
+  • smsi
+  • audit
+  • ebios
+  • ssi
+
+Специфические термины:
+  • actifs
+  • dommages
+  • sécuriser
+  • sécurisation
+  • impose
+  • vulnérabilités
+  • vraisemblance
+  • reprise
+  • incidents
+  • malveillante
+  • sélectionner
+  • attaque
+  • continuité
+  • sinistre
+  • finalité
+
+============================================================
+Дата создания реферата: 2025-12-09 20:56:28
+============================================================

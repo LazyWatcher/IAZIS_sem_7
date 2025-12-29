@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\victor_hugo_fr.txt
+Язык: french
+Заголовок: Victor Hugo
+URL: https://fr.wikipedia.org/wiki/Victor_Hugo
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:49
+Длина текста: 113768 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Au théâtre, Victor Hugo s'impose comme un des chefs de file du romantisme français en présentant sa conception du drame romantique dans les préfaces qui introduisent Cromwell en 1827, puis Hernani en 1830, qui sont de véritables manifestes, puis par ses autres œuvres dramatiques, en particulier Lucrèce Borgia en 1833 et Ruy Blas en 1838. Son œuvre multiple comprend aussi des écrits et discours politiques, des récits de voyages, des recueils de notes et de mémoires, des commentaires littéraires, une correspondance abondante, près de quatre mille dessins dont la plupart réalisés à l'encre, ainsi que la conception de décors intérieurs et une contribution à la photographie. Biographie Enfance et jeunesse Victor-Marie Hugo est le fils du général d'Empire Joseph Léopold Sigisbert Hugo, créé comte, selon la tradition familiale, par Joseph Bonaparte, roi d'Espagne, capitaine en garnison dans le Doubs au moment de la naissance de son fils, et de Sophie Trébuchet, issue de la bourgeoisie nantaise. La même année, il est, avec ses frères, pensionnaire dans une institution religieuse de Madrid, le Real Colegio de San Antonio Abad (Escuelas Pías de San Antón (es)). Selon le récit qu'en fait Adèle Foucher, le jury est à deux doigts de lui décerner le prix, mais le titre de son poème (Trois Lustres à peine) suggère trop son jeune âge et l’Académie croit à un canular : il reçoit seulement une mention. Il concourt sans succès les années suivantes mais gagne, à des concours organisés par l'Académie des Jeux floraux de Toulouse, en 1819, un Lys d'or pour La statue de Henri IV et une Amaranthe d'or pour Les Vierges de Verdun, ainsi qu’une Amaranthe d'or en 1820 pour Moïse sur le Nil. Comme l'atteste une conversation avec son fils François-Victor, dès le début de son exil, Hugo prévoyait que celui-ci serait long : Le 16 août, la famille Hugo s'installe dans une maison nommée « Marine Terrace », située dans le sud de l'île, en bord de mer, et y réside jusqu'à la fin de l'exil à Jersey, qui dure trois ans. La Commission générale chargée d'examiner les dossiers, présidée par le ministre de l'Intérieur, est composée de représentants du ministère, de conseillers d'État, et comprend huit parlementaires, tous d'anciennes victimes : quatre sénateurs (Victor Hugo, Jean Massé, Elzéar Pin, Victor Schœlcher) et quatre députés (Louis Greppo, Noël Madier de Montjau, Martin Nadaud et Alexandre Dethou). Victor Hugo choisit de situer ses pièces principalement dans les XVIe et XVIIe siècles, se documente beaucoup avant de commencer à écrire, présente souvent une pièce à trois pôles : le maître, la femme, le laid où se confrontent et se mélangent deux mondes : celui du pouvoir et celui des serviteurs, où les rôles s'inversent (Ruy Blas, serviteur, joue le rôle d'un grand d'Espagne), où le héros se révèle faible et où le monstre a une facette attachante. Cet ensemble permet en outre de percevoir les prémices d'une évolution qui durera toute sa vie : le chrétien convaincu s'y montre peu à peu plus tolérant, son monarchisme qui se fait moins rigide et accorde une place importante à la toute récente épopée napoléonienne ; de plus, loin d'esquiver son double héritage paternel (napoléonien) et maternel (royaliste), le poète s'y confronte et s'applique à mettre en scène les contraires (ce que l'on appelle l'antithèse hugolienne) pour mieux les dépasser : « Les siècles, tour à tour, ces gigantesques frères, Différents par leur sort, semblables en leurs vœux, Trouvent un but pareil par des routes contraires.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+hauteville, drouet, jersey, foucher, victor-hugo, ruy, blas, contemplations, léopoldine, vacquerie, odes, françois-victor, borgia, rhin, lucrèce, tudor, villequier, terrace, meurice, législative
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • ruy
+  • blas
+  • odes
+  • rhin
+  • tudor
+
+Специфические термины:
+  • hauteville
+  • drouet
+  • jersey
+  • foucher
+  • victor-hugo
+  • contemplations
+  • léopoldine
+  • vacquerie
+  • françois-victor
+  • borgia
+  • lucrèce
+  • villequier
+  • terrace
+  • meurice
+  • législative
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:15
+============================================================

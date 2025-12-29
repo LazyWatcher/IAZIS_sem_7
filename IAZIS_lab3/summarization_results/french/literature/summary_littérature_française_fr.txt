@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\littérature_française_fr.txt
+Язык: french
+Заголовок: Littérature française
+URL: https://fr.wikipedia.org/wiki/Litt%C3%A9rature_fran%C3%A7aise
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:48
+Длина текста: 28260 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Elle peut également se référer aux littératures écrites par des citoyens français qui écrivent dans des langues de France telles que le basque, le breton… La littérature écrite en langue française par les personnes d'autres pays tels que la Belgique, la Suisse, le Canada, le Sénégal, l'Algérie, le Maroc… se réfère à la littérature francophone. Les premiers grands textes de la littérature française datent de la fin du XIe siècle, époque de développement de l'agriculture et d'expansion démographique après des périodes d'invasions, d'anarchie et d'épidémies. Les deux sentiments dominants, passion guerrière et sentiment religieux, inspirent les poèmes sur la vie des saints (comme la Vie de saint Alexis) et les chansons de geste. Les chansons de geste sont de longs poèmes comportant des milliers de vers destinés à être chantés en public par des jongleurs, composés en langue d'oïl par des trouvères. Elles relatent, sous une forme épique mêlant légendes et faits historiques, des exploits guerriers passés, et mettent en valeur l'idéal chevaleresque. La littérature courtoise La littérature courtoise, apparue dans le sillage de la renaissance du XIIe siècle, a pour thème principal le culte de l'amour unique, parfait et souvent malheureux. Le reste du poème, continué par Jean de Meung contient au contraire des passages d'une étonnante misogynie, qui seront attaqués au XIVe siècle par la poétesse Christine de Pizan. Les chroniques historiques Les premières chroniques historiques rédigées en français sont des récits des croisades datant du XIIe siècle, comme ceux de Geoffroi de Villehardouin et de Robert de Clari. Au XVIe siècle Les principes de l'humanisme vont marquer profondément la littérature : retour aux textes anciens (grecs, latins et hébreux), désir de connaissance, retour à des philosophies antiques négligées au Moyen Âge (néo-platonisme, stoïcisme, épicurisme, notamment), renouvellement des formes et des thèmes en tentant de retrouver la "pureté" antique. La seule comparaison est à chercher du côté de Louis-Ferdinand Céline, dans le rôle non négligeable qu'il a joué dans la remise en cause d'une narration trop policée et loin de la vie, par une approche syntaxique et sémantique au plus proche de la réalité sensible et la création d'une langue littéraire mêlée à un argot fantaisiste dans le but que la phrase évoque, touche le lecteur plus qu'elle ne dit, qu'elle n'explique ; aussi, Céline s'est illustré, à l'instar de Proust, comme l'un des plus grands écrivains français de ce siècle et a marqué nombre d'écrivains, du père de San-Antonio à Sartre, Beauvoir ou Camus en passant par les écrivains anglo-saxons (Burroughs, Miller, etc.).
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+autofiction, minimalisme, xviiie, courtois, ludique, https, chevaleresque, courtoise, xvie, delerm, turc, basque, sainte, xie, saints, légendes, tristan, xiiie, christine, mentalités
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • https
+  • xvie
+  • turc
+  • xie
+  • xiiie
+
+Специфические термины:
+  • autofiction
+  • minimalisme
+  • xviiie
+  • courtois
+  • ludique
+  • chevaleresque
+  • courtoise
+  • delerm
+  • basque
+  • sainte
+  • saints
+  • légendes
+  • tristan
+  • christine
+  • mentalités
+
+============================================================
+Дата создания реферата: 2025-12-09 20:59:19
+============================================================

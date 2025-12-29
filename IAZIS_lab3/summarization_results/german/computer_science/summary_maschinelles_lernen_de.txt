@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\maschinelles_lernen_de.txt
+Язык: german
+Заголовок: Maschinelles Lernen
+URL: https://de.wikipedia.org/wiki/Maschinelles_Lernen
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:47
+Длина текста: 36070 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Dabei passt der Lernalgorithmus das Modell so an, dass es von den Beispieldaten auf neue Fälle verallgemeinern kann. Aus dem weiten Spektrum möglicher Anwendungen seien hier genannt: Spamfilter, automatisierte Diagnose­verfahren, Erkennung von Kreditkartenbetrug, Aktienmarkt­analysen, Klassifikation von Nukleotidsequenzen, Sprach- und Texterkennung. Allgemein formuliert lernt ein Lernalgorithmus beim Training aus den Beispieldaten eine Funktion, die auch für neue, nicht zuvor gelernte Dateneingaben eine korrekte Ausgabe erzeugt. Die Algorithmen durchsuchen die Beispieldaten beispielsweise nach Kriterien für die Einteilung in unterschiedliche Cluster oder nach korrelierenden Merkmalen, die zusammengefasst werden können, um die Daten zu vereinfachen. 1943 beschreiben Warren McCulloch und Walter Pitts ein Modell für ein künstliches Neuron, das später als McCulloch-Pitts-Zelle bekannt wird. 1969 weisen Marvin Minsky und Seymour Papert nach, dass man mit Netzen, die nur aus einer Schicht von künstlichen Neuronen bestehen, nicht jede gegebene Funktion berechnen kann, weil man damit keine XOR-Verknüpfung (exklusives Oder) modellieren kann. In den 1990ern gibt es große Fortschritte durch die Entwicklung von Support Vector Machines (SVMs) und rekurrenten neuronalen Netzen (RNNs). 2001 veröffentlicht Leo Breiman die Grundlagen für ein als Random Forest bekanntes Verfahren, das eine Gruppe von Entscheidungsbäumen trainiert. Zwischen 2009 und 2012 gewannen die rekurrenten bzw. tiefen vorwärtsgerichteten neuronalen Netze der Forschungsgruppe von Jürgen Schmidhuber am Schweizer KI-Labor IDSIA eine Serie von acht internationalen Wettbewerben in den Bereichen Mustererkennung und maschinelles Lernen. Für Beiträge zu neuronalen Netzwerken und Deep Learning erhielten Yann LeCun, Yoshua Bengio und Geoffrey Hinton 2018 den Turing Award und Hinton zusammen mit John Hopfield 2024 den Nobelpreis für Physik.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+beispieldaten, lernalgorithmus, parameter, regression, neuronen, gelernten, support, vector, überwachtes, knn, statistisches, passt, schicht, entscheidungsbäumen, random, data-mining, unüberwachtes, datensätzen, hyperebene, aktivierungsfunktion
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • lernalgorithmus
+  • data-mining
+
+Общие понятия:
+  • knn
+  • passt
+
+Специфические термины:
+  • beispieldaten
+  • parameter
+  • regression
+  • neuronen
+  • gelernten
+  • support
+  • vector
+  • überwachtes
+  • statistisches
+  • schicht
+  • entscheidungsbäumen
+  • random
+  • unüberwachtes
+  • datensätzen
+  • hyperebene
+  • aktivierungsfunktion
+
+============================================================
+Дата создания реферата: 2025-12-07 12:37:00
+============================================================

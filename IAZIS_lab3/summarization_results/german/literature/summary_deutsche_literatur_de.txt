@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\deutsche_literatur_de.txt
+Язык: german
+Заголовок: Deutsche Literatur
+URL: https://de.wikipedia.org/wiki/Deutschsprachige_Literatur
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:00
+Длина текста: 119641 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Nach einem engen Literaturbegriff werden deutschsprachige Texte, welche den Großgattungen Dramatik, Epik und Lyrik angehören sowie sprachlich ausgewählte Selbstzeugnisse, darunter Autobiografien, Memoiren, Tagebücher, Briefe, als auch Essays, literarische Reisebücher, Werke der Philosophie wie Geschichtsschreibung und Reden mit stilistischer Brilianz, der deutschsprachigen Literatur zugerechnet. Dabei handelt es sich zunächst nicht um Literatur im eigentlichen Sinn, also Dichtung, sondern um althochdeutsche Glossare zu lateinischen Schriften und Übersetzungsarbeiten aus dem Lateinischen in die Volkssprache, die als Missionierungs­hilfe und als Verständnishilfe für lateinische Texte in Klöstern entstanden. Von Einhard, dem Biografen Karls des Großen, weiß man, dass an Karls Hof Lieder gesammelt wurden, die die Heldentaten früherer Könige besungen haben, diese sind jedoch nicht überliefert. Bekannte Vertreter der nächsten Generation waren Conrad Celtis, der in Basel tätige Erasmus von Rotterdam und Johannes Reuchlin, allerdings schrieben sie ihre Werke meist lateinisch und hatten außerhalb der Gelehrtenwelt und gesellschaftlichen Eliten zunächst wenig Einfluss. Während in Italien Dichter wie Ludovico Ariosto und Michelangelo, der Essayist Leonardo da Vinci, in Frankreich Erzähler wie François Rabelais und der Essayist Michel de Montaigne sowie in England Thomas Morus wirkten, blieben die deutschen Autoren zumeist älteren oder trivialen Genres verhaftet. Religiöse Lyrik schrieben Friedrich Spee von Langenfeld (1591–1635), die Kirchenlieder­dichter Paul Gerhardt (1607–1676), Johann Rist (1607–1667), Angelus Silesius (1624–1677) und der Mystiker Jakob Böhme (1575–1624). In ihm radikalisieren sich die petrarkischen wie humanistischen Ideale Flemings zu einem neuen, subjektiven Dichterbild wie die bereits von Fleming eingeläutete Abkehr vom sogenannten Schwulststil durch eine ungekünstelte, scheinbar unverstellte Sprache, die seine Gedichte zu Vorläufern des Sturm und Drangs werden lassen. Als ein Fortläufer der galanten Poesie gehört die Rokoko-Dichtung Friedrich Hagedorns, von Ewald Christian von Kleist, Salomon Gessner und Johann Wilhelm Ludwig Gleim zur in der Gegenwart nahezu vergessenen Lyrik. Ausgehend vom empfindsamen Briefroman, wie er in England von Samuel Richardson mit Pamela (1740) und später Clarissa (1748) vorgelegt wurde, verfasste Goethe mit der Dreiecksgeschichte zwischen Werther, Lotte und ihrem Verlobten wie späteren Gatten Albert, die schließlich im Selbstmord Werthers endet, nicht nur einen der bedeutendsten Romane der deutschen Literatur, sondern bis zum Schaffen des Romantikers E.T.A. Anders als in Romanen der Empfindsamkeit wie Gellerts Leben der schwedischen Gräfin von G***, darin die Gräfin sich in ihrem Schicksal einfügt, erreicht Goethe durch die Wahl des Briefromans, statt des biografischen Berichts wie aber auch dem Aufzeigen der Konsequenz des schwärmerischen Verhaltens Werthers eine Ernsthaftigkeit und Finalität, wovor Vorgänger zurückgeschreckt haben.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+dichtung, johann, realismus, symbolismus, gleichfalls, romantik, naturalismus, klassik, sachlichkeit, novelle, hauptwerk, rilke, dekadenzliteratur, orientierten, goethes, neuromantik, mittelalter, bedeutenden, frühwerk, hofmannsthal
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • rilke
+
+Специфические термины:
+  • dichtung
+  • johann
+  • realismus
+  • symbolismus
+  • gleichfalls
+  • romantik
+  • naturalismus
+  • klassik
+  • sachlichkeit
+  • novelle
+  • hauptwerk
+  • dekadenzliteratur
+  • orientierten
+  • goethes
+  • neuromantik
+  • mittelalter
+  • bedeutenden
+  • frühwerk
+  • hofmannsthal
+
+============================================================
+Дата создания реферата: 2025-12-07 12:38:07
+============================================================

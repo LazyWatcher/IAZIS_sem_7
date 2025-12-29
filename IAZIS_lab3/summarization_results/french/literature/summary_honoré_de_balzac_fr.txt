@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\honoré_de_balzac_fr.txt
+Язык: french
+Заголовок: Honoré de Balzac
+URL: https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:54
+Длина текста: 142529 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Romancier, critique d'art, dramaturge, critique littéraire, essayiste, journaliste et imprimeur, il a laissé l'une des plus imposantes œuvres romanesques de la littérature française, avec plus de quatre-vingt-dix romans et nouvelles parus de 1829 à 1855, réunis sous le titre de La Comédie humaine. Travailleur forcené, fragilisant par ses excès une santé précaire, endetté à la suite d'investissements hasardeux et d'excès somptuaires, fuyant ses créanciers sous de faux noms dans différentes demeures, Balzac a aussi eu de nombreuses liaisons amoureuses, avant d'épouser en 1850 la comtesse Hańska, qu'il avait courtisée pendant dix-sept ans. Biographie Enfance et années de formation Honoré de Balzac est le fils de Bernard-François Balzac (1746-1829), secrétaire au Conseil du roi, directeur des vivres et des approvisionnements aux Armées, adjoint au maire et administrateur de l'hospice général de Tours, et d'Anne-Charlotte-Laure Sallambier (1778-1854), issue d'une famille parisienne de passementiers du quartier du Marais. Au cours des six ans qu'il y passe, sans jamais rentrer chez lui, même pour les vacances, le jeune Balzac dévore des livres de tout genre : la lecture était devenue pour lui « une espèce de faim que rien ne pouvait assouvir […] son œil embrassait sept à huit lignes d'un coup et son esprit en appréciait le sens avec une vélocité pareille à celle de son esprit ». Dans Facino Cane, il mentionne même le nom de la rue et évoque le plaisir qu'il prenait à s'imaginer la vie des autres : « En entendant ces gens, je pouvais épouser leur vie, je me sentais leurs guenilles sur le dos, je marchais les pieds dans leurs souliers percés ; leurs désirs, leurs besoins, tout passait dans mon âme, ou mon âme passait dans la leur. Sous le titre Œuvres de l'abbé Savonati, il réunit d'abord deux textes, Agathise (entièrement disparu) et Falthurne, récit « dont l'action se situait dans l'Italie vers le temps de Canossa […], attribué à un abbé imaginaire, Savonati, et « traduit » de l'italien par M. Matricante, instituteur au primaire. Dans une lettre à sa sœur Laure, datée de juillet 1821, il se fait fort de produire un roman par mois : « Dans peu, Lord R'hoone sera l'homme à la mode, l'auteur le plus fécond, le plus aimable, et les dames l'aimeront comme la prunelle de leurs yeux, et le reste ; et alors, le petit brisquet d'Honoré arrivera en équipage, la tête haute, le regard fier et le gousset plein. Balzac, toutefois, les désavoue et les proscrira de l’édition de ses œuvres complètes, tout en les republiant en 1837 sous le titre Œuvres complètes de Horace de Saint-Aubin, et en faisant compléter certains ouvrages par des collaborateurs, notamment le marquis de Belloy et le comte de Gramont. Profondément influencé par les théories de Cuvier et de Geoffroy Saint-Hilaire, il part du principe qu'il existe « des Espèces Sociales comme il y a des Espèces Zoologiques » et que les premières sont beaucoup plus variées que les secondes, car « les habitudes, les vêtements, les paroles, les demeures d’un prince, d’un banquier, d’un artiste, d’un bourgeois, d’un prêtre et d’un pauvre sont entièrement dissemblables et changent au gré des civilisations ». À l'époque où, muni de l'argent que lui a confié Mme Hańska, il court les antiquaires à la recherche de tableaux et d'objets d'art pour meubler fastueusement leur demeure commune (voir ci-dessous « La Folie Beaujon ou le dernier palais »), il dessine le personnage du cousin Pons, un collectionneur passionné qui « pendant ses courses à travers Paris, avait trouvé pour dix francs ce qui se paye aujourd’hui mille à douze cents francs » et avait ainsi amassé une collection exceptionnelle.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+hańska, duchesse, comtesse, laure, opéra, parisienne, berny, bourgeois, castries, saché, échapper, chronique, amie, zulma, catholique, guise, ouvriers, horace, comte, séraphîta
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • laure
+  • opéra
+  • berny
+  • saché
+  • amie
+  • zulma
+  • guise
+  • comte
+
+Специфические термины:
+  • hańska
+  • duchesse
+  • comtesse
+  • parisienne
+  • bourgeois
+  • castries
+  • échapper
+  • chronique
+  • catholique
+  • ouvriers
+  • horace
+  • séraphîta
+
+============================================================
+Дата создания реферата: 2025-12-09 20:58:39
+============================================================

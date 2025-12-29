@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\günter_grass_de.txt
+Язык: german
+Заголовок: Günter Grass
+URL: https://de.wikipedia.org/wiki/G%C3%BCnter_Grass
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:13
+Длина текста: 60097 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Günter Wilhelm Grass (* 16. Oktober 1927 in Danzig-Langfuhr, Freie Stadt Danzig, als Günter Wilhelm Graß; † 13. April 2015 in Lübeck) war ein deutscher Schriftsteller, Bildhauer, Maler und Grafiker. Lebenslauf Herkunft und Familie Günter Grass wurde als erster Sohn des protestantischen Lebensmittelhändlers Wilhelm (Willy) Grass und dessen Frau Helene, geb. In Beim Häuten der Zwiebel legte Grass offen, dass er sich freiwillig zur Wehrmacht gemeldet habe und daraufhin im Alter von 17 Jahren zur Waffen-SS eingezogen worden sei. Seinen Lebensunterhalt verdiente er, indem er als Steinmetz „beim Wiederaufbau Düsseldorfs, bei der Restauration der großen Bankpaläste“ mitarbeitete, am Waschbrett als Jazzmusiker gemeinsam mit Horst Geldmacher, außerdem zusammen mit dem später bekannt gewordenen Maler Herbert Zangs als Türsteher im Lokal Zum Csikós in der Düsseldorfer Altstadt. Die Schauspielerin Helene Grass, geboren 1974, ist die gemeinsame Tochter mit der Architektin und Malerin Veronika Schröter (1939–2012), mit der Grass in den 1970er-Jahren eine mehrjährige Beziehung hatte. Es handelte sich um den Vater der späteren Journalistin und Politologin Ute Scheub, der in Grass’ Tagebuch einer Schnecke in die Figur des „Manfred Augst“ eingeht. Laut Begründungsschrift des Komitees für seinen Nobelpreis wurde er dafür geehrt, dass er „in munterschwarzen Fabeln das vergessene Gesicht der Geschichte gezeichnet hat.“ Rebecca Braun konstatiert bei den literarischen Werken und politischen Schriften nach 1970 eine durchgehende Tendenz von Grass, seine dauerhafte Präsenz in der medialen Öffentlichkeit mit seinen in seinen literarischen Werken bewusst eingefügten Selbstbildern abzustimmen. Stuart Taberners konstatiert im Cambridge Companion to Günter Grass eine durchgehend demokratische Tendenz eines Gesamtwerks, das von Grass’ Abkehr von seiner jugendlichen Begeisterung für den Nationalsozialismus angetrieben war. Als öffentliche Figur übertrug er seine persönliche Erfahrung auf das Versagen der ganzen Nation, vermied dabei aber eindeutige und einseitige Festlegungen, wörtlich As with all of Grass’s work, and testament to the essentially democratic tenor of his literary texts, artistic endeavours, essays and speeches, Peeling the Onion tenders an invitation to its reader to think in shades of grey rather than in black and white. Charlotte Knobloch (ehemalige Präsidentin des Zentralrates der Juden in Deutschland) sah das Bekenntnis von Grass als PR-Maßnahme an und sagte: „Die Tatsache, dass dieses späte Geständnis so kurz vor der Veröffentlichung seines neuen Buches kommt, legt […] die Vermutung nahe, dass es sich dabei um eine PR-Maßnahme zur Vermarktung des Werkes handelt.“ Der Journalist und Hitler-Biograf Joachim Fest äußerte sein Unverständnis, „wie sich jemand 60 Jahre lang ständig zum schlechten Gewissen der Nation erheben kann, gerade in Nazi-Fragen – und dann erst bekennt, dass er selbst tief verstrickt war“.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+grass, brandt, bremen, waffen-ss, schlüter, danzig, butt, kai, neuwied, willy, spd, häuten, zwiebel, spiegel-bestsellerliste, redaktion, ndr, ute, rättin, lübecker, behlendorf
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • grass
+  • butt
+  • kai
+  • willy
+  • spd
+  • ndr
+  • ute
+
+Специфические термины:
+  • brandt
+  • bremen
+  • waffen-ss
+  • schlüter
+  • danzig
+  • neuwied
+  • häuten
+  • zwiebel
+  • spiegel-bestsellerliste
+  • redaktion
+  • rättin
+  • lübecker
+  • behlendorf
+
+============================================================
+Дата создания реферата: 2025-12-07 12:39:33
+============================================================

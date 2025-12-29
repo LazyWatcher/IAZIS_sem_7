@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\langage_de_programmation_fr.txt
+Язык: french
+Заголовок: Langage de programmation
+URL: https://fr.wikipedia.org/wiki/Langage_de_programmation
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:35
+Длина текста: 31514 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+D'une manière similaire à une langue naturelle, il est composé d'un alphabet, d'un vocabulaire, de règles de syntaxe, de significations, mais aussi d'un environnement de traduction censé rendre sa syntaxe compréhensible par la machine. Ils servent de moyens de communication par lesquels le programmeur communique avec l'ordinateur, mais aussi avec d'autres programmeurs ; les programmes étant d'ordinaire écrits, lus, compris et modifiés par une équipe de programmeurs. Un compilateur est un programme informatique qui transforme dans un premier temps un code source écrit dans un langage de programmation donné en un code cible qui pourra être directement exécuté par un ordinateur, à savoir un programme en langage machine ou en code intermédiaire, tandis que l’interprète réalise cette traduction « à la volée ». La possibilité d'écriture abstraite libère l'esprit du programmeur d'un travail superflu, notamment de prise en compte des spécificités du matériel informatique, et lui permet ainsi de se concentrer sur des problèmes plus avancés. Sous un angle théorique, tout langage informatique peut être qualifié de langage de programmation s'il est Turing-complet, c'est-à-dire qu'il permet de représenter toutes les fonctions calculables au sens de Turing et Church (en admettant néanmoins pour exception à la théorie que la mémoire des ordinateurs n'est pas un espace infini). L'instruction peut être mnémotechnique ou uniquement symbolique comme quand elle est représentée par des symboles d'opérations tels que des opérateurs arithmétiques (« + » et « - ») ou booléens (&& pour le et logique par exemple). L’alphabet L'alphabet des langages de programmation est basé sur les normes courantes comme ASCII, qui comporte les lettres de A à Z sans accent, des chiffres et des symboles, ANSI ou Unicode pour la plupart des langages modernes (dans lesquels l'utilisation se limite en général aux chaînes de caractères littérales et aux commentaires, avec quelques exceptions notables comme C♯ qui autorisent également les identifiants unicode). La plupart des langages de programmation peuvent prévoir des éléments de structure complémentaires, des méthodes procédurales, des définitions temporaires et variables ainsi que des identifiants : Les commentaires Les commentaires sont des textes qui ne seront pas traduits. Une déclaration Une phrase de programme qui sert à renseigner au traducteur (compilateur, interpréteur...) les noms et les caractéristiques des éléments du programme tels que des variables, des procédures, de types, etc. Des vérifications sont effectuées au moment de la compilation ou lors de l'exécution du programme, pour assurer que les opérations du programme sont possibles avec les types de données qui sont utilisés. Des langages tels que Ruby et Scala supportent plusieurs paradigmes dont le paradigme fonctionnel, tandis qu'Haskell ne supporte que le paradigme fonctionnel et OCaml privilégie le paradigme fonctionnel qu'il partage avec le paradigme objet et une petite dose d'impératif.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+fonctionnel, runtime, paradigmes, java, traducteur, traduit, exécuté, instruction, impératif, identifiants, threads, événementiel, liaison, serveur, arduino, modifiés, avènement, apprécient, quelque, moment
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • java
+
+Специфические термины:
+  • fonctionnel
+  • runtime
+  • paradigmes
+  • traducteur
+  • traduit
+  • exécuté
+  • instruction
+  • impératif
+  • identifiants
+  • threads
+  • événementiel
+  • liaison
+  • serveur
+  • arduino
+  • modifiés
+  • avènement
+  • apprécient
+  • quelque
+  • moment
+
+============================================================
+Дата создания реферата: 2025-12-09 20:56:02
+============================================================

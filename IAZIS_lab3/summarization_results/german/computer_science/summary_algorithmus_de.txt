@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\algorithmus_de.txt
+Язык: german
+Заголовок: Algorithmus
+URL: https://de.wikipedia.org/wiki/Algorithmus
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:38
+Длина текста: 24005 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Ein Algorithmus (benannt nach dem Mathematiker und Universalgelehrten al-Chwarizmi, von arabisch: الخوارزمی al-Ḫwārizmī, deutsch ‚der Choresmier‘) ist eine eindeutige Handlungsvorschrift zur Lösung eines Problems oder einer Klasse von Problemen. Algorithmen bestehen aus endlich vielen, wohldefinierten Einzelschritten. Damit können sie zur Ausführung in ein Computerprogramm implementiert, aber auch in menschlicher Sprache formuliert werden. Bei der Problemlösung wird eine bestimmte Eingabe in eine bestimmte Ausgabe überführt. Definition Ein Algorithmus ist eine klare, endliche Abfolge von Anweisungen, die ein Problem löst oder eine Aufgabe ausführt. Um dies jedoch mit mathematischer Strenge zu definieren, benötigt man ein mathematisches Modell, welches beschreibt, wie mathematische Funktionen eine Eingabe in eine Ausgabe umwandeln, sogenannte Berechenbarkeitsmodelle. Das Referenz-Modell ist die Turingmaschine. Turingmaschinen und Algorithmusbegriff Der Mangel an mathematischer Genauigkeit des Begriffs Algorithmus störte viele Mathematiker und Logiker des 19. und 20. Jahrhunderts, weswegen in der ersten Hälfte des 20. Jahrhunderts eine ganze Reihe von Ansätzen entwickelt wurde, die zu einer genauen Definition führen sollten. Eine zentrale Rolle nimmt hier der Begriff der Turingmaschine von Alan Turing ein. Weitere Formalisierungen des Berechenbarkeitsbegriffs sind die Registermaschinen, der Lambda-Kalkül (Alonzo Church), rekursive Funktionen, Chomsky-Grammatiken (siehe Chomsky-Hierarchie) und Markow-Algorithmen.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+algorithmus, benannt, mathematiker, universalgelehrten, al-chwarizmi, arabisch, الخوارزمی, al-ḫwārizmī, deutsch, choresmier, eindeutige, handlungsvorschrift, lösung, problems, klasse, problemen, algorithmen, bestehen, endlich, vielen
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • algorithmus
+  • algorithmen
+
+Специфические термины:
+  • benannt
+  • mathematiker
+  • universalgelehrten
+  • al-chwarizmi
+  • arabisch
+  • الخوارزمی
+  • al-ḫwārizmī
+  • deutsch
+  • choresmier
+  • eindeutige
+  • handlungsvorschrift
+  • lösung
+  • problems
+  • klasse
+  • problemen
+  • bestehen
+  • endlich
+  • vielen
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:17
+============================================================

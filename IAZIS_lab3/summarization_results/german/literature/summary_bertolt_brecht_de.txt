@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\bertolt_brecht_de.txt
+Язык: german
+Заголовок: Bertolt Brecht
+URL: https://de.wikipedia.org/wiki/Bertolt_Brecht
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:09
+Длина текста: 86538 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Bertolt Brecht (Künstlername seit Juli 1916; auch Bert Brecht), eigentlich Eugen Berthold Friedrich Brecht (* 10. Februar 1898 in Augsburg; † 14. August 1956 in Ost-Berlin), war ein einflussreicher deutscher Dramatiker, Librettist, Epiker und Lyriker des 20. Jahrhunderts. Leben Kindheit und Jugend: Augsburg 1898 bis 1917 Eltern und soziales Umfeld Eugen Brecht, wie der junge Eugen Berthold Friedrich Brecht gerufen wurde, wuchs in gesicherten wirtschaftlichen und sozialen Verhältnissen auf. Brechts Mutter Wilhelmine Friederike Sophie, genannt Sophie (1871–1920), stammte aus dem oberschwäbischen Roßberg bei Wolfegg und kam aus einem kleinen Beamtenhaushalt; ihr Vater Josef Friedrich Brezing (1842–1922) war dort Stationsvorstand, ihre Mutter Friederike, geb. Ab September 1900 bewohnte die Familie, Berthold Friedrich und Sophie Brecht sowie Eugen und der jüngere Bruder Walter, zwei Wohnungen mit zusammen sechs Zimmern in der Augsburger Klaucke-Vorstadt, auch „Bleich“-Viertel genannt. Nach dem Beginn des Ersten Weltkriegs 1914 gelang es ihm, eine Reihe von (meist patriotischen) Reportagen von der Heimatfront, Gedichten, Prosatexten und Rezensionen in lokalen und regionalen Medien unterzubringen: die von ihm so betitelten „Augsburger Kriegsbriefe“ in der München-Augsburger Abendzeitung, andere Texte in den Augsburger Neuesten Nachrichten und insbesondere deren literarischer Beilage, Der Erzähler. Wegen eines von Brecht 1915 geschriebenen, nicht dem erwarteten Todes-Pathos entsprechenden, Aufsatzes über den Horaz-Vers Dulce et decorum est pro patria mori („Süß und ehrenvoll ist’s, fürs Vaterland zu sterben“) soll er beinahe des Gymnasiums verwiesen worden sein. Caspar Neher (Cas), den Brecht aus der Schule kannte, blieb bis zu Brechts Tod als Grafiker und vor allem Bühnenbildner ein enger Mitarbeiter; auch die Freundschaften zu Georg Pfanzelt (den Brecht in der Hauspostille als Orge verewigte) und Hanns Otto Münsterer erwiesen sich (mit Unterbrechungen) als dauerhaft. Er führte parallele Verhandlungen mit dem Kiepenheuer-Verlag (über Hermann Kasack, mit dem Ergebnis eines Generalvertrags und einer vorläufigen monatlichen Rente), dem Verlag Erich Reiß (vermittelt durch Klabund) und dem Verlag Paul Cassirer, lernte Schauspieler wie Alexander Granach, Heinrich George, Eugen Klöpfer und Werner Krauß kennen und verband sich mit dem aufstrebenden Dramatiker Arnolt Bronnen zu gemeinsamen Unternehmungen auf dem Kulturmarkt. Am Folgetag zeigten die Kammerspiele in ihrer Mitternachtsvorstellung die Revue Die rote Zibebe von Brecht und Valentin, unter anderem mit Brecht selbst als „Klampfenbenke“, Klabund, Joachim Ringelnatz (mit Kuttel Daddeldu), Valeska Gert, Karl Valentin und Liesl Karlstadt. Darstellung Brechts in der bildenden Kunst Fritz Cremer: Denkmal Bertolt Brecht (1986–1988/89) auf dem Bertolt-Brecht-Platz in Berlin Fritz Cremer: Bertolt Brecht (Porträtbüste, Bronze, 1956/57; Nationalgalerie Berlin; Staatliche Kunstsammlungen Dresden; Kunsthalle Rostock) Benedikt Fred Dolbin: Bert Brecht (Bleistift-Zeichnung, 28 × 22 cm; Berlinische Galerie, Berlin) Arno Fleischer: Porträt von Bertolt Brecht (1966, Holzschnitt, rot und schwarz) Bernd Göbel: Bert Brecht (Sitzfigur, 1977/1981, Bronze) Arwed Gorella: Bert Brecht (Farbholzschnitt, 1971, 28,6 × 28 cm, 1971) Waldemar Grzimek: Bertolt Brecht (Porträtbüste, 1957, Bronze; u. a. in den Kunstsammlungen am Theaterplatz Chemnitz) Waldemar Grzimek: Darstellung des deutschen Dramatikers Bertolt Brecht (1957, Statuette, Bronze, Stiftung Stadtmuseum Berlin) Paul Hamann: Bertolt Brecht (Porträtbüste, 1930; Hamburger Kunsthalle.)
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+brecht, brechts, bertolt, gedichte, theater, regie, weigel, helene, augsburger, main, mutter, schrieb, kam, exil, akademie, zürich, schweiz, augsburg, drehbuch, bert
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • regie
+  • main
+  • kam
+  • exil
+  • bert
+
+Специфические термины:
+  • brecht
+  • brechts
+  • bertolt
+  • gedichte
+  • theater
+  • weigel
+  • helene
+  • augsburger
+  • mutter
+  • schrieb
+  • akademie
+  • zürich
+  • schweiz
+  • augsburg
+  • drehbuch
+
+============================================================
+Дата создания реферата: 2025-12-07 12:37:27
+============================================================

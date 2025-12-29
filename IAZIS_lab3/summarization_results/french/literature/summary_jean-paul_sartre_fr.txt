@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\jean-paul_sartre_fr.txt
+Язык: french
+Заголовок: Jean-Paul Sartre
+URL: https://fr.wikipedia.org/wiki/Jean-Paul_Sartre
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:58
+Длина текста: 98334 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+D'autres intellectuels ont joué pour lui un rôle important à différentes étapes de sa vie : Paul Nizan et Raymond Aron, ses condisciples à l'École normale supérieure ; Maurice Merleau-Ponty et Albert Camus dans les années d'après-guerre, puis Benny Lévy (alias Pierre Victor) à la fin de sa vie. Fils unique, il est issu d’une famille bourgeoise : sa mère Anne-Marie Schweitzer appartient à une famille d’intellectuels et de professeurs alsaciens, les Schweitzer (elle est la cousine d'Albert Schweitzer) ; son oncle maternel Georges Schweitzer, frère de sa mère donc, est polytechnicien (X 1895), ingénieur du Génie maritime ; son père Jean-Baptiste, fils d'un docteur en médecine de Thiviers, est également polytechnicien de la promotion 1895, sorti en 1897 officier de marine. Comme il est orphelin à l'âge de quinze mois, c’est son grand-père, Charles Schweitzer, professeur agrégé d'allemand à la retraite, auteur du Deutsches Lesebuch, une méthode expérimentale reconnue sous la IIIe République, qui fit son instruction avant son admission à l’école publique à dix ans. Sartre reste en effet le redoutable instigateur de toutes les plaisanteries, de tous les chahuts, allant jusqu’à provoquer un scandale en jouant avec ses amis un sketch antimilitariste dans la revue de l’ENS de 1927, après lequel Gustave Lanson, directeur de l'école, démissionnera. La même année il signe avec ses condisciples, et à la suite d'Alain, Lucien Descaves, Louis Guilloux, Henry Poulaille, Jules Romains, Séverine…, la protestation (parue le 15 août dans la revue Europe) contre la loi sur l’organisation générale de la nation pour le temps de guerre qui abroge toute indépendance intellectuelle et toute liberté d'opinion. Avec la parution de la thèse de Sartre L'image dans la vie psychologique qu'il avait conçue comme une analyse de l'essai d'Auguste Flach Über symbolische Schemata in produktiven Denkprozessen, il entame les analyses sur l'imagination et l'imaginaire qui annoncent déjà la place prépondérante de l'art dans son œuvre. Préparant d'arrache-pied le concours pour la seconde fois, il rencontre dans son groupe de travail Simone de Beauvoir, présentée par un ami commun, René Maheu, qui la surnommait « castor », par référence à l'anglais beaver (qui signifie « castor ») : d'une part, cet animal symbolise le travail et l’énergie, ou l'esprit constructeur ; d'autre part, la sonorité du mot beaver est proche de celle du nom « Beauvoir ». D'après les auteurs Gilles et Jean-Robert Ragache, il doit sa libération à l'intervention de Drieu la Rochelle : « À l’automne 40, Drieu avait noté dans son carnet une liste d’écrivains prisonniers — où figurait Sartre — suivie de la mention : Demander la libération des auteurs — contrepartie de mon action N.R.F. Il faut noter cependant qu'aucune recherche n'a pu mettre en évidence une quelconque existence de ce mouvement (Le Catalogue des périodiques clandestins diffusés en France de 1939 à 1945, publié par la Bibliothèque nationale en 1954, n'en fait aucune mention) ou d'activité de résistance de Sartre durant cette période, ce que confirme le journaliste résistant Henri Noguères à l'historien Gilbert Joseph : « Je maintiens qu'en une vingtaine d'années consacrées à la recherche et à des travaux sur l'histoire de la Résistance en France, je n'ai jamais rencontré Sartre ou Beauvoir. Sartre veut à l'époque se rapprocher des marxistes, qui rejettent une philosophie de la liberté radicale, susceptible d'affaiblir les certitudes indispensables au militant : dans le texte de la conférence Sartre expose le leitmotiv de l'existentialisme, l'homme ne peut pas refuser sa liberté, la liberté tend au futur, tout acte de liberté est projet, la réalisation d'un projet individuel modifie la réalisation d'autres projets individuels, chaque individu est responsable vis-à-vis de son projet individuel et du projet des autres, la liberté est le fondement de toutes les valeurs humaines, l'engagement dans les choix des sociétés rend l'homme un homme à part entière.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+néant, benny, dialectique, pcf, vian, merleau-ponty, urss, nizan, schweitzer, racisme, indochine, maoïstes, phénoménologie, heidegger, transcendance, ego, drôle, juif, ingrid, galster
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • néant
+  • benny
+  • pcf
+  • vian
+  • urss
+  • nizan
+  • ego
+  • drôle
+  • juif
+
+Специфические термины:
+  • dialectique
+  • merleau-ponty
+  • schweitzer
+  • racisme
+  • indochine
+  • maoïstes
+  • phénoménologie
+  • heidegger
+  • transcendance
+  • ingrid
+  • galster
+
+============================================================
+Дата создания реферата: 2025-12-09 20:59:16
+============================================================

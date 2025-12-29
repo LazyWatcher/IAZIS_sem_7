@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\algorithmique_fr.txt
+Язык: french
+Заголовок: Algorithmique
+URL: https://fr.wikipedia.org/wiki/Algorithmique
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:28
+Длина текста: 21350 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+L'algorithmique est l'étude et la production de règles et techniques qui sont impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème permettant de décrire précisément des étapes pour résoudre un problème algorithmique. Étymologie Le mot « algorithme » vient du nom du mathématicien Al-Khwârizmî (latinisé au Moyen Âge en Algoritmi), qui, au IXe siècle écrivit le premier ouvrage systématique donnant des solutions aux équations linéaires et quadratiques. Le h muet, non justifié par l'étymologie, vient d’une déformation par rapprochement avec le grec ἀριθμός (arithmós). « Algorithme » a donné « algorithmique ». Le synonyme « algorithmie », vieux mot utilisé par exemple par Wronski en 1811, est encore parfois utilisé. Histoire Antiquité Les premiers algorithmes dont on a retrouvé des descriptions datent des Babyloniens, au IIIe millénaire av. J.-C.. Ils décrivent des méthodes de calcul et des résolutions d'équations à l'aide d'exemples. Un algorithme célèbre est celui qui se trouve dans le livre 7 des Éléments d'Euclide, et appelé algorithme d'Euclide. Il permet de trouver le plus grand diviseur commun, ou PGCD, de deux nombres.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+algorithmique, étude, production, règles, techniques, impliquées, définition, conception, algorithmes, est-à-dire, processus, systématiques, résolution, problème, permettant, décrire, précisément, étapes, résoudre, étymologie
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • algorithmique
+  • algorithmes
+
+Общие понятия:
+  • étude
+
+Специфические термины:
+  • production
+  • règles
+  • techniques
+  • impliquées
+  • définition
+  • conception
+  • est-à-dire
+  • processus
+  • systématiques
+  • résolution
+  • problème
+  • permettant
+  • décrire
+  • précisément
+  • étapes
+  • résoudre
+  • étymologie
+
+============================================================
+Дата создания реферата: 2025-12-28 23:39:00
+============================================================

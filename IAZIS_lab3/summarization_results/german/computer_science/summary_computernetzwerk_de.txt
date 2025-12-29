@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\computernetzwerk_de.txt
+Язык: german
+Заголовок: Computernetzwerk
+URL: https://de.wikipedia.org/wiki/Rechnernetz
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:42
+Длина текста: 13179 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Ein Rechnernetz, Computernetz oder Computernetzwerk ist ein Zusammenschluss verschiedener technischer, primär selbstständiger elektronischer Systeme (insbesondere Computern, aber auch Sensoren, Aktoren, Agenten und sonstigen funktechnischen Komponenten), der die Kommunikation der einzelnen Systeme untereinander ermöglicht. Obwohl in der Praxis kein Rechnernetz das ISO/OSI-Modell vollständig abbildet, ist es von entscheidender Bedeutung für das Verständnis von Rechnernetzen, da hierbei aus kleinen grundlegenden Strukturen durch Verknüpfung größere und komplexere Strukturen gebildet werden. Die Protokollschicht fügt zu diesen Nutzdaten (deren Inhalt sie weitgehend ignoriert) vorne und teilweise hinten weitere Daten an, die für die Abwicklung des Transportes durch die Protokollschicht wichtig sind. Jedoch gibt es auch hiervon Ausnahmen, da einige Protokolle nicht dazu gedacht sind, fremde Nutzdaten zu transportieren, sondern ausschließlich als eigenständige Informationssysteme für bestimmte Aufgaben fungieren. Die allgemein bekannteste Netzstruktur ist das Internet, und die bekanntesten Protokolle sind das TCP (Transmission Control Protocol) und das IP (Internet Protocol), jedoch spielt auch im Internet eine Reihe weiterer Protokolle wichtige Rollen. Das Internet selbst ist kein homogenes Netz, sondern besteht aus einer Vielzahl teils recht unterschiedlich konzipierter Teilnetze (Subnetze), die nur die oberen Protokollschichten gemeinsam haben und die Nutzdatenübertragung auf den unteren Protokollschichten teilweise sehr unterschiedlich handhaben. Als Zentralrechner oder Hauptrechner wird innerhalb eines Rechnernetzes derjenige Computer – meist ein Großrechner – bezeichnet, der den übrigen angeschlossenen Rechnern (etwa Arbeitsplatzrechnern oder Terminals) bzw. den darauf betriebenen Programmen Daten, Dienste, Systemprogramme, Anwendungsprogramme u. Ä. zur Verfügung stellt. Topologien Unter der Topologie versteht man die Art, wie die verschiedenen beteiligten Komponenten (also zumeist Rechner) im Netz durch physische oder logische Leitungswege verbunden sind. Das vermaschte Netz ist eine Form, in der jeder Rechner mit mehreren Nachbarn verbunden ist und in dem redundante Wege existieren, so dass selbst beim Ausfall einer Leitung das Netz noch über eine andere Leitung verbunden bleibt. Lokale Netze Body Area Network (BAN) Wireless Body Area Network (WBAN) als Begriff Personal Area Network (PAN) Wireless Personal Area Network (WPAN) als Begriff Local Area Network (LAN) Wireless LAN (WLAN) als Begriff Nichtlokale Netze Metropolitan Area Network (MAN) Wide Area Network (WAN) Global Area Network (GAN) Virtual Private Network (VPN) Andere Netze Storage Area Network (SAN) Übertragungsweg Leitungsgebundene Netze Ethernet Die verbreitetste Technik bei leitungsgebundenen Netzen ist das Ethernet, das vor allem in lokalen Firmennetzen und Heimnetzen Verwendung findet.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+network, area, netz, token, ring, ethernet, netze, rechnernetz, protokolle, protokollschichten, internet, verbunden, leitung, praxis, nutzdaten, rechnernetze, netzen, wireless, stromnetz, wichtig
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • network
+
+Общие понятия:
+  • area
+  • netz
+  • token
+  • ring
+  • netze
+
+Специфические термины:
+  • ethernet
+  • rechnernetz
+  • protokolle
+  • protokollschichten
+  • internet
+  • verbunden
+  • leitung
+  • praxis
+  • nutzdaten
+  • rechnernetze
+  • netzen
+  • wireless
+  • stromnetz
+  • wichtig
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:22
+============================================================

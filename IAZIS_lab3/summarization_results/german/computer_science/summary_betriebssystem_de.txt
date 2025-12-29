@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\betriebssystem_de.txt
+Язык: german
+Заголовок: Betriebssystem
+URL: https://de.wikipedia.org/wiki/Betriebssystem
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:45
+Длина текста: 40922 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Ein Betriebssystem, auch OS (von englisch operating system) genannt, ist eine Zusammenstellung von Computerprogrammen, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten, Ein- und Ausgabegeräte verwaltet und diese Anwendungsprogrammen zur Verfügung stellt. Betriebssysteme finden sich in fast allen Arten von Computern: Als Echtzeitbetriebssysteme auf Prozessrechnern und eingebetteten Systemen, auf Personal Computern, Tabletcomputern, Smartphones und auf größeren Mehrprozessorsystemen wie z. Die Aufgaben eines Betriebssystems lassen sich wie folgt zusammenfassen: Benutzerkommunikation; Laden, Ausführen, Unterbrechen und Beenden von Programmen; Verwaltung und Zuteilung der Prozessorzeit; Verwaltung des internen Speicherplatzes für Anwendungen; Verwaltung und Betrieb der angeschlossenen Geräte; Schutzfunktionen z. Definitionen und Abgrenzung Ein Betriebssystem übernimmt zwei wesentliche Aufgaben, die im Grunde in keinem direkten Zusammenhang zueinander stehen: Die eine Aufgabe besteht darin, dem Anwendungsprogrammierer saubere Abstraktionen der Betriebsmittel zur Verfügung zu stellen (anstelle der unschönen Hardware). Das Betriebssystem bietet somit eine leichter verständliche und besser handhabbare Schnittstelle zur eigentlichen Maschine an und „versteckt“ die Komplexität der darunterliegenden Maschine: „Der Ansprechpartner für den Programmierer ist also nicht mehr die wirkliche Maschine, sondern eine virtuelle Maschine (Betriebssystem), welche wesentlich einfacher zu verstehen und zu programmieren ist.“ Das Betriebssystem erzeugt abstrakte Objekte, um die Komplexität beherrschbar zu machen. Die andere Aufgabe besteht darin, die Hardwareressourcen zu verwalten: „Ein Betriebssystem muss eine geordnete und kontrollierte Zuteilung von Prozessoren, Speichereinheiten und Peripheriegeräten unter den verschiedenen Programmen, welche darum konkurrieren, sicherstellen.“ Das Betriebssystem ordnet und kontrolliert die Allokation der Prozessoren, Speicher und Ein-/Ausgabegeräte und überwacht, welches Programm gerade welches Betriebsmittel nutzt. In der DIN-Sammlung 44300 (veraltet, ersetzt durch ISO/IEC 2382:2015 siehe: Liste der DIN-Normen/DIN 1–49999 unter DIN 44300) geht die Definition von seiner Aufgabe und Stellung in einer Programmhierarchie aus: Für Andrew S. Tanenbaum beschränkt sich der Begriff Betriebssystem im Wesentlichen auf den Kernel: „Editoren, Compiler, Assembler, Binder und Kommandointerpreter sind definitiv nicht Teil des Betriebssystems, auch wenn sie bedeutsam und nützlich sind.“ Viele Lehrbücher folgen dieser engeren Sichtweise. Andere Autoren zählen unter anderem auch eine Kommandosprache zum Betriebssystem: „Außer die Hardware zu verwalten […], bieten moderne Betriebssysteme zahlreiche Dienste an, etwa zur Verständigung der Prozesse untereinander, Datei- und Verzeichnissysteme, Datenübertragung über Netzwerke und eine Befehlssprache.“ Eine noch weitere Fassung des Begriffes, die beispielsweise auch Editoren und Compiler umfasst, geht zum Teil auf ältere Werke des deutschen Sprachraums zurück, lässt sich aber auch in aktueller Literatur noch finden. Entwicklungsstufen Die Entwicklung von Computer-Betriebssystemen verlief und verläuft parallel zur Entwicklung und Leistungsfähigkeit verfügbarer Hardware: Beide Linien bedingten sich gegenseitig und ermöglichten bzw. erforderten Weiterentwicklungen auf der ‚anderen‘ Seite. Im PC-Bereich sind derzeit die meistgenutzten Betriebssysteme die verschiedenen Varianten von Windows von Microsoft (führend bei Systemen mit GUI), BSD inkl. macOS von Apple (am weitesten verbreitetes Desktop-Unix) und GNU/Linux (führend bei Servern).
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+windows, system, hardware, speicher, apple, dos, verfügung, betriebssystems, systeme, linux, pcs, bios, kernel, unix, ms-dos, ibm, aufgaben, prozessor, xerox, geräte
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • system
+  • betriebssystems
+  • systeme
+
+Общие понятия:
+  • apple
+  • dos
+  • linux
+  • pcs
+  • bios
+  • unix
+  • ibm
+  • xerox
+
+Специфические термины:
+  • windows
+  • hardware
+  • speicher
+  • verfügung
+  • kernel
+  • ms-dos
+  • aufgaben
+  • prozessor
+  • geräte
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:22
+============================================================

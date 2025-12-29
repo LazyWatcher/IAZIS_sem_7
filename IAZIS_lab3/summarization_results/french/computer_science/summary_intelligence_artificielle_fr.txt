@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\intelligence_artificielle_fr.txt
+Язык: french
+Заголовок: Intelligence artificielle
+URL: https://fr.wikipedia.org/wiki/Intelligence_artificielle
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:30
+Длина текста: 127199 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Les applications de l'IA couvrent de nombreux domaines, notamment les moteurs de recherche, les systèmes de recommandation, l'aide au diagnostic médical, la compréhension du langage naturel, les voitures autonomes, les chatbots, les outils de génération d'images, les outils de prise de décision automatisée, les programmes compétitifs dans des jeux de stratégie et certains personnages non-joueurs de jeu vidéo. Pour Marvin Lee Minsky, l'un de ses créateurs, l'IA est « la construction de programmes informatiques qui s'adonnent à des tâches qui sont, pour l'instant, accomplies de façon plus satisfaisante par des êtres humains car elles demandent des processus mentaux de haut niveau tels que : l'apprentissage perceptuel, l'organisation de la mémoire et le raisonnement critique ». Avant les années 2000, d'autres définitions sont proches de celle de Minsky, mais varient sur deux points fondamentaux : les définitions qui lient l'IA à un aspect humain de l'intelligence et celles qui la lient à un modèle idéal d'intelligence, non forcément humaine, nommée rationalité ; les définitions qui insistent sur le fait que l'IA a pour but d'avoir toutes les apparences de l'intelligence (humaine ou rationnelle), et celles qui insistent sur le fait que le fonctionnement interne du système d'IA doit ressembler également à celui de l'être humain et être au moins aussi rationnel. Les définitions font souvent intervenir : une capacité à percevoir l'environnement et à prendre en compte la complexité du monde réel ; un traitement de l'information (collecter et interpréter des intrants, captés sous forme de données) ; des prises de décision (y compris dans le raisonnement et l'apprentissage), choix d'actions, exécution de tâches (dont d'adaptation, de réaction aux changements de contexte…), avec un certain niveau d'autonomie ; la réalisation d'objectifs spécifiques (raison ultime des systèmes d'IA). La même année, le professeur Jack Copeland propose une définition similaire, qui permet de distinguer plus clairement les facettes de l'IA, selon cinq catégories principales : L'apprentissage généralisé : l'IA apprend à partir de données diverses pour identifier des modèles et appliquer ces connaissances à de nouvelles situations, comme détecter des fraudes en ligne ; Le raisonnement : cette capacité permet à l'IA de faire des prédictions et tirer des conclusions à partir des données, aidant dans des décisions comme la prédiction de comportements d'achat ; La résolution de problèmes : l'IA trouve des solutions optimales pour des problèmes spécifiques, utilisée dans des contextes comme l'optimisation industrielle ou les stratégies de jeu ; La perception : elle permet à l'IA de reconnaître et interagir avec son environnement, utilisée dans la robotique avancée et les véhicules autonomes pour naviguer et accomplir des tâches ; La compréhension du langage : l'IA analyse et génère du langage à travers le NLP, utilisé dans des applications comme les assistants vocaux et les chatbots pour améliorer l'interaction utilisateur. La réussite du test implique donc plusieurs tâches comme l'orientation dans un environnement inconnu, déduire le fonctionnement d'une machine, trouver les ustensiles nécessaires… Test de l'étudiant Proposé par Ben Goertzel, le test de l'étudiant évalue la capacité d'un robot à s'inscrire dans un établissement d'enseignement supérieur, suivre les cours, passer les examens et obtenir le diplôme final. Personnalités Prix Turing Plusieurs prix Turing (ACM Turing Award) ont été attribués à des pionniers de l'intelligence artificielle, notamment : Marvin Minsky (1969) ; John McCarthy (1971) ; Allen Newell et Herbert Simon (1975) ; Edward Feigenbaum et Raj Reddy (1994) ; Judea Pearl (2011) ; Yann Le Cun, Geoffrey Hinton et Yoshua Bengio (2019). Domaines d'application L'IA permet d'effectuer différents types de tâches, dont : la génération de texte, d'images, de vidéos, ou de musiques avec l'IA générative, à partir d'un prompt décrivant le résultat attendu ; la résolution d’exercices mathématiques par des applications éducatives comme Photomath ou AskMathAI ; l'analyse statistique et l'interprétation de grandes masses de données (big data) issues d'Internet ; la personnalisation de contenus, par exemple par les systèmes de recommandation des réseaux sociaux ; le partitionnement et la classification automatiques ; la reconnaissance de formes, des visages et la vision en général, etc. ; l'intégration automatique d'informations provenant de sources hétérogènes (fusion de données) ; l'aide aux diagnostics et à la décision ; l'assistance par des machines dans les tâches dangereuses, ou demandant une grande précision ; l'automatisation de tâches ; le traitement automatique des langues, notamment la traduction automatique ; la reconnaissance automatique de la parole (conversion de parole en texte) et le dialogue automatique : se faire comprendre en lui parlant ; le raisonnement automatique ; la composition musicale automatique (voir les travaux de René-Louis Baron et de l'Ircam ; vers 2016, les recherches de François Pachet portent le développement de flow machines telles que Deepbach) ; l'émotion artificielle (voir les travaux de Rosalind Picard sur l'émotion) et l'éventualité d'une subjectivité artificielle ; la résolution de problèmes complexes, tels que les problèmes d'allocation de ressources. En combinant différents algorithmes, on est passé en quelques années de la reconnaissance de l'écriture manuscrite sur des formulaires de chèques bancaires (années 1990) à l'optimisation d'itinéraires entre deux ou plusieurs points, tenant compte des voies disponibles, de la longueur et de la vitesse probable sur chacun des segments, du moyen de locomotion et de souhaits particuliers (éviter les péages, points de passage obligés, caractéristiques touristiques, etc.), puis à la reconnaissance automatisée de documents dactylographiés ou manuscrits, permettant ensuite de les classer selon leur nature avant de les transmettre à des agents spécialisés, humains ou automates, capables d'y apporter la suite appropriée (réponses prédéfinies ou déclenchement d'une chaine de traitements). L'adoption de l'intelligence artificielle est en forte expansion dans les années 2020, stimulée par les avancées en intelligence artificielle générative, en particulier dans les grands modèles de langage, dont la polyvalence ouvre la voie à de nouveaux cas d'usage, ainsi que dans les domaines de la programmation informatique (génération de code), de l'image et du son (photos et vidéos de synthèse, animation du visage en association avec la synthèse vocale) et dans la prévention et l'atténuation des risques (diagnostic médical, situations de crise, accidents industriels, catastrophes naturelles, etc.).
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+neurones, conscience, artificial, décisions, risques, comportements, éthique, compréhension, générative, chatgpt, pourraient, prédire, éthiques, profond, réponses, deepmind, prise, progrès, entraînement, agents
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • prise
+
+Специфические термины:
+  • neurones
+  • conscience
+  • artificial
+  • décisions
+  • risques
+  • comportements
+  • éthique
+  • compréhension
+  • générative
+  • chatgpt
+  • pourraient
+  • prédire
+  • éthiques
+  • profond
+  • réponses
+  • deepmind
+  • progrès
+  • entraînement
+  • agents
+
+============================================================
+Дата создания реферата: 2025-12-09 20:55:58
+============================================================

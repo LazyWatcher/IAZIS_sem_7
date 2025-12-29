@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\informatik_de.txt
+Язык: german
+Заголовок: Informatik
+URL: https://de.wikipedia.org/wiki/Informatik
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:37
+Длина текста: 45148 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Karl Steinbuch prägte die Bezeichnung Informatik zusammen mit Helmut Gröttrup und verwendete sie in seiner ersten Publikation „Informatik: Automatische Informationsverarbeitung“ im April 1957, die er bei Standard Elektrik AG (SEG) veröffentlichte. Nach einem internationalen Kolloquium in Dresden am 26. Februar 1968 setzte sich Informatik als Bezeichnung für die Wissenschaft nach französischem (informatique) und russischem Vorbild (Информатика) auch im deutschen Sprachraum durch. Im Juli desselben Jahres wurde der Begriff Informatik erstmals als deutscher Name für ein neu einzurichtendes Studienfach in einer Berliner Rede des Bundesministers Gerhard Stoltenberg verwendet. Die Anfänge der modernen Informatik gehen in Deutschland bis ins Jahr 1952 zurück, als im Juli an der RWTH Aachen die erste deutsche Informatik-Tagung zum Thema programmgesteuerte Rechengeräte und Integrieranlagen mit Konrad Zuse und Heinz Nixdorf stattfand. Am Institut für praktische Mathematik (IPM) der Technischen Hochschule Darmstadt (TH Darmstadt), das der Mathematiker Alwin Walther seit 1928 aufbaute, konnten sich dann 1956 die ersten Studenten am Darmstädter Elektronischen Rechenautomaten mit den Problemen von Rechenautomaten befassen. Aufgrund des Renommees, das die TH Darmstadt zu dem Zeitpunkt in der Rechenautomatenforschung hatte, fand ein Kongress zum Fachgebiet Informatik (elektronische Rechenmaschinen und Informationsverarbeitung) mit internationaler Beteiligung im Oktober 1955 an der TH Darmstadt statt, der als Geburtsstätte der Programmiersprache ALGOL gilt. 1969 folgte der Studiengang „Datentechnik (Technische Informatik)“ des Fachbereiches Regulierungs- und Datentechnik und 1970 ein Mathematikstudiengang, der mit dem Grad „Diplomingenieur im Fach Mathematik mit Schwerpunkt Informatik“ abschloss. Entwicklungen in den USA und in Großbritannien Im Jahr 1937 veröffentlichte der Brite Alan Turing seine Arbeit On Computable Numbers with an application to the Entscheidungsproblem, in welcher die nach ihm benannte Turingmaschine vorgestellt wird, ein mathematisches Maschinenmodell, das bis heute für die Theoretische Informatik von größter Bedeutung ist. 1937, hundert Jahre nach Babbages unmöglichem Traum, überzeugte Howard Aiken IBM, das alle Arten von Lochkartengeräten herstellte und auch im Rechenmaschinengeschäft tätig war, davon, seine riesige programmierbare Rechenmaschine, die ASCC/Harvard Mark I, zu entwickeln, die auf Babbages Analytical Engine basierte, die ihrerseits Karten und eine zentrale Recheneinheit verwendete. Wichtige Meilensteine waren die Entwicklung von Fortran (aus Englisch: „FORmula TRANslation“, Formelübersetzung; erste höhere Programmiersprache, 1957), ALGOL (aus englisch: „ALGOrithmic Language“, Algorithmensprache; strukturiert/imperativ; 1958/1960/1968), Lisp (aus englisch: „LISt Processing“, Verarbeitung von Listen; funktional, 1959), COBOL (aus englisch: „COmmon Business Orientated Language“, Programmiersprache für kaufmännische Anwendungen, 1959), Smalltalk (objektorientiert, 1971), Prolog (logisch, 1972) und SQL (Relationale Datenbanken, 1976).
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+gesellschaft, beschäftigt, rechenmaschinen, technische, science, befasst, idee, wirtschaftsinformatik, modellierung, linguistik, interdisziplinäre, wissenschaft, technischen, gebiet, universität, rechenmaschine, frage, bezeichnung, veröffentlichte, angewandten
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • science
+  • idee
+  • frage
+
+Специфические термины:
+  • gesellschaft
+  • beschäftigt
+  • rechenmaschinen
+  • technische
+  • befasst
+  • wirtschaftsinformatik
+  • modellierung
+  • linguistik
+  • interdisziplinäre
+  • wissenschaft
+  • technischen
+  • gebiet
+  • universität
+  • rechenmaschine
+  • bezeichnung
+  • veröffentlichte
+  • angewandten
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:29
+============================================================

@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\réseau_informatique_fr.txt
+Язык: french
+Заголовок: Réseau informatique
+URL: https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:32
+Длина текста: 10508 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Un réseau informatique est un ensemble d’ordinateurs et d’équipements communicants (appelés hôtes) capables d’échanger des données à l’aide de protocoles de communication et de matériel réseau. Chaque hôte est identifié par une adresse réseau (comme une adresse IP) et peut aussi posséder un nom d’hôte, plus facile à retenir. Les échanges se font via divers supports : câbles en cuivre, fibres optiques ou technologies sans fil. Le premier réseau de ce type a été mis en place en 1940 par George Stibitz, reliant un terminal du Dartmouth College à son calculateur situé aux Bell Labs de New York. Histoire Le premier réseau de ce type a été mis en place en 1940 par George Stibitz, reliant un terminal du Dartmouth College à son calculateur situé aux Bell Labs de New York. Dans les années 1960, les réseaux informatiques étaient de portée limitée (quelques dizaines de mètres avec par exemple l'HP-IB, l'HP-IL, etc.) et servaient à la communication entre micro-ordinateurs et des instruments de mesure ou des périphériques (imprimantes, table traçante, etc.). Les réseaux informatiques filaires entre sites distants apparaissent dans les années 1970 : IBM et DEC créent les architectures SNA et DECnet, avec la numérisation du réseau de téléphone d'AT&T (voir Réseau téléphonique commuté) et ses connexions dédiées à moyen débit. Voici une liste non exhaustive des protocoles réseaux qui existent à ce jour (par type de réseau) : Réseau local : Anneau à jeton (en anglais Token Ring), ATM, FDDI et Ethernet Réseau étendu : DAB, Ethernet, Multiprotocol Label Switching, Relais de trames, SONET/SDH Infrastructure Les infrastructures ou supports peuvent être sur des câbles dans lesquels circulent des signaux électriques, l'atmosphère (ou le vide spatial) où circulent des ondes radio, ou des fibres optiques qui propagent des ondes lumineuses. Les principaux types de réseaux filaires pour les réseaux informatiques d'entreprises ou de particuliers utilisent les protocoles suivant qui proviennent du standard Ethernet : 10BASE5 : câble coaxial épais bande de base (obsolète) ; 10BASE2 : câble coaxial fin bande de base (obsolète) ; 10BASE-T : paires torsadées (10 Mb/s) ; 100BASE-T : paires torsadées (100 Mb/s) les plus généralisées aujourd'hui en réseau local (LAN) ; 1000BASE-T : paires torsadées (1 Gb/s), présent dans les nouveaux ordinateurs. Découpage géographique Les réseaux informatiques sont classés suivant leur portée : le bus informatique : réseau dans la carte mère ; le réseau personnel (PAN) relie des appareils électroniques personnels ; le réseau local (LAN) relie les ordinateurs ou postes téléphoniques situés dans la même pièce ou dans le même bâtiment ; le réseau local (WLAN) est un réseau LAN utilisant la technologie WI-FI ; le réseau métropolitain (MAN) est un réseau à l'échelle d'une ville ; le « rural area network » (RAN) est un réseau de télécommunications, en général sans fil, installé par des utilisateurs d'Internet en zone rurale ; le réseau étendu (WAN) est un réseau à grande échelle qui relie plusieurs sites ou des ordinateurs du monde entier.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+local, area, lan, ethernet, torsadées, topologie, téléphonie, base-t, wi-fi, sous-réseau, pan, relie, mobiles, catégorisés, hôte, câbles, cuivre, fibres, optiques, stibitz
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • local
+  • area
+  • lan
+  • wi-fi
+  • pan
+  • relie
+  • hôte
+
+Специфические термины:
+  • ethernet
+  • torsadées
+  • topologie
+  • téléphonie
+  • base-t
+  • sous-réseau
+  • mobiles
+  • catégorisés
+  • câbles
+  • cuivre
+  • fibres
+  • optiques
+  • stibitz
+
+============================================================
+Дата создания реферата: 2025-12-09 20:56:11
+============================================================

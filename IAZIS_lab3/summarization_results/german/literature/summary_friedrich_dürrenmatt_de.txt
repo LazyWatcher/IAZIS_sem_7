@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\friedrich_dürrenmatt_de.txt
+Язык: german
+Заголовок: Friedrich Dürrenmatt
+URL: https://de.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:14
+Длина текста: 39206 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Friedrich Reinhold Dürrenmatt (* 5. Januar 1921 in Stalden im Emmental; † 14. Dezember 1990 in Neuenburg; heimatberechtigt in Guggisberg) war ein Schweizer Schriftsteller, Dramatiker und Maler. […] Wenn der Pfarrerssohn einen Streich macht, ist das viel schlimmer, als wenn der Metzgersohn einen Streich macht.“ Im Oktober 1935 zog die Familie nach Bern um, wo der Vater Pfarrer am Diakonissenhaus wurde. In Bern wohnte er bei seinen Eltern in einer Mansarde, die er mit grossen Wandbildern ausstattete, die später übertüncht und erst Anfang der neunziger Jahre entdeckt, freigelegt und restauriert wurden (siehe Dürrenmatt-Mansarde). Ich verkehrte mit anderen Studenten, doch auch mit Bekannten aus der Gymnasialzeit, mit Freunden, mit denen ich in einer kleinen Kellerkneipe in der Altstadt und nachher oft noch in meinem ausgemalten Mansardenzimmer diskutierte.“ 1942 lernte er die Walliser Kunststudentin Christiane Zufferey (1920–2011) kennen, die an der Kunstgewerbeschule Zürich studierte und seine erste Freundin wurde. „Der Richter und sein Henker“ Aus Geldnot schrieb Dürrenmatt für ein Honorar von 1000 Franken 1950 für den Schweizerische Beobachter den Kriminalroman Der Richter und sein Henker, mit offenem Bezug auf angrenzende Lokalitäten wie Lamboing. Erste Theateraufführungen Max Frisch hatte vom Theaterverleger Kurt Reiss das Manuskript von Dürrenmatts erstem Bühnenwerk Es steht geschrieben erhalten und nach der Lektüre mit einem Brief den Kontakt zu Dürrenmatt eröffnet. Fester Wohnsitz oberhalb von Neuenburg 1952 kaufte Dürrenmatt ein Haus im kleinen, romantischen Tal Vallon de l'Ermitage am Pertuis du Sault oberhalb von Neuenburg. Dieser besondere Ort und eine Sitzbank, von der er auf das Hotel Waldhaus hinunterschauen konnte, wirkten inspirierend auf ihn: „Auf diesen sich ständig wiederholenden Spaziergängen, bei denen ich mehr lief als ging, fielen mir ‚Die Physiker‘ und ‚Der Meteor‘ ein, wobei ich nicht zu sagen wüsste, welcher der beiden Stoffe mir zuerst einfiel (...).“ „Die Physiker“ Auf den Misserfolg mit der „musikalischen Komödie“ Frank der Fünfte (1960) folgte 1962 der zweite Welterfolg mit Die Physiker, uraufgeführt am Schauspielhaus Zürich. Auszeichnungen und Ehrungen Auszeichnungen 1948: Preis der Welti-Stiftung für das Drama für Es steht geschrieben 1952: Deutscher Kritikerpreis für Der Richter und sein Henker 1954: Literaturpreis der Stadt Bern für die Komödie Ein Engel kommt nach Babylon 1957: Hörspielpreis der Kriegsblinden für Die Panne 1958: Prix Italia für das Hörspiel Abendstunde im Spätherbst 1959: Preis der New Yorker Kritiker für Der Besuch der alten Dame 1959: Preis zur Förderung des Bernischen Schrifttums für den Roman Das Versprechen 1959: Schillerpreis der Stadt Mannheim 1960: Grosser Schillerpreis 1968: Grillparzer-Preis der Österreichischen Akademie der Wissenschaften 1969: Grosser Literaturpreis des Kantons Bern 1972: Theaterpreis der Stadt Basel 1973: Grosser Schillerpreis der Schweizerischen Schillerstiftung 1976: Welsh Arts Council International Writer’s Prize 1979: Grosser Literaturpreis der Stadt Bern 1981: Weinpreis für Literatur der edition text + kritik, Göttingen 1983: Österreichischer Staatspreis für Europäische Literatur 1984: Kyoto-Preis für Künste und Philosophie 1984: Carl-Zuckmayer-Medaille des Landes Rheinland-Pfalz 1985: Jean-Paul-Preis (Bayerischer Literaturpreis) 1986: Gottfried-Keller-Preis für sein schriftstellerisches Gesamtwerk 1986: Premio Letterario Internationale Mondello (für die italienische Übersetzung des Romans Justiz) 1986: Georg-Büchner-Preis der Deutschen Akademie für Sprache und Dichtung 1986: Ehrenpreis des Schiller-Gedächtnispreises des Landes Baden-Württemberg 1987: Internationaler Preis für Humor und Satire in der Literatur »Hitar Petar«, Bulgarien 1988: Prix Alexei Tolstoï der Association internationale des Ecrivains de Romans Policiers 1989: Ernst-Robert-Curtius-Preis für Essayistik Ehrungen 1965: Ehrendoktor der University of Manchester 1969: Ehrendoktor der Temple University, Philadelphia. 1972: Mitglied des Instituto y Academia Internacional de Autores, Panama 1974: Ehrenmitgliedschaft der Ben-Gurion-Universität, Beʾer Scheva, Israel 1977: Buber-Rosenzweig-Medaille des deutschen Koordinationsrats der Gesellschaften für christlich-jüdische Zusammenarbeit 1977: Ehrendoktor der Université de Nice 1977: Ehrendoktor der Hebräischen Universität Jerusalem 1981: Ehrendoktor der Universität Neuchâtel 1983: Ehrendoktor (für Theologie) der Universität Zürich 1987: Ehrung am Festival Européen des Ecrivains in Strasbourg Postume Ehrungen Mit dem Einverständnis seiner Witwe wurde Dürrenmatt in die Lord Jim Loge aufgenommen.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+diogenes, dürrenmatt, schweizerischen, arche, neuchâtel, dürrenmatts, panne, meteor, charlotte, süddeutscher, neuenburg, esels, ohm, srf, kriminalroman, romulus, herkules, abendstunde, spätherbst, ehrendoktor
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • arche
+  • panne
+  • esels
+  • ohm
+  • srf
+
+Специфические термины:
+  • diogenes
+  • dürrenmatt
+  • schweizerischen
+  • neuchâtel
+  • dürrenmatts
+  • meteor
+  • charlotte
+  • süddeutscher
+  • neuenburg
+  • kriminalroman
+  • romulus
+  • herkules
+  • abendstunde
+  • spätherbst
+  • ehrendoktor
+
+============================================================
+Дата создания реферата: 2025-12-07 12:38:58
+============================================================

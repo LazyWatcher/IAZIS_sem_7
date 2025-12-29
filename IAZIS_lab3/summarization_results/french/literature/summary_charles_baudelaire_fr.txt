@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\charles_baudelaire_fr.txt
+Язык: french
+Заголовок: Charles Baudelaire
+URL: https://fr.wikipedia.org/wiki/Charles_Baudelaire
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:55
+Длина текста: 55551 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+« Dante d'une époque déchue » selon les mots de Barbey d'Aurevilly, « tourné vers le classicisme, nourri de romantisme », à la croisée entre le Parnasse et le symbolisme, chantre de la « modernité », il occupe une place considérable parmi les poètes français pour un recueil qu'il aura façonné sa vie durant : Les Fleurs du mal, mais aussi pour sa poésie en prose, réunie dans Le Spleen de Paris. Au cœur des débats sur la fonction de la littérature de son époque, Baudelaire détache la poésie de la morale, la proclame tout entière destinée au Beau et non à la Vérité, et laisse le souvenir d'un poète déchiré entre le Ciel et la Terre, entre l'Idéal et la fange, cherchant à faire du Mal un objet de contemplation esthétique (« Tu m'as donné ta boue et j'en ai fait de l'or »). Comme le suggère le titre de son recueil, il a tenté de tisser des liens entre le mal et la beauté, le bonheur fugitif et l'idéal inaccessible (À une Passante), la violence et la volupté (Une martyre), mais aussi entre le poète et son lecteur (« Hypocrite lecteur, mon semblable, mon frère ») et même entre les artistes à travers les âges (Les Phares). Outre des poèmes graves (Semper Eadem) ou scandaleux (Delphine et Hippolyte), il a exprimé la mélancolie (Mœsta et errabunda), l'horreur (Une charogne) et l'envie d'ailleurs (L'Invitation au voyage) à travers l'exotisme. Biographie Jeunesse Charles Pierre Baudelaire naît le 9 avril 1821 au 13 rue Hautefeuille dans l'ancien 11e arrondissement de Paris : ses parrain et marraine sont les parents « adoptifs » de sa mère, Pierre Perignon et Louise Coudougnan. Renvoyé du lycée Louis-le-Grand en avril 1839 pour ce qui a passé pour une vétille, mais que son condisciple au lycée, Charles Cousin (1822-1894) a expliqué comme un épisode d'amitié particulière, Baudelaire mène une vie en opposition aux valeurs bourgeoises incarnées par sa famille. Selon l'universitaire Alexander Ockenden, Baudelaire aurait fréquenté sur place une ancienne esclave affranchie, Dorothée Dormeuil, ancêtre d'Arnaud Dormeuil, qui lui aurait inspiré son poème La Belle Dorothée. Plus tard, il partagera la haine de Gustave Flaubert et de Victor Hugo pour Napoléon III, mais sans s'engager outre mesure d'un point de vue littéraire (« L'Émeute, tempêtant vainement à ma vitre / Ne fera pas lever mon front de mon pupitre » — Paysage dans Tableaux parisiens du recueil Les Fleurs du mal). L'éditeur Auguste Poulet-Malassis s'acquitte, pour sa part, d'une amende de cent francs et doit retrancher six poèmes dont le procureur général Ernest Pinard a demandé l'interdiction (Les Bijoux ; Le Léthé ; À celle qui est trop gaie ; Lesbos ; Femmes damnées [Delphine et Hippolyte] ; Les métamorphoses du Vampire). Dans les attendus de son jugement, la Cour énonce que : « les poèmes faisant l'objet de la prévention ne renferment aucun terme obscène ou même grossier et ne dépassent pas, en leur forme expressive, les libertés permises à l'artiste ; que si certaines peintures ont pu, par leur originalité, alarmer quelques esprits à l'époque de la première publication des Fleurs du Mal et apparaître aux premiers juges comme offensant les bonnes mœurs, une telle appréciation ne s'attachant qu'à l'interprétation réaliste de ces poèmes et négligeant leur sens symbolique, s'est révélée de caractère arbitraire ; qu'elle n'a été ratifiée ni par l'opinion publique, ni par le jugement des lettrés ».
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+baudelaire, duval, orchestration, aupick, prose, pichois, poème, bonnefoy, beau, hugo, extase, spleen, delacroix, beau-père, madame, narcisse, ancelle, francs, victor, mœurs
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • duval
+  • prose
+  • poème
+  • beau
+  • hugo
+  • mœurs
+
+Специфические термины:
+  • baudelaire
+  • orchestration
+  • aupick
+  • pichois
+  • bonnefoy
+  • extase
+  • spleen
+  • delacroix
+  • beau-père
+  • madame
+  • narcisse
+  • ancelle
+  • francs
+  • victor
+
+============================================================
+Дата создания реферата: 2025-12-09 20:57:03
+============================================================

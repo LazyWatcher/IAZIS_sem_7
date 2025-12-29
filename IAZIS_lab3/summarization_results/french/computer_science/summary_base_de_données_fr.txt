@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\base_de_données_fr.txt
+Язык: french
+Заголовок: Base de données
+URL: https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:31
+Длина текста: 32898 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Une base de données permet de stocker et de retrouver des données structurées, semi-structurées ou des données brutes ou de l'information, souvent en rapport avec un thème ou une activité ; celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles. Le dispositif comporte un système de gestion de base de données (abréviation : SGBD) : un logiciel moteur qui manipule la base de données et dirige l'accès à son contenu. Les bases de données sont par exemple utilisées dans les secteurs de la finance, des assurances, des écoles, de l'épidémiologie, de l'administration publique (notamment les statistiques) et des médias. Description Une base de données est une collection organisée d'objets structurés tels que des nombres, des textes, des dates, des images, et généralement des objets structurés etc., pouvant être traités par des moyens informatiques pour produire une information ; par exemple, des chiffres et des noms assemblés et triés pour former un annuaire. La base de données a de plus un effet fédérateur : dans une collectivité utilisant une base de données, une personne unique — l'administrateur de bases de données — organise le contenu de la base d'une manière bénéfique à l'ensemble de la collectivité, ce qui peut éviter des conflits dus à des intérêts divergents entre les membres de la collectivité. Une base de données nécessite généralement plus d'espace disque, le large éventail de fonctions offertes par les SGBD rend les manipulations plus complexes, et les pannes ont un impact plus large et sont plus difficiles à rattraper. Entité Une entité est un sujet, une notion en rapport avec le domaine d'activité pour lequel la base de données est utilisée, et concernant lequel des données sont enregistrées (exemple : des personnes, des produits, des commandes, des réservations…). Clé primaire Dans les modèles de données relationnels, la clé primaire est un attribut dont le contenu est différent pour chaque enregistrement de la table, ce qui permet de retrouver un et un seul enregistrement Clé étrangère Dans les modèles de données relationnels, une clé étrangère est un attribut qui contient une référence à une donnée connexe — dans les faits la valeur de la clé primaire de la donnée connexe. La manière la plus populaire de classer les bases de données est selon l'usage qui en est fait, et l'aspect temporel du contenu : Bases opérationnelles ou OLTP (de l'anglais online transaction processing) sont destinées à assister des usagers à tenir l'état d'activités quotidiennes. Les bases de données sont également parfois classifiées selon les caractéristiques du contenu : des données non structurées sont stockées à l'état brut, et nécessitent d'être retraitées en vue de produire de l'information/de la connaissance ; des données structurées sont formatées en fonction de l'usage qui va en être fait, en vue de faciliter le stockage, l'utilisation et la production d'information finie.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+bases, gestion, contenu, sgbd, donnée, logiciel, fichiers, enregistrement, vue, modèles, objet, entités, index, moteur, utilisées, objets, banque, activité, stockage, utilisation
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • bases
+  • sgbd
+  • vue
+  • objet
+  • index
+
+Специфические термины:
+  • gestion
+  • contenu
+  • donnée
+  • logiciel
+  • fichiers
+  • enregistrement
+  • modèles
+  • entités
+  • moteur
+  • utilisées
+  • objets
+  • banque
+  • activité
+  • stockage
+  • utilisation
+
+============================================================
+Дата создания реферата: 2025-12-28 23:39:03
+============================================================

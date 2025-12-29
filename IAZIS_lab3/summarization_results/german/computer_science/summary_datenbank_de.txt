@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\datenbank_de.txt
+Язык: german
+Заголовок: Datenbank
+URL: https://de.wikipedia.org/wiki/Datenbank
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:41
+Длина текста: 16819 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Die wesentliche Aufgabe einer Datenbank ist es, große Datenmengen effizient, widerspruchsfrei und dauerhaft zu speichern und benötigte Teilmengen in unterschiedlichen, bedarfsgerechten Darstellungsformen für Benutzer und Anwendungsprogramme bereitzustellen. Ein Datenbanksystem besteht aus zwei Teilen: der Verwaltungssoftware, genannt Datenbankmanagementsystem (DBMS) einerseits, und andererseits der Menge der zu verwaltenden Daten, der Datenbank (DB) im engeren Sinn, zum Teil auch „Datenbasis“ genannt. Die Verwaltungssoftware organisiert intern die strukturierte Speicherung der Daten und kontrolliert alle lesenden und schreibenden Zugriffe auf die Datenbank. Zu unterscheiden ist der hier beschriebene Begriff der Datenbank (bestehend aus Datenbankmanagementsystem (DBMS) und Daten) von Datenbankanwendungen: Letztere sind (häufig zur Anwendungssoftware gehörende) Computerprogramme, die ihre jeweils individuell erforderlichen Daten unter Nutzung eines Datenbanksystems verwalten und speichern. Dieses Konzept begegnete der Fehlentwicklung, dass Datenspeicher in Form von Dateien in der Regel für eine spezielle Anwendung konzipiert wurden und ein erheblicher Teil des Tagesgeschäfts mit Umkopieren, Mischen und Restrukturieren der Dateien belastet war. Die relationalen Datenbanksysteme verdrängten in den 1980er-Jahren die hierarchischen und netzwerkartigen Systeme, und der Großteil der Behörden, Konzerne, Institute und mittelständischen Unternehmen stellte seine IT auf Datenbanksysteme um. Während in den 1990er-Jahren wenige kommerzielle Hersteller von Datenbank-Software faktisch den Markt beherrschten (namentlich IBM, Informix, dBASE, Microsoft SQL Server und Oracle), erlangten in den 2000ern die Open-Source-Datenbankmanagementsysteme eine immer größere Bedeutung. Eine Datenbank gewährleistet die persistente Speicherung sowie die Konsistenz der Nutzdaten einer Institution und bietet für die benutzenden Datenbankanwendungen mit dem DBMS Schnittstellen zur Abfrage, Auswertung, Veränderung und Verwaltung dieser Daten. Hierzu erzeugt, nutzt und verwaltet das DBMS einen „Systemkatalog“ (Data-Dictionary) mit Metainformationen zum Datenbestand, beispielsweise über seine Struktur, seine Datenfelder (Name, Länge, Format …), Zugriffsregeln, Integritätsbedingungen usw. Einzelne DBMS-Hersteller verwenden geringfügig voneinander abweichende Begrifflichkeiten dafür, was man genau unter einer Datenbank versteht: entweder alle Daten, die von einem laufenden DBMS bzw. der Instanz verwaltet werden, oder nur die jeweils inhaltlich zusammengehörigen Daten. Funktionen eines Datenbankmanagementsystems (DBMS) Die wesentlichen Funktionen von heutigen Datenbankmanagementsystemen sind: Speicherung, Überschreibung und Löschung von Daten Verwaltung der Metadaten Vorkehrungen zur Datensicherheit Vorkehrungen zum Datenschutz Vorkehrungen zur Datenintegrität Ermöglichung des Mehrbenutzerbetriebs durch das Transaktionskonzept Optimierung von Abfragen Ermöglichung von Triggern und Stored Procedures Bereitstellung von Kennzahlen über Technik und Betrieb des DBMS Datensicherheit Das RDBMS speichert die relationalen Daten auf einem Speichermedium.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+datenbank, dbms, datenbanksystem, datenbanksysteme, relationalen, datenbankmanagementsystem, datenbanksystemen, datensicherheit, datenbankmodell, stored, procedures, datenbanksystems, er-jahren, sql, speicherung, abfrage, datenbanksprache, datenbank-software, wichtiger, datenbankmanagementsysteme
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • datenbanksystem
+  • datenbanksysteme
+  • datenbankmanagementsystem
+  • datenbanksystemen
+  • datenbanksystems
+  • datenbankmanagementsysteme
+
+Общие понятия:
+  • dbms
+  • sql
+
+Специфические термины:
+  • datenbank
+  • relationalen
+  • datensicherheit
+  • datenbankmodell
+  • stored
+  • procedures
+  • er-jahren
+  • speicherung
+  • abfrage
+  • datenbanksprache
+  • datenbank-software
+  • wichtiger
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:23
+============================================================

@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\johann_wolfgang_von_goethe_de.txt
+Язык: german
+Заголовок: Johann Wolfgang von Goethe
+URL: https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:02
+Длина текста: 182186 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Goethe stammte aus einer wohlhabenden und angesehenen bürgerlichen Familie; sein Großvater mütterlicherseits war als Stadtschultheiß höchster Justizbeamter der Stadt Frankfurt am Main, sein Vater Doktor der Rechte und Kaiserlicher Rat. Der in Italien erlebte Reichtum an kulturellem Erbe stimulierte seine dichterische Produktion, und die erotischen Erlebnisse mit einer jungen Römerin ließen ihn unmittelbar nach seiner Rückkehr eine dauerhafte, „unstandesgemäße“ Liebesbeziehung zu Christiane Vulpius aufnehmen, die er erst achtzehn Jahre später mit einer Eheschließung legalisierte. Sein aus Thüringen stammender Großvater Friedrich Georg Göthe (1657–1730) hatte sich 1687 als Schneidermeister in Frankfurt niedergelassen, die Schreibweise des Familiennamens geändert und konnte in ein florierendes Gasthaus- und Herbergsgeschäft einheiraten. So kam er zu einem ansehnlichen Vermögen, das er in Gestalt von Immobilien, Hypothekarkrediten und mehreren Säcken voller Geld seinen beiden Söhnen aus erster Ehe und dem jüngsten Sohn Johann Caspar Goethe (1710–1782), Johann Wolfgang Goethes Vater, hinterließ. Erste Ansätze seiner literarischen Phantasie bewies der kleine Goethe auch mit seinen (nach eigener Aussage) „aufschneiderischen Anfängen“, wunderliche Märchen zu erfinden und seinen staunenden Freunden in der Ich-Form zur spannenden Unterhaltung aufzutischen. Obwohl ihn sein Vater der Obhut des Professors für Geschichte und Staatsrecht, Johann Gottlob Böhme, anvertraut hatte und dieser Goethe den gewünschten Wechsel des Studienfachs untersagte, begann er das Pflichtstudium schon bald zu vernachlässigen. Später, 1783, plädierte Goethe im parallel gelagerten Falle der Kindsmörderin Johanna Höhn auf Nachfrage des Herzogs Carl August von Weimar, der ihre Todesstrafe zu lebenslänglicher Haft umwandeln wollte, mit seiner ausschlaggebenden Stimme im Geheimen Consilium für die Beibehaltung der Todesstrafe, wonach Höhn am 28. November 1783 mit dem Schwert enthauptet wurde. Außer dem Werther entstanden die großen Hymnen (unter anderem Wandrers Sturmlied, Ganymed, Prometheus und Mahomets Gesang), mehrere Kurzdramen (unter anderem Das Jahrmarktsfest zu Plundersweilern und Götter, Helden und Wieland) sowie die Dramen Clavigo und Stella. Er schrieb am 14. Mai 1780 an Kestner über sein literarisches Schaffen während des Staatsdienstes, dass er seine Schriftstellerei zurückstelle, sich aber „doch erlaube […] nach dem Beispiel des großen Königs, der täglich einige Stunden auf die Flöte wandte, auch manchmal eine Übung in dem Talente, das mir eigen ist.“ Von ehemaligen Freunden aus der Sturm-und-Drang-Periode, wie Lenz und Klinger, die ihn 1776 in Weimar besuchten, sich längere Zeit dort aufhielten und von Goethe finanziell unterstützt wurden, wandte er sich schließlich schroff ab. Wir Frankfurter Patrizier hielten uns immer dem Adel gleich, und als ich das Diplom in Händen hielt, hatte ich in meinen Gedanken eben nichts weiter, als was ich längst besessen.“ Damit erhob sich Goethes Selbstwertgefühl allerdings ein wenig über die Realität, denn keiner seiner beiden Großväter besaß von Geburt her das Frankfurter Bürgerrecht, geschweige denn die Zugehörigkeit zum Frankfurter Patriziat; Johann Wolfgang Textor war allerdings bis zum Älteren Bürgermeister aufgestiegen und soll eine Nobilitierung abgelehnt haben.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+eckermann, naturwissenschaftliche, tasso, boyle, farbenlehre, egmont, wanderjahre, naturwissenschaft, rat, morphologie, kunstwerk, wahlverwandtschaften, west-östlichen, mandelkow, wetzlar, torquato, conrady, kestner, wandrers, friedenthal
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • tasso
+  • boyle
+  • rat
+
+Специфические термины:
+  • eckermann
+  • naturwissenschaftliche
+  • farbenlehre
+  • egmont
+  • wanderjahre
+  • naturwissenschaft
+  • morphologie
+  • kunstwerk
+  • wahlverwandtschaften
+  • west-östlichen
+  • mandelkow
+  • wetzlar
+  • torquato
+  • conrady
+  • kestner
+  • wandrers
+  • friedenthal
+
+============================================================
+Дата создания реферата: 2025-12-07 12:42:34
+============================================================

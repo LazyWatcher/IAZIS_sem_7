@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\programmation_informatique_fr.txt
+Язык: french
+Заголовок: Programmation informatique
+URL: https://fr.wikipedia.org/wiki/Programmation_informatique
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:29
+Длина текста: 22980 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Des chercheurs comme Lev Manovich ou Shoshana Zuboff ont mis en lumière le rôle structurant du logiciel dans notre culture numérique contemporaine et les rapports de pouvoir qui en émergent. La programmation n’est pas neutre : elle implique des choix techniques et éthiques pouvant renforcer ou atténuer des biais algorithmiques, comme l’ont montré Joy Buolamwini et Timnit Gebru dans l’étude Gender Shades. Elle est aussi au cœur des débats sur l’inclusion dans les métiers du numérique, documentés notamment par Mar Hicks ou Janet Abbate. Enfin, elle s’inscrit dans des dynamiques sociales vivantes : communautés open source, plateformes coopératives comme GitHub, ou initiatives éducatives visant à démocratiser l’apprentissage du code. Les trous indiquaient le motif que le métier suivait pour réaliser un tissage ; avec des cartes différentes le métier produisait des tissages différents. En 1937, la publication de l'article fondateur de la science informatique On Computable Numbers with an Application to the Entscheidungsproblem par Alan Turing allait donner le coup d'envoi à la création de l'ordinateur programmable. Alors que leur rôle a été longtemps négligé, des études telles que celles de Janet Abbate ou de Mar Hicks ont permis de redécouvrir le rôle moteur joué par les femmes dans les origines de l'informatique. Mar Hicks montre comment, au Royaume-Uni, la profession a été délibérément masculinisée, écartant les femmes au profit d'une vision technocratique et élitiste de l'informatique. Des chercheuses comme Joy Buolamwini et Timnit Gebru ont démontré, dans l'étude Gender Shades, que certains systèmes d'IA présentaient des biais importants envers les femmes et les personnes racisées. Différents langages de programmation JavaScript PHP Ruby Java Swift C#, C ou C++ Python Julia Scala Rust Exemple de programme L'immense majorité des programmes qui s'exécutent sur nos ordinateurs, téléphones et autres outils électroniques sont écrits dans des langages de programmation dits impératifs : les lignes du programme sont exécutées les unes après les autres.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+impérative, communautés, mar, hicks, procédurale, compilés, gabriella, coleman, métier, gender, shades, inclusion, janet, abbate, programmable, python, hello, capitalism, défini, lev
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • programmable
+
+Общие понятия:
+  • mar
+  • hicks
+  • janet
+  • hello
+  • lev
+
+Специфические термины:
+  • impérative
+  • communautés
+  • procédurale
+  • compilés
+  • gabriella
+  • coleman
+  • métier
+  • gender
+  • shades
+  • inclusion
+  • abbate
+  • python
+  • capitalism
+  • défini
+
+============================================================
+Дата создания реферата: 2025-12-09 20:56:10
+============================================================

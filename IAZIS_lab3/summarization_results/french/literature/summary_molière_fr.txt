@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\molière_fr.txt
+Язык: french
+Заголовок: Molière
+URL: https://fr.wikipedia.org/wiki/Moli%C3%A8re
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:50
+Длина текста: 160888 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Engagés à Pâques 1646 dans une prestigieuse « troupe de campagne » entretenue par le duc d'Épernon, gouverneur de Guyenne, puis par plusieurs protecteurs successifs, Molière et ses amis Béjart parcourent pendant douze ans les provinces méridionales du royaume. Biographie La jeunesse de Molière Famille Fils de Jean Poquelin (1595-1669) et de Marie Cressé (1601-1632), Jean-Baptiste Poquelin est né dans les premiers jours de 1622, ce qui fait de lui, à quelques années près, le contemporain de Cyrano de Bergerac, de Furetière, de Tallemant des Réaux, de Colbert, de D'Artagnan, de Ninon de Lenclos, de La Fontaine, du Grand Condé et de Pascal. Ce dernier avait pour précepteur occasionnel Pierre Gassendi, redécouvreur d'Épicure et du matérialisme antique, lequel, écrit Grimarest, « ayant remarqué dans Molière toute la docilité et toute la pénétration nécessaires pour prendre les connaissances de la philosophie », l'aurait admis à ses leçons avec Chapelle, Bernier et Cyrano de Bergerac. Divers auteurs — Élie Cottier, Léon Thoorens, Virginia Scott, Georges Forestier — ont fait remarquer que dans la première moitié du XVIIe siècle les comédiens choisissaient très souvent des noms de scène se référant à des fiefs imaginaires, tous plus ou moins "champêtres" : Pierre le Messier, sieur de Bellerose, Guillaume Desgilberts, sieur de Montdory, Josias de Soulas, sieur de Floridor, Zacharie Jacob, sieur de Montfleury. Heureusement, Molière et ses amis Béjart (Joseph, Madeleine et Geneviève, bientôt rejoints par leur mère qui amène le petit Louis, âgé de 16 ans) sont engagés durant le relâche de Pâques 1646 par la plus réputée des "troupes de campagne", la troupe du duc d'Épernon, gouverneur de Guyenne, et dirigée par Charles Dufresne. Ce sera le début d'une étroite relation intellectuelle entre le prince et le comédien, dont Joseph de Voisin, confesseur de Conti, témoignera quinze ans plus tard : « Monseigneur le prince de Conti avait eu en sa jeunesse tant de passion pour la comédie qu’il entretint longtemps à sa suite une troupe de comédiens, afin de goûter avec plus de douceur le plaisir de ce divertissement ; et ne se contentant pas de voir les représentations du théâtre, il conférait souvent avec le chef de leur troupe, qui est le plus habile comédien de France, de ce que leur art a de plus excellent et de plus charmant. Exploitant des procédés typiques de la commedia dell'arte, Molière donne au rôle de Mascarille, qu'il interprète, une exceptionnelle importance, le faisant paraître dans 35 des 41 scènes que compte la pièce ; ce qui fait écrire à l'historienne Virginia Scott que Molière avait alors « découvert que son véritable talent était dans la comédie, même s'il n'avait pas encore abandonné tout espoir d'être reconnu comme acteur tragique » — comme le montrent les portraits en habit de César peints par Sébastien Bourdon et les frères Mignard. Adaptées à un public qui avait pour l'improvisation « un goût vif et naturel », ces farces, dont la plupart ne nous sont pas parvenues, ont recours, selon des recherches récentes, aux « mêmes ressources dramatiques que celles qui [faisaient] le succès de la commedia dell'arte […] adoptant une forme de jeu scénique qui était jusqu’alors l’apanage des Italiens, comme le lazzo (acrobatie verbale et gestuelle), le quiproquo et, bien sûr, l’humour bouffon ». Cependant, quelques littérateurs en quête de notoriété — au premier rang desquels Jean Donneau de Visé et Charles Robinet, rédacteur de la Gazette dite de Renaudot, soutenus dans l'ombre par les frères Pierre et Thomas Corneille — pointent dans la pièce ce qu'ils feignent de considérer comme des indices d’immoralité, telle la fameuse scène du « le… » (Acte II, scène 5), et d’impiété, telle la prétendue parodie de sermon dans les recommandations d’Arnolphe à Agnès, et des commandements divins dans les Maximes du mariage ou les devoirs de la femme mariée, avec son exercice journalier (Acte III, scène 2). Molière se défend par un premier Placet présenté au Roi, à l'été 1664, dans lequel il cite les outrances de ce pamphlet comme contraires au jugement favorable qu'avait d'abord donné le roi et invoque pour sa défense le but moral de la comédie : « Le devoir de la comédie étant de corriger les hommes en les divertissant, j'ai cru que, dans l'emploi où je me trouve, je n'avais rien de mieux à faire que d'attaquer par des peintures ridicules les vices de mon siècle ; et comme l'hypocrisie sans doute en est un des plus en usage, des plus incommodes et des plus dangereux, j'avais eu, Sire, la pensée que je ne rendrais pas un petit service à tous les honnêtes gens de votre royaume, si je faisais une comédie qui décriât les hypocrites et mît en vue comme il faut toutes les grimaces étudiées de ces gens de bien à outrance, toutes les friponneries couvertes de ces faux-monnayeurs en dévotion, qui veulent attraper les hommes avec un zèle contrefait et une charité sophistique.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+molière, troupe, tartuffe, béjart, poquelin, armande, grange, palais-royal, ridicules, grimarest, lully, misanthrope, avare, pourceaugnac, donneau, visé, harpagon, ridicule, sieur, sganarelle
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • lully
+  • avare
+  • visé
+  • sieur
+
+Специфические термины:
+  • molière
+  • troupe
+  • tartuffe
+  • béjart
+  • poquelin
+  • armande
+  • grange
+  • palais-royal
+  • ridicules
+  • grimarest
+  • misanthrope
+  • pourceaugnac
+  • donneau
+  • harpagon
+  • ridicule
+  • sganarelle
+
+============================================================
+Дата создания реферата: 2025-12-07 12:35:35
+============================================================

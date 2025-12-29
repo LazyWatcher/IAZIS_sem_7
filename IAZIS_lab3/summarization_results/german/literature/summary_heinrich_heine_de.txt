@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\heinrich_heine_de.txt
+Язык: german
+Заголовок: Heinrich Heine
+URL: https://de.wikipedia.org/wiki/Heinrich_Heine
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:12
+Длина текста: 118280 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Heine gilt als einer der letzten Vertreter und zugleich als Überwinder der Romantik, machte die Alltagssprache lyrikfähig, erhob das Feuilleton und den Reisebericht zur Kunstform und verlieh der deutschen Literatur eine zuvor nicht gekannte, elegante Leichtigkeit. Sie war eine Tochter des angesehenen Arztes Gottschalk van Geldern, der bis 1795 der Judenschaft in Jülich-Berg vorgestanden hatte, sowie die Urenkelin des kurfürstlichen Hofkammeragenten Joseph Jacob van Geldern, in dessen Wohnhaus zu Beginn des 18. Jahrhunderts die erste Synagoge Düsseldorfs eingerichtet worden war. Als die kurpfälzisch-bayerische Regierung, der das Herzogtum Berg und dessen Hauptstadt Düsseldorf unterstanden, 1804 auch jüdischen Kindern den Besuch christlicher Schulen erlaubte, wechselte er auf die städtische Grundschule, die heutige Max-Schule in der Citadellstraße, und 1807 in die Vorbereitungsklasse des Düsseldorfer Lyzeums, des heutigen Görres-Gymnasiums, das im Sinne der Spätaufklärung wirkte. Nach dem Ende der Franzosenzeit erlebte Heine die politische und territoriale Neuordnung des Kontinents unter dem restaurativen Metternichschen System, das als Inbegriff von Verfolgung und Unterdrückung von Demokratie, Presse-, Meinungs- und Versammlungsfreiheit galt. Er sah sich hastig um, beruhigte sich aber bald, denn nur Heinrich Beer hatte das Wort gehört.“ Bald fand Heine Kontakt zu den literarischen Zirkeln Berlins und war regelmäßiger Gast im Salon Elise von Hohenhausens sowie im sogenannten Zweiten Salon Rahel Varnhagens. Rahel und ihr Mann Karl August Varnhagen von Ense blieben Heine freundschaftlich verbunden und förderten seine Karriere, indem sie seine frühen Werke positiv besprachen und ihm weitere Kontakte vermittelten, beispielsweise zu Varnhagens Schwester Rosa Maria Assing, deren Salon in Hamburg er frequentierte. Seinem Freund Moses Moser schrieb er im Januar 1826: Und von der Nordsee schrieb er ihm im August 1826: Für Klaus Briegleb ist dieses Zitat ein Schlüsselbeleg für seine These, dass Heine als genuin jüdischer Schriftsteller in der Diaspora zu verstehen sei, ja als ein „neuzeitlicher Marrane“, d. h. als ein „Getaufter, der im Herzen jüdisch bleibt.“ An der Leitfigur des „ewigen Juden“ hat Briegleb „seine umfassende Deutung von Denk- und Schreibweise des exilierten Heine festgemacht“. Unbedingt liebe ich ihn nur bis zum achtzehnten Brumaire – da verrieth er die Freyheit.“ Er erwies sich als witziger und sarkastischer Kommentator, wenn er während seiner Italienreise nach Genua beispielsweise schreibt: „Ja, mich dünkt zuweilen, der Teufel, der Adel und die Jesuiten existiren nur so lange, als man an sie glaubt.“ Seine Reisebilder verweisen zwar vielfach auf Vorbilder wie Laurence Sternes Sentimental Journey through France and Italy oder Goethes Italienische Reise, setzten sich von der üblichen Reiseliteratur durch „dezidierte Subjektivierung und Politisierung der Perspektive“ bewusst ab. Die mit ihnen eingeführte Zensur im Deutschen Bund, der auch alle Veröffentlichungen Heines unterworfen waren, verstand er satirisch zu unterlaufen, wie 1827 im Buch Le Grand mit dem folgenden, vorgeblich zensierten Text: Ab November 1827, als er Redakteur der Neuen allgemeinen politischen Annalen in München wurde, geriet Heine nach Georg Lukács in einen „ständigen Guerillakampf mit der Zensur um die große Öffentlichkeit“. So dominiert in Neuer Frühling scheiternde Liebe, in Verschiedene desillusionäres Leiden am rein körperlichen Liebesgenuß, in Romanzen trügerische Liebe und im Schluß der Zeitgedichte die leidende Liebe zum gewandelten, deutschen Vaterland.“ Den Abschluss der Neuen Gedichte bilden die 1843 entstandenen Nachtgedanken mit dem oft zitierten Eingangsvers Das Gedicht endet mit den Zeilen: Die „deutschen Sorgen“ Heines betrafen nicht nur die politischen Zustände jenseits des Rheins, sondern auch seine mittlerweile verwitwete, allein lebende Mutter, deren Wohnung dem großen Hamburger Stadtbrand von 1842 zum Opfer gefallen war.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+heine, heines, briegleb, heine-denkmal, salon, reisebilder, mathilde, kruse, engels, liedtke, harry, höhn, rabbi, romanzero, heinrich-heine-institut, matratzengruft, almansor, bacherach, julirevolution, jan-christoph
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • heine
+  • salon
+  • kruse
+  • harry
+  • höhn
+  • rabbi
+
+Специфические термины:
+  • heines
+  • briegleb
+  • heine-denkmal
+  • reisebilder
+  • mathilde
+  • engels
+  • liedtke
+  • romanzero
+  • heinrich-heine-institut
+  • matratzengruft
+  • almansor
+  • bacherach
+  • julirevolution
+  • jan-christoph
+
+============================================================
+Дата создания реферата: 2025-12-07 12:40:22
+============================================================

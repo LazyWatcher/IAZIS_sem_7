@@ -1,0 +1,65 @@
+ОТЧЕТ О ЗАГРУЗКЕ СТАТЕЙ ИЗ WIKIPEDIA
+==========================================
+
+Дата загрузки: 2025-12-07T12:01:14.691486
+Директория: D:\Student\Сем_7\Иязис\IAZIS_lab3\wikipedia_articles
+
+СТАТИСТИКА:
+-----------
+Французские статьи по computer science: 10
+Французские статьи по литературе: 10
+Немецкие статьи по computer science: 10
+Немецкие статьи по литературе: 10
+
+ВСЕГО СТАТЕЙ: 40
+
+ДЕТАЛЬНЫЙ СПИСОК:
+-----------------
+
+FRENCH - COMPUTER SCIENCE:
+  • algorithmique_fr.txt (21.88 KB)
+  • base_de_données_fr.txt (33.41 KB)
+  • informatique_fr.txt (75.51 KB)
+  • intelligence_artificielle_fr.txt (128.38 KB)
+  • langage_de_programmation_fr.txt (31.93 KB)
+  • machine_learning_fr.txt (53.08 KB)
+  • programmation_informatique_fr.txt (23.4 KB)
+  • réseau_informatique_fr.txt (10.91 KB)
+  • système_d'exploitation_fr.txt (65.78 KB)
+  • sécurité_informatique_fr.txt (24.4 KB)
+
+FRENCH - LITERATURE:
+  • albert_camus_fr.txt (81.33 KB)
+  • charles_baudelaire_fr.txt (56.44 KB)
+  • gustave_flaubert_fr.txt (35.51 KB)
+  • honoré_de_balzac_fr.txt (144.91 KB)
+  • jean-paul_sartre_fr.txt (99.58 KB)
+  • littérature_française_fr.txt (28.91 KB)
+  • marcel_proust_fr.txt (62.14 KB)
+  • molière_fr.txt (163.95 KB)
+  • simone_de_beauvoir_fr.txt (48.09 KB)
+  • victor_hugo_fr.txt (115.51 KB)
+
+GERMAN - COMPUTER SCIENCE:
+  • algorithmus_de.txt (24.08 KB)
+  • betriebssystem_de.txt (40.69 KB)
+  • computernetzwerk_de.txt (13.23 KB)
+  • datenbank_de.txt (16.82 KB)
+  • informatik_de.txt (44.95 KB)
+  • it-sicherheit_de.txt (72.79 KB)
+  • künstliche_intelligenz_de.txt (73.4 KB)
+  • maschinelles_lernen_de.txt (35.91 KB)
+  • programmiersprache_de.txt (23.59 KB)
+  • softwareentwicklung_de.txt (15.92 KB)
+
+GERMAN - LITERATURE:
+  • bertolt_brecht_de.txt (86.18 KB)
+  • deutsche_literatur_de.txt (118.87 KB)
+  • franz_kafka_de.txt (96.97 KB)
+  • friedrich_dürrenmatt_de.txt (39.39 KB)
+  • friedrich_schiller_de.txt (76.92 KB)
+  • günter_grass_de.txt (60.15 KB)
+  • heinrich_heine_de.txt (118.16 KB)
+  • hermann_hesse_de.txt (68.62 KB)
+  • johann_wolfgang_von_goethe_de.txt (181.89 KB)
+  • thomas_mann_de.txt (77.31 KB)

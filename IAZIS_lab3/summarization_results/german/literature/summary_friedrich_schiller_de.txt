@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\friedrich_schiller_de.txt
+Язык: german
+Заголовок: Friedrich Schiller
+URL: https://de.wikipedia.org/wiki/Friedrich_Schiller
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:03
+Длина текста: 77012 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Leben Überblick Friedrich Schiller war der einzige Sohn eines auch als Wundarzt tätigen württembergischen Offiziers und wuchs mit seinen fünf Schwestern in Schwäbisch Gmünd, Lorch und später in Ludwigsburg auf. Neben seinem dramatischen Werk verfasste Schiller zahlreiche ästhetische Abhandlungen wie Die Schaubühne als eine moralische Anstalt betrachtet, Über Anmut und Würde, Über die ästhetische Erziehung des Menschen, Über naive und sentimentalische Dichtung und Vom Erhabenen, in denen er seine Poetik darlegte und der Literatur durch eine bis dato unbekannte Reflexionstiefe neue Wege wies. Herkunft, Ausbildung und erste Erfolge Elternhaus Friedrich Schiller wurde als zweites Kind des Offiziers, Wundarztes und Leiters der Hofgärtnerei in Marbach am Neckar Johann Kaspar Schiller und dessen Ehefrau Elisabetha Dorothea Schiller, geb. Ein relativ bekanntes Beispiel aus dieser Arbeit ist seine Weigerung, die damals bereits bewiesene Tatsache anzuerkennen, dass die Kanäle des Innenohres mit Flüssigkeiten gefüllt sind: Erst ein Jahr später, nach einem weiteren vergeblichen Versuch mit einer Dissertation über Fieberkrankheiten, wurde ihm der Doktorgrad verliehen. Als er vier Monate später ein zweites Mal ohne Urlaubsgenehmigung nach Mannheim reiste, steckte Herzog Carl Eugen den unbotmäßigen Dichter zur Strafe für vierzehn Tage in Arrest in die Stuttgarter Hauptwache (heute überbaut, Königstraße 29) und untersagte ihm jeden weiteren Kontakt mit dem (kurpfälzischen) Ausland. In der Nacht vom 22. auf den 23. September 1782, während der Herzog zu Ehren des russischen Großfürsten Paul, des späteren Zaren, und seiner Gemahlin, einer Nichte Carl Eugens, ein großes Fest mit Feuerwerk gab, nutzte Schiller die Gunst des Augenblicks und floh mit seinem Freund Andreas Streicher aus der Stadt. Unsichere Jahre 1783–1789 Als Gerüchte laut wurden, dass sich Herzog Carl Eugen um Schillers Auslieferung bemühe, bekam der Dichter auf Vermittlung seines Studienfreundes Wilhelm von Wolzogen (der 1794 Caroline von Lengefeld heiratete) im Dezember 1782 bei dessen Mutter Henriette von Wolzogen ein unauffälliges Asyl mit dem Pseudonym Dr. Ritter im thüringischen Bauerbach. Die Bekanntschaft mit Körner, der von 1812 bis 1816 eine Gesamtausgabe von Schillers Werken herausgab, hatte im Juni 1784 mit einem anonymen, aber mit vier Porträts versehenen Brief begonnen: Körner und sein Freund Ludwig Ferdinand Huber waren mit den Töchtern Minna und Dora Stock des Leipziger Kupferstechers Johann Michael Stock (1737–1773) liiert und für diese unstandesgemäße Verbindung von ihren großbürgerlich-autoritären Vätern kritisiert worden. Deshalb konnten sich die beiden Brautpaare insbesondere mit der Darstellung der nicht standesgemäßen Beziehung in Schillers Drama Kabale und Liebe identifizieren und hatten in dem genannten anonymen Brief an Schiller ihre uneingeschränkte Verehrung für dessen mutige Dramen zum Ausdruck gebracht: „Zu einer Zeit, da die Kunst sich immer mehr zur feilen Sklavin reicher und mächtiger Wollüstlinge herabwürdigt, tut es wohl, wenn ein großer Mann auftritt und zeigt, was der Mensch auch jetzt noch vermag.“ Schiller antwortete erst ein halbes Jahr später auf diesen Brief: „Ihre Briefe […] trafen mich in einer der traurigsten Stimmungen meines Herzens.“ Nach der beglückenden Begegnung mit dem späteren Freund Körner entstand im Sommer und Herbst 1785 die Ode An die Freude. Als man hörte, dass Schiller noch lebte, gewährten im Dezember desselben Jahres Ernst Heinrich Graf von Schimmelmann und Friedrich Christian von Augustenburg, Mitglieder des dänischen Freundeskreises, Schiller eine jährliche Pension von 1000 Talern, die auf drei Jahre befristet war – eine hochwillkommene Erleichterung der Lebenshaltung, die Schiller vorübergehend von den Pflichten des Broterwerbs befreite, sodass er sich ganz auf seine philosophischen und ästhetischen Studien konzentrieren konnte.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+schiller, herzog, schillers, karlos, körner, vollendete, lengefeld, schädel, jungfrau, erziehung, humboldt, cotta, schönen, oellers, moralische, kabale, rudolstadt, orléans, verdi, karlsschule
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • cotta
+  • verdi
+
+Специфические термины:
+  • schiller
+  • herzog
+  • schillers
+  • karlos
+  • körner
+  • vollendete
+  • lengefeld
+  • schädel
+  • jungfrau
+  • erziehung
+  • humboldt
+  • schönen
+  • oellers
+  • moralische
+  • kabale
+  • rudolstadt
+  • orléans
+  • karlsschule
+
+============================================================
+Дата создания реферата: 2025-12-07 12:39:18
+============================================================

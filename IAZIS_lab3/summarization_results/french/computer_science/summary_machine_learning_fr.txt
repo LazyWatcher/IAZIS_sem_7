@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\computer_science\machine_learning_fr.txt
+Язык: french
+Заголовок: Machine learning
+URL: https://fr.wikipedia.org/wiki/Apprentissage_automatique
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:36
+Длина текста: 52383 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+L'estimation du modèle consiste à résoudre une tâche pratique, telle que traduire un discours, estimer une densité de probabilité, reconnaître la présence d'un chat dans une photographie ou participer à la conduite d'un véhicule autonome. Il cherche à découvrir des structures sous-jacentes, cachées (qui peuvent par exemple être une densité de probabilité) ; des motifs dans les données permettent la classification ou le classement des données ; l'apprentissage semi-supervisé : il tire parti d'une grande quantité de données non étiquetées pour améliorer la performance du modèle, tout en utilisant une moindre quantité de données étiquetées pour guider son apprentissage. L'apprentissage automatique peut être appliqué à divers types de données, tels des graphes, des arbres, des courbes, ou plus simplement des vecteurs de caractéristiques, qui peuvent être des variables qualitatives ou quantitatives continues ou discrètes. En 1943, le neurophysiologiste Warren McCulloch et le mathématicien Walter Pitts publient un article décrivant le fonctionnement de neurones en les représentant à l'aide de circuits électriques. En 2014, 64 ans après la prédiction d'Alan Turing, le dialogueur Eugene Goostman est le premier à réussir le test de Turing en parvenant à convaincre 33 % des juges humains au bout de cinq minutes de conversation qu'il est non pas un ordinateur, mais un garçon ukrainien de 13 ans. L'apprentissage automatique permet à un système piloté ou assisté par ordinateur comme un programme, une IA ou un robot, d'adapter ses réponses ou comportements aux situations rencontrées, en se fondant sur l'analyse de données empiriques passées issues de bases de données, de capteurs, ou du web. Ces programmes, selon leur degré de perfectionnement, intègrent éventuellement des capacités de traitement probabiliste des données, d'analyse de données issues de capteurs, de reconnaissance (reconnaissance vocale, de forme, d'écriture…), de fouille de données, d'informatique théorique… Applications L'apprentissage automatique est utilisé dans un large spectre d'applications pour doter des ordinateurs ou des machines de capacité d'analyser des données d'entrée comme : perception de leur environnement (vision, Reconnaissance de formes tels des visages, schémas, segmentation d'image, langages naturels, caractères dactylographiés ou manuscrits ; moteurs de recherche, analyse et indexation d'images et de vidéo, en particulier pour la recherche d'image par le contenu ; aide aux diagnostics, médical notamment, bio-informatique, chémoinformatique ; interfaces cerveau-machine ; détection de fraudes à la carte de crédit, cybersécurité, analyse financière, dont analyse du marché boursier ; classification des séquences d'ADN ; jeu ; génie logiciel ; adaptation de sites Web ; robotique (locomotion de robots, etc.) ; analyse prédictive dans de nombreux domaines (financière, médicale, juridique, judiciaire), diminution des temps de calcul pour les simulations informatiques en physique (calcul de structures, de mécanique des fluides, de neutronique, d'astrophysique, de biologie moléculaire, etc.), optimisation de design dans l'industrie, modèles météorologiques ou prédictions de l'ensoleillement dans le développement des énergies solaires ,etc. : Pour un épidémiologiste qui voudrait dans un ensemble assez large de victimes de cancer du foie tenter de faire émerger des hypothèses explicatives, l'ordinateur pourrait différencier différents groupes, que l'épidémiologiste chercherait ensuite à associer à divers facteurs explicatifs, origines géographique, génétique, habitudes ou pratiques de consommation, expositions à divers agents potentiellement ou effectivement toxiques (métaux lourds, toxines telle que l'aflatoxine, etc.).Contrairement à l'apprentissage supervisé où l'apprentissage automatique consiste à trouver une fonction f telle que Y = f(X), où Y est un résultat connu et objectif (par exemple Y = « présence d'une tumeur » ou « absence de tumeur » en fonction de X = image radiographique), dans l'apprentissage non supervisé, on ne dispose pas de valeurs de Y, uniquement de valeurs de X (dans l'exemple précédent, on disposerait uniquement des images radiographiques sans connaissance de la présence ou non d'une tumeur. L'apprentissage non supervisé présente cependant l'intérêt de pouvoir travailler sur une base de données de X sans qu'il soit nécessaire d'avoir des valeurs de Y correspondantes, or les Y sont généralement compliqués et/ou coûteux à obtenir, alors que les seuls X sont généralement plus simples et moins coûteux à obtenir (dans l'exemple des images radiographiques, il est relativement aisé d'obtenir de telles images, alors qu'obtenir les images avec le label « présence de tumeur » ou « absence de tumeur » nécessite l'intervention longue et coûteuse d'un spécialiste en imagerie médicale). Certains chercheurs, comme Yann Le Cun, pensent que si l'IA générale est possible, c'est probablement par une approche de type auto-supervisé qu'elle pourrait être conçue, par exemple en étant immergée dans le monde réel pour essayer à chaque instant de prédire les images et les sons les plus probables à venir, en comprenant qu'un ballon en train de rebondir et de rouler va encore continuer à rebondir et à rouler, mais de moins en moins haut et de moins en moins vite jusqu'à s'arrêter, et qu'un obstacle est de nature à arrêter le ballon ou à modifier sa trajectoire, ou à essayer de prédire les prochains mots qu'une personne est susceptible de prononcer ou le prochain geste qu'elle pourrait accomplir.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+étiquetées, tumeur, transfert, tabulaires, gpu, probabiliste, boosting, extrapolation, explicabilité, prédéterminées, manquantes, pattern, usuellement, supériorité, probabilité, distingue, cachées, continues, rencontrées, discriminante
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • gpu
+
+Специфические термины:
+  • étiquetées
+  • tumeur
+  • transfert
+  • tabulaires
+  • probabiliste
+  • boosting
+  • extrapolation
+  • explicabilité
+  • prédéterminées
+  • manquantes
+  • pattern
+  • usuellement
+  • supériorité
+  • probabilité
+  • distingue
+  • cachées
+  • continues
+  • rencontrées
+  • discriminante
+
+============================================================
+Дата создания реферата: 2025-12-09 20:56:08
+============================================================

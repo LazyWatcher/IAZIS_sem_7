@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\french\literature\marcel_proust_fr.txt
+Язык: french
+Заголовок: Marcel Proust
+URL: https://fr.wikipedia.org/wiki/Marcel_Proust
+Категория: literature
+Дата загрузки: 2025-12-07 12:00:53
+Длина текста: 61507 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Issu d'une famille aisée et cultivée, d'origine juive par sa mère, catholique par son père (professeur de médecine à Paris), Marcel Proust est un enfant de santé fragile, et il a toute sa vie de graves difficultés respiratoires causées par l'asthme. Marcel Proust meurt épuisé en 1922, d'une bronchite mal soignée : il est inhumé au cimetière du Père-Lachaise à Paris, accompagné par une assistance nombreuse qui salue un écrivain d'importance et que les générations suivantes placent au plus haut en faisant de lui un mythe littéraire. L'œuvre romanesque de Marcel Proust est une réflexion majeure sur le temps et la mémoire affective comme sur les fonctions de l'art qui doit proposer ses propres mondes, mais c'est aussi une réflexion sur l'amour et la jalousie, avec un sentiment de l'échec et du vide de l'existence qui colore en gris la vision proustienne où l'homosexualité tient une place importante. Proust recrée des lieux révélateurs, qu'il s'agisse des lieux de l'enfance dans la maison de tante Léonie à Combray ou des salons parisiens qui opposent les milieux aristocratiques et bourgeois, ces mondes étant évoqués d'une plume parfois acide par un narrateur à la fois captivé et ironique. Sa mère, née Jeanne Clémence Weil (Paris, 1849 - id., 1905), fille de Nathé Weil (Paris, 1814 - id., 1896), un agent de change et de Adèle Berncastel (Paris, 1824 - id., 1890), appartient à une famille de la grande bourgeoisie juive dont certains membres jouent un rôle important dans l'histoire du judaïsme français, notamment un oncle de Mme Proust : Godchaux Weil, alias Ben Lévi, un écrivain célèbre dans la communauté juive, et Adolphe Crémieux, président de l'Alliance israélite universelle et ancien ministre, grand-oncle et témoin de mariage de Mme Proust. Son père, le Dr Adrien Proust (Illiers, 1834 - Paris, 1903), fils de François Proust (1800-1801 - Illiers, 1855), un commerçant prospère d'Illiers (Eure-et-Loir) et de Virginie née Catherine Virginie Torcheux (Cernay, 1809 - Illiers, 1889), est professeur à la faculté de médecine de Paris après avoir commencé ses études au séminaire, et un grand hygiéniste, conseiller du gouvernement pour la lutte contre les épidémies. Bien que réunissant les conditions pour faire partie de deux religions, fils d'un père catholique et d'une mère juive qui refusa de se convertir au christianisme par égard pour ses parents, lui-même baptisé à l'église Saint-Louis-d'Antin à Paris, Marcel Proust a revendiqué son droit de ne pas se définir par rapport à une religion (en tout cas, pas la religion juive), mais il écrit être catholique et ses funérailles eurent bien lieu à l'église. Il est aussi ami avec Fernand Gregh, Jacques Baignères et Daniel Halévy (le cousin de Jacques Bizet), avec qui il écrit dans des revues littéraires du lycée, dont Le Lundi, revue artistique et littéraire, qu'Antoine Compagnon a retrouvé et qui contiendrait la trace des premiers écrits publiés de Proust. Le premier amour d'enfance et d'adolescence de l'écrivain est Marie de Benardaky, fille d'un diplomate polonais, sujet de l'Empire russe, avec qui il joue dans les jardins des Champs-Élysées, le jeudi après-midi, avec Antoinette et Lucie Félix-Faure Goyau, filles du futur président de la République, Léon Brunschvicg, Paul Bénazet ou Maurice Herbette. Plutôt attiré par la seconde solution, il écrit au bibliothécaire du Sénat, Charles Grandjean, et décide dans un premier temps de s'inscrire en licence à la Sorbonne, où il suit les conférences d'Henri Bergson (même s'il lui enseignait encore au lycée Henri-IV), son cousin par alliance, au mariage duquel il est garçon d'honneur et dont l'influence sur son œuvre a été parfois jugée importante, ce dont Proust s'est toujours défendu.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+ruskin, swann, santeuil, tadié, céleste, illiers, reynaldo, hahn, albertine, guermantes, montesquiou, bibesco, albaret, proust, fragile, sésame, homosexualité, bizet, lemaire, disparue
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • swann
+  • tadié
+  • hahn
+  • bizet
+
+Специфические термины:
+  • ruskin
+  • santeuil
+  • céleste
+  • illiers
+  • reynaldo
+  • albertine
+  • guermantes
+  • montesquiou
+  • bibesco
+  • albaret
+  • proust
+  • fragile
+  • sésame
+  • homosexualité
+  • lemaire
+  • disparue
+
+============================================================
+Дата создания реферата: 2025-12-09 20:59:32
+============================================================

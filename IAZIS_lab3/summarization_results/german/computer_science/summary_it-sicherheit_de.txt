@@ -1,0 +1,58 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\computer_science\it-sicherheit_de.txt
+Язык: german
+Заголовок: IT-Sicherheit
+URL: https://de.wikipedia.org/wiki/Informationssicherheit
+Категория: computer_science
+Дата загрузки: 2025-12-07 12:00:43
+Длина текста: 73170 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+In der Praxis orientiert sich die Informationssicherheit im Rahmen des IT-Sicherheitsmanagements unter anderem an der internationalen ISO/IEC-27000-Reihe oder dem US-System der System and Organization Controls (SOC). Die Normenreihe IEC 62443 befasst sich mit der Informationssicherheit von „Industrial Automation and Control Systems“ (IACS) und verfolgt dabei einen ganzheitlichen Ansatz für Betreiber, Integratoren und Hersteller. Der Begriff Informationssicherheit bezieht sich oft auf eine globale Informationssicherheit, bei der die Zahl der möglichen schädlichen Szenarien summarisch reduziert ist oder der Aufwand zur Kompromittierung für den Betreiber in einem ungünstigen Verhältnis zum erwarteten Informationsgewinn steht. Beispiel: Die Prinzipien der Informationssicherheit können auch auf per Hand auf Papier notierte Rezepte eines Restaurants angewendet werden, da Vertraulichkeit, Integrität und Verfügbarkeit der Rezepte für das Restaurant extrem wichtig sein können, selbst wenn dieses Restaurant vollkommen ohne Einsatz irgendeines IT-Systems betrieben wird. Die Schutzziele in der Informationssicherheit sind: Die allgemeinen Schutzziele sind nach ihrer englischen Abkürzung auch als CIA(-Triade) bekannt: Vertraulichkeit (englisch confidentiality): Daten dürfen lediglich von autorisierten Benutzern gelesen werden, dies gilt sowohl beim Zugriff auf gespeicherte Daten wie auch während der Datenübertragung. Zurechenbarkeit (englisch accountability): „Eine durchgeführte Handlung kann einem Kommunikationspartner eindeutig zugeordnet werden.“ in bestimmtem Kontext (zum Beispiel im Internet) auch Anonymität Besonderes Schutzziel im Zuge der NIS-2-Richtlinie: Resilienz (englisch resilience): Widerstandsfähigkeit/Belastbarkeit gegenüber Ausspähungen, irrtümlichen oder mutwilligen Störungen oder absichtlichen Schädigungen (Sabotagen). Bedeutung der Informationssicherheit In den frühen Anfangszeiten des (Personal-)Computers verstand man unter Computersicherheit die Sicherstellung der korrekten Funktionalität von Hardware (Ausfall von zum Beispiel Bandlaufwerken oder anderen mechanischen Bauteilen) und Software (richtige Installation und Wartung von Programmen). B. durch illegitime Ressourcennutzung, Veränderung von publizierten Inhalten wie Vandalismus etc. Sabotage Spionage Betrug und Diebstahl Erpressung Ursachen oder Mittel Das Bundesamt für Sicherheit in der Informationstechnik (BSI) klassifiziert die unterschiedlichen Angriffsmethoden und -mittel in: Schadsoftware bzw. Malware, zu denen unter anderem Computerviren, Trojaner und Würmer gehören, Ransomware, eine besondere Form von Schadsoftware, die den Zugriff auf Daten und Systeme einschränkt und dessen Ressourcen erst gegen Zahlung eines Lösegelds wieder freigibt, Social Engineering, Advanced Persistent Threats (APT), bei denen der Angreifer sein Ziel sorgfältig aussucht, Unerwünscht zugesandte E-Mails (Spam), der wiederum in klassischen Spam, Schadprogramm-Spam und Phishing unterteilt werden, Botnetze, Distributed-Denial-of-Service-(DDoS)-Angriffe, Drive-by-Exploits und Exploit-Kits, die Sicherheitslücken in Browser, Browser-Plug-ins oder Betriebssystemen ausnutzen, Identitätsdiebstahl, wie zum Beispiel Spoofing, Phishing, Pharming oder Vishing, Seitenkanalangriffe – also solche Angriffe, die Nebeneffekte (Laufzeitverhalten, Energieverbrauch) beobachten und so Rückschlüsse auf die Daten ziehen; dies findet insbesondere bei Schlüsselmaterial Anwendung. Daneben können die oben genannten Effekte auch durch physischen Einbruch zum Stehlen sensibler Daten wie Schlüssel oder zum Platzieren von Malware, höhere Gewalt, zum Beispiel in Form von Blitzschlag, Feuer, Vulkanausbruch oder Überschwemmung oder Fehlbedienung durch Personal oder zugangsberechtigte Personen verursacht werden. Restriktive Konfiguration Die Verwendung eingeschränkter Benutzerkonten für die tägliche Arbeit verhindert die Kompromittierung des Betriebssystems selbst, der Systemkonfiguration und der (schreibgeschützt) installierten Anwendungs- und System-Programme, bietet aber keinen Schutz gegen Kompromittierung der Benutzerdaten und der Benutzerkonfiguration: unter eingeschränkten Benutzerkonten sind beliebige Programme (dazu zählen auch Shellskripte und Stapelverarbeitungsdateien) ausführbar, obwohl die wenigsten Benutzer diese Möglichkeit überhaupt nutzen.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+informationssicherheit, it-sicherheit, security, kraft, bsi, zertifizierung, cybercrime, risiken, schlüssel, schutzziele, bedrohungen, computersicherheit, geschützt, sicherheitslücken, viren, gesetz, it-sicherheitsgesetz, it-sicherheitsmanagements, it-systeme, angriffen
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Технические термины:
+  • it-systeme
+
+Общие понятия:
+  • kraft
+  • bsi
+  • viren
+
+Специфические термины:
+  • informationssicherheit
+  • it-sicherheit
+  • security
+  • zertifizierung
+  • cybercrime
+  • risiken
+  • schlüssel
+  • schutzziele
+  • bedrohungen
+  • computersicherheit
+  • geschützt
+  • sicherheitslücken
+  • gesetz
+  • it-sicherheitsgesetz
+  • it-sicherheitsmanagements
+  • angriffen
+
+============================================================
+Дата создания реферата: 2025-12-07 12:36:41
+============================================================

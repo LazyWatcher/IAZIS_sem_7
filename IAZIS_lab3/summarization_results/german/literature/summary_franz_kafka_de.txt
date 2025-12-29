@@ -1,0 +1,56 @@
+
+============================================================
+АВТОМАТИЧЕСКОЕ РЕФЕРИРОВАНИЕ ДОКУМЕНТА
+============================================================
+
+МЕТАДАННЫЕ:
+-----------
+Файл: wikipedia_articles\german\literature\franz_kafka_de.txt
+Язык: german
+Заголовок: Franz Kafka
+URL: https://de.wikipedia.org/wiki/Franz_Kafka
+Категория: literature
+Дата загрузки: 2025-12-07 12:01:05
+Длина текста: 97226 символов
+
+============================================================
+КЛАССИЧЕСКИЙ РЕФЕРАТ (10 предложений)
+============================================================
+Franz Kafka (gelegentlich tschechisch František Kafka, hebräischer Name אנשיל Anschel; * 3. Juli 1883 in Prag, Österreich-Ungarn; † 3. Juni 1924 in Kierling, Österreich) war ein österreichisch-tschechoslowakischer Schriftsteller. Neben den Brüdern Georg und Heinrich, die bereits als Kleinkinder starben, hatte Franz Kafka drei Schwestern, die später deportiert wurden, vermutlich in Konzentrationslager oder Ghettos, wo sich ihre Spuren verloren: Gabriele, genannt Elli (1889–1942? Allerdings gibt es gerade aus der mütterlichen Linie eine große Anzahl von Verwandten, die sich in Kafkas Figuren wiederfinden, zu nennen sind hier Junggesellen, Sonderlinge, Talmudkundige und explizit der Landarzt Onkel Siegfried Löwy, der Vorbild für die Erzählung Ein Landarzt war. Zu seinen Freunden in der Oberschulzeit gehörten Rudolf Illowý, Hugo Bergmann, Ewald Felix Příbram, in dessen Vaters Versicherung er später arbeitete, Paul Kisch sowie Oskar Pollak, mit dem er bis in die Universitätszeit befreundet blieb. Im Tagebucheintrag vom 2. August 1914 schreibt er: „Deutschland hat Rußland den Krieg erklärt – Nachmittag Schwimmschule.“ Berufsleben Nach einer knapp einjährigen Anstellung bei der privaten Versicherungsgesellschaft Assicurazioni Generali (Oktober 1907 bis Juli 1908) arbeitete Kafka von 1908 bis 1922 in der halbstaatlichen Arbeiter-Unfallversicherungs-Anstalt für das Königreich Böhmen in Prag (ab 1918 tschechisch: Úrazová pojišťovna dělnická pro Čechy v Praze). An Milena Jesenská schrieb er: „Mein Dienst ist lächerlich und kläglich leicht […] ich weiß nicht wofür ich das Geld bekomme.“ Als bedrückend empfand Kafka auch sein (von der Familie erwartetes) Engagement in den elterlichen Geschäften, zu denen 1911 die Asbestfabrik des Schwagers hinzugekommen war, die nie recht florieren wollte und die Kafka zu ignorieren suchte, obwohl er sich zu ihrem stillen Teilhaber hatte machen lassen. Selbst feinfühlig, zurückhaltend, ja scheu und nachdenklich, beschreibt Franz Kafka seinen Vater, der sich aus armen Verhältnissen hochgearbeitet und es kraft eigener Anstrengung zu etwas gebracht hatte, als durch und durch lebenstüchtige und zupackende, aber eben auch grobe, polternde, selbstgerechte und despotische Kaufmannsnatur. Im Brief an den Vater wirft Kafka diesem vor, eine tyrannische Macht beansprucht zu haben: „Du kannst ein Kind nur so behandeln, wie Du eben selbst geschaffen bist, mit Kraft, Lärm und Jähzorn und in diesem Fall schien Dir das auch noch überdies deshalb sehr gut geeignet, weil Du einen kräftigen mutigen Jungen in mir aufziehen wolltest.“ In Kafkas Erzählungen werden die Vaterfiguren nicht selten als mächtig und auch als ungerecht dargestellt. Dass Kafka den Frauen gefiel, sei heute kein Geheimnis mehr, schrieb der Literaturkritiker Volker Hage 2014 in einer Spiegel-Titelgeschichte über Kafka (Heft 40/2014): „Sexuelle Erfahrungen machte er reichlich, nicht nur mit käuflicher Liebe.“ Außerdem: „Anders als ein überholtes Kafka-Bild es will, war er kein lebensabgewandter Mensch.“ An anderer Stelle schreibt Hage: „Die reale Sexualität mit ihren schwer zu kontrollierenden Kräften und inneren Konflikten machte ihm offensichtlich zu schaffen, durchaus im Rahmen einer für sensible Menschen nicht ungewöhnlichen Spannung, frei von pathologischen Zügen. Anders als beim Urteil gestaltete sich das spätere Schreiben häufig quälend und stockend; das geht aus folgender Tagebuchaufzeichnung hervor: Judentum und Palästina-Frage Durch Kafkas Bekanntenkreis und vornehmlich durch Max Brods Engagement für den Zionismus wurde die Kafka-Forschung häufig mit der Frage nach dem Verhältnis des Schriftstellers zum Judentum und mit den Kontroversen über die Assimilation der westlichen Juden konfrontiert.
+
+============================================================
+КЛЮЧЕВЫЕ СЛОВА (20 терминов)
+============================================================
+kafka, kafkas, brod, process, prager, hans-gerd, felice, wagenbach, milena, urteil, stach, verschollene, hörspiel, hoffe, düsseldorf, landarzt, tagebüchern, brods, diamant, sanatorium
+
+============================================================
+ИЕРАРХИЧЕСКИЙ СПИСОК КЛЮЧЕВЫХ СЛОВ
+============================================================
+
+Общие понятия:
+  • kafka
+  • brod
+  • stach
+  • hoffe
+  • brods
+
+Специфические термины:
+  • kafkas
+  • process
+  • prager
+  • hans-gerd
+  • felice
+  • wagenbach
+  • milena
+  • urteil
+  • verschollene
+  • hörspiel
+  • düsseldorf
+  • landarzt
+  • tagebüchern
+  • diamant
+  • sanatorium
+
+============================================================
+Дата создания реферата: 2025-12-07 12:38:51
+============================================================
