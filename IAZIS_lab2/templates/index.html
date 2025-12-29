@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Распознавание языка текста</title>
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --primary-dark: #3730a3;
+            --success: #10b981;
+            --error: #ef4444;
+            --warning: #f59e0b;
+            --gray-50: #f9fafb;
+            --gray-100: #f3f4f6;
+            --gray-200: #e5e7eb;
+            --gray-300: #d1d5db;
+            --gray-400: #9ca3af;
+            --gray-500: #6b7280;
+            --gray-600: #4b5563;
+            --gray-700: #374151;
+            --gray-800: #1f2937;
+            --gray-900: #111827;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--gray-800);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+            animation: float 20s linear infinite;
+        }
+
+        @keyframes float {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 15px;
+            font-weight: 800;
+            position: relative;
+            z-index: 1;
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            opacity: 0.95;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 8px 20px;
+            background: {% if system_info.success %}var(--success){% else %}var(--error){% endif %};
+            color: white;
+            border-radius: 50px;
+            font-weight: 600;
+            margin-top: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            position: relative;
+            z-index: 1;
+        }
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 30px;
+            padding: 30px;
+        }
+
+        .sidebar {
+            background: var(--gray-50);
+            border-radius: 15px;
+            padding: 25px;
+            height: fit-content;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--gray-200);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-title {
+            font-size: 1.4rem;
+            color: var(--primary);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--gray-200);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card-title i {
+            font-size: 1.2rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .stat-item {
+            background: var(--gray-50);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            border: 1px solid var(--gray-200);
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--gray-600);
+            margin-bottom: 5px;
+        }
+
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .stat-sub {
+            font-size: 0.9rem;
+            color: var(--gray-500);
+            margin-top: 5px;
+        }
+
+        .method-badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 6px 12px;
+            background: var(--gray-100);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--gray-700);
+            margin-right: 8px;
+            margin-bottom: 8px;
+        }
+
+        .method-badge.ngram { background: #dbeafe; color: #1e40af; }
+        .method-badge.alphabet { background: #f3e8ff; color: #7c3aed; }
+        .method-badge.neural { background: #dcfce7; color: #166534; }
+
+        textarea {
+            width: 100%;
+            height: 180px;
+            padding: 20px;
+            border: 2px solid var(--gray-200);
+            border-radius: 12px;
+            font-size: 1rem;
+            font-family: inherit;
+            resize: vertical;
+            transition: all 0.3s;
+            background: var(--gray-50);
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: white;
+            box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+        }
+
+        .btn {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            border: none;
+            padding: 14px 28px;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(79, 70, 229, 0.35);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn-secondary {
+            background: var(--gray-600);
+            box-shadow: 0 4px 12px rgba(75, 85, 99, 0.25);
+        }
+
+        .btn-secondary:hover {
+            box-shadow: 0 6px 20px rgba(75, 85, 99, 0.35);
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, var(--success) 0%, #0da271 100%);
+            box-shadow: 0 4px 12px rgba(16, 185, 129, 0.25);
+        }
+
+        .file-upload-area {
+            border: 3px dashed var(--gray-300);
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: var(--gray-50);
+            margin-bottom: 20px;
+        }
+
+        .file-upload-area:hover {
+            border-color: var(--primary);
+            background: var(--gray-100);
+        }
+
+        .file-upload-area.dragover {
+            border-color: var(--primary);
+            background: var(--gray-100);
+            transform: scale(1.02);
+        }
+
+        .results-container {
+            margin-top: 20px;
+        }
+
+        .result-card {
+            background: var(--gray-50);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-left: 4px solid var(--primary);
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .result-method {
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--primary);
+        }
+
+        .result-language {
+            font-weight: 700;
+            font-size: 1.1rem;
+            padding: 6px 15px;
+            background: var(--success);
+            color: white;
+            border-radius: 20px;
+        }
+
+        .result-language.error {
+            background: var(--error);
+        }
+
+        .result-details {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            color: var(--gray-700);
+            border: 1px solid var(--gray-200);
+        }
+
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255, 255, 255, 0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 4px solid var(--gray-200);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            border-bottom: 2px solid var(--gray-200);
+            padding-bottom: 10px;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background: none;
+            border: none;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--gray-600);
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        .tab:hover {
+            background: var(--gray-100);
+            color: var(--gray-800);
+        }
+
+        .tab.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        .test-results {
+            display: none;
+        }
+
+        .accuracy-bars {
+            margin: 25px 0;
+        }
+
+        .accuracy-bar {
+            margin-bottom: 15px;
+        }
+
+        .accuracy-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+
+        .bar-container {
+            height: 20px;
+            background: var(--gray-200);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary) 0%, var(--primary-dark) 100%);
+            border-radius: 10px;
+            transition: width 1s ease;
+            position: relative;
+        }
+
+        .bar-fill::after {
+            content: attr(data-percent);
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .examples {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .example-btn {
+            padding: 8px 15px;
+            background: var(--gray-100);
+            border: 1px solid var(--gray-300);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+
+        .example-btn:hover {
+            background: var(--gray-200);
+            transform: translateY(-1px);
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            color: var(--gray-600);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--gray-200);
+            background: var(--gray-50);
+        }
+
+        @media (max-width: 1024px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            header {
+                padding: 30px 20px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-language"></i> Распознавание языка текста</h1>
+            <p class="subtitle">Лабораторная работа №8 - БГУИР | Вариант 2</p>
+            <div class="status-badge" id="statusBadge">
+                {% if system_info.success %}
+                    <i class="fas fa-check-circle"></i> {{ system_info.status }}
+                {% else %}
+                    <i class="fas fa-exclamation-circle"></i> {{ system_info.status }}
+                {% endif %}
+            </div>
+        </header>
+
+        <div class="dashboard">
+            <div class="sidebar">
+                <div class="card">
+                    <h3 class="card-title"><i class="fas fa-info-circle"></i> Системная информация</h3>
+
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div class="stat-label">Языки</div>
+                            <div class="stat-value">{{ system_info.languages|length }}</div>
+                            <div class="stat-sub">{{ system_info.languages|join(', ') }}</div>
+                        </div>
+
+                        <div class="stat-item">
+                            <div class="stat-label">Методы</div>
+                            <div class="stat-value">{{ system_info.methods|length }}</div>
+                            <div class="stat-sub">
+                                {% for method in system_info.methods %}
+                                    <span class="method-badge {{ method }}">{{ method|upper }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+
+                        <div class="stat-item">
+                            <div class="stat-label">Данные</div>
+                            <div class="stat-value">{{ system_info.training_data_size }} KB</div>
+                            <div class="stat-sub">объем тренировочных данных</div>
+                        </div>
+
+                        <div class="stat-item">
+                            <div class="stat-label">Тесты</div>
+                            <div class="stat-value">
+                                {% if system_info.has_test_data %}
+                                    <i class="fas fa-check" style="color: var(--success);"></i>
+                                {% else %}
+                                    <i class="fas fa-times" style="color: var(--error);"></i>
+                                {% endif %}
+                            </div>
+                            <div class="stat-sub">
+                                {% if system_info.has_test_data %}доступны{% else %}отсутствуют{% endif %}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 20px;">
+                        <button class="btn btn-secondary" onclick="refreshStatus()" style="width: 100%; margin-bottom: 10px;">
+                            <i class="fas fa-sync-alt"></i> Обновить статус
+                        </button>
+                        <button class="btn btn-success" onclick="runTests()" style="width: 100%;" {% if not system_info.success %}disabled{% endif %}>
+                            <i class="fas fa-vial"></i> Тестировать систему
+                        </button>
+                    </div>
+                </div>
+
+                <div class="card" style="margin-top: 20px;">
+                    <h3 class="card-title"><i class="fas fa-lightbulb"></i> Быстрые примеры</h3>
+                    <div class="examples">
+                        <button class="example-btn" onclick="setExample(0)">Французский 1</button>
+                        <button class="example-btn" onclick="setExample(1)">Французский 2</button>
+                        <button class="example-btn" onclick="setExample(2)">Немецкий 1</button>
+                        <button class="example-btn" onclick="setExample(3)">Немецкий 2</button>
+                        <button class="example-btn" onclick="setExample(4)">Английский</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-content">
+                <div class="tabs">
+                    <button class="tab active" onclick="switchTab('detect')"><i class="fas fa-search"></i> Распознавание</button>
+                    <button class="tab" onclick="switchTab('upload')"><i class="fas fa-upload"></i> Загрузка файла</button>
+                    <button class="tab" onclick="switchTab('results')"><i class="fas fa-chart-bar"></i> Результаты тестов</button>
+                </div>
+
+                <div id="detectTab" class="tab-content">
+                    <div class="card">
+                        <h2 class="card-title"><i class="fas fa-keyboard"></i> Ввод текста</h2>
+                        <textarea id="textInput" placeholder="Введите текст для распознавания языка...">Bonjour, comment allez-vous? Je m'appelle Pierre et je viens de Paris.</textarea>
+                        <button class="btn" onclick="detectLanguage()" {% if not system_info.success %}disabled{% endif %}>
+                            <i class="fas fa-search"></i> Распознать язык
+                        </button>
+                    </div>
+                </div>
+
+                <div id="uploadTab" class="tab-content" style="display: none;">
+                    <div class="card">
+                        <h2 class="card-title"><i class="fas fa-file-upload"></i> Загрузка файла</h2>
+                        <div class="file-upload-area" id="fileUploadArea">
+                            <i class="fas fa-cloud-upload-alt" style="font-size: 48px; color: var(--gray-400); margin-bottom: 15px;"></i>
+                            <div style="font-size: 1.2rem; font-weight: 600; color: var(--gray-700); margin-bottom: 10px;">
+                                Перетащите файл сюда или кликните для выбора
+                            </div>
+                            <div style="color: var(--gray-500); margin-bottom: 20px;">
+                                Поддерживаемые форматы: .txt, .html, .pdf
+                            </div>
+                            <input type="file" id="fileInput" accept=".txt,.html,.pdf" style="display: none;">
+                            <div id="selectedFileName" style="color: var(--primary); font-weight: 600; margin-top: 10px;"></div>
+                        </div>
+                        <button class="btn" onclick="uploadFile()" {% if not system_info.success %}disabled{% endif %}>
+                            <i class="fas fa-upload"></i> Загрузить и распознать
+                        </button>
+                    </div>
+                </div>
+
+                <div id="resultsTab" class="tab-content" style="display: none;">
+                    <div class="card">
+                        <h2 class="card-title"><i class="fas fa-chart-line"></i> Результаты тестирования</h2>
+                        <div id="testResultsContent">
+                            <p style="text-align: center; color: var(--gray-500); padding: 40px;">
+                                <i class="fas fa-chart-bar" style="font-size: 48px; margin-bottom: 15px;"></i><br>
+                                Нажмите "Тестировать систему" для запуска тестов
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2 class="card-title"><i class="fas fa-poll"></i> Результаты распознавания</h2>
+                    <div id="resultsContainer">
+                        <div style="text-align: center; color: var(--gray-500); padding: 30px;">
+                            <i class="fas fa-comment-alt" style="font-size: 48px; margin-bottom: 15px;"></i><br>
+                            Результаты появятся здесь после распознавания
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>© БГУИР - Лабораторная работа №8 "Автоматическое распознавание языка текста"</p>
+            <p>Вариант 2: Французский, Немецкий | Методы: N-грамм, алфавитный, нейросетевой</p>
+        </footer>
+    </div>
+
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="spinner"></div>
+        <div style="font-size: 1.2rem; color: var(--gray-700);">Обработка...</div>
+    </div>
+
+    <script>
+        // Примеры текстов для быстрого тестирования
+        const examples = [
+            "Bonjour, je m'appelle Marie. Je suis française et j'habite à Lyon. La France est un pays magnifique avec une riche histoire culturelle.",
+            "La langue française est une langue romane parlée par des millions de personnes dans le monde. Elle est la langue officielle de la France et de plusieurs autres pays.",
+            "Guten Tag! Ich heiße Thomas und ich komme aus München. Deutschland ist ein wunderschönes Land mit vielen historischen Städten und einer reichen Kultur.",
+            "Die deutsche Sprache wird von etwa 100 Millionen Menschen als Muttersprache gesprochen. Sie ist die am häufigsten gesprochene Muttersprache in der Europäischen Union.",
+            "Hello, my name is John. I'm from London and I work as a software developer. English is a global language spoken by billions of people worldwide."
+        ];
+
+        // Состояние приложения
+        let appState = {
+            currentTab: 'detect',
+            lastResults: null,
+            testResults: null
+        };
+
+        // DOM элементы
+        const textInput = document.getElementById('textInput');
+        const fileInput = document.getElementById('fileInput');
+        const fileUploadArea = document.getElementById('fileUploadArea');
+        const selectedFileName = document.getElementById('selectedFileName');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const testResultsContent = document.getElementById('testResultsContent');
+        const loadingOverlay = document.getElementById('loadingOverlay');
+
+        // Установить пример текста
+        function setExample(index) {
+            if (index >= 0 && index < examples.length) {
+                textInput.value = examples[index];
+                switchTab('detect');
+            }
+        }
+
+        // Переключение вкладок
+        function switchTab(tabName) {
+            appState.currentTab = tabName;
+
+            // Скрыть все вкладки
+            document.querySelectorAll('.tab-content').forEach(el => {
+                el.style.display = 'none';
+            });
+
+            // Показать выбранную вкладку
+            document.getElementById(tabName + 'Tab').style.display = 'block';
+
+            // Обновить активную кнопку
+            document.querySelectorAll('.tab').forEach(el => {
+                el.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Если переключились на вкладку результатов, показать последние результаты
+            if (tabName === 'results' && appState.testResults) {
+                displayTestResults(appState.testResults);
+            }
+        }
+
+        // Показать/скрыть загрузку
+        function showLoading(show) {
+            loadingOverlay.style.display = show ? 'flex' : 'none';
+        }
+
+        // Обновить статус системы
+        async function refreshStatus() {
+            showLoading(true);
+            try {
+                const response = await fetch('/api/status');
+                const data = await response.json();
+
+                if (data.success) {
+                    document.getElementById('statusBadge').innerHTML =
+                        `<i class="fas fa-check-circle"></i> Система активна (${data.languages.join(', ')})`;
+                    document.getElementById('statusBadge').style.background = 'var(--success)';
+                } else {
+                    document.getElementById('statusBadge').innerHTML =
+                        `<i class="fas fa-exclamation-circle"></i> ${data.status || 'Ошибка системы'}`;
+                    document.getElementById('statusBadge').style.background = 'var(--error)';
+                }
+            } catch (error) {
+                console.error('Ошибка обновления статуса:', error);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Распознать язык текста
+        async function detectLanguage() {
+            const text = textInput.value.trim();
+
+            if (!text) {
+                alert('Введите текст для распознавания');
+                return;
+            }
+
+            showLoading(true);
+
+            try {
+                const response = await fetch('/api/detect', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    displayResults(data);
+                } else {
+                    showError(data.error || 'Неизвестная ошибка');
+                }
+            } catch (error) {
+                console.error('Ошибка распознавания:', error);
+                showError('Ошибка соединения с сервером');
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Отобразить результаты распознавания
+        function displayResults(data) {
+            let html = '';
+
+            if (data.results) {
+                for (const [method, result] of Object.entries(data.results)) {
+                    const methodClass = method.toLowerCase();
+                    const language = result.language;
+                    const isError = language === 'error';
+
+                    html += `
+                        <div class="result-card">
+                            <div class="result-header">
+                                <div class="result-method ${methodClass}">${method.toUpperCase()}</div>
+                                <div class="result-language ${isError ? 'error' : ''}">
+                                    ${isError ? 'Ошибка' : language.toUpperCase()}
+                                </div>
+                            </div>
+                            <div class="result-details">
+                                ${result.display}
+                            </div>
+                        </div>
+                    `;
+                }
+
+                // Добавить информацию о тексте
+                html = `
+                    <div style="margin-bottom: 20px; padding: 15px; background: var(--gray-50); border-radius: 10px; border-left: 4px solid var(--primary);">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+                            <strong>Текст:</strong>
+                            <span>${data.text_length} символов</span>
+                        </div>
+                        <div style="color: var(--gray-600); font-style: italic;">
+                            "${data.text}"
+                        </div>
+                    </div>
+                    ${html}
+                `;
+            } else {
+                html = '<div style="text-align: center; color: var(--gray-500); padding: 30px;">Нет результатов</div>';
+            }
+
+            resultsContainer.innerHTML = html;
+            appState.lastResults = data;
+        }
+
+        // Загрузка файла
+        async function uploadFile() {
+            if (!fileInput.files[0]) {
+                alert('Выберите файл для загрузки');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+
+            showLoading(true);
+
+            try {
+                const response = await fetch('/api/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    // Переключиться на вкладку распознавания
+                    switchTab('detect');
+                    // Показать результаты
+                    displayResults(data);
+                } else {
+                    showError(data.error || 'Неизвестная ошибка');
+                }
+            } catch (error) {
+                console.error('Ошибка загрузки файла:', error);
+                showError('Ошибка загрузки файла');
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Тестирование системы
+        async function runTests() {
+            if (!confirm('Запустить тестирование системы? Это может занять несколько секунд.')) {
+                return;
+            }
+
+            showLoading(true);
+
+            try {
+                const response = await fetch('/api/test', {
+                    method: 'POST'
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    appState.testResults = data;
+                    displayTestResults(data);
+                    switchTab('results');
+                } else {
+                    showError(data.error || 'Неизвестная ошибка');
+                }
+            } catch (error) {
+                console.error('Ошибка тестирования:', error);
+                showError('Ошибка тестирования системы');
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Отобразить результаты тестирования
+        function displayTestResults(data) {
+            let html = '';
+
+            if (data.accuracy_results) {
+                // Графики точности
+                html += `<h3 style="margin-bottom: 20px; color: var(--gray-700);">Точность методов:</h3>`;
+                html += `<div class="accuracy-bars">`;
+
+                for (const [method, stats] of Object.entries(data.accuracy_results)) {
+                    const accuracy = stats.accuracy.toFixed(1);
+                    const methodClass = method.toLowerCase();
+
+                    html += `
+                        <div class="accuracy-bar">
+                            <div class="accuracy-label">
+                                <span class="method-badge ${methodClass}">${method.toUpperCase()}</span>
+                                <span>${accuracy}% (${stats.correct}/${stats.total})</span>
+                            </div>
+                            <div class="bar-container">
+                                <div class="bar-fill" data-percent="${accuracy}%" style="width: ${accuracy}%"></div>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                html += `</div>`;
+
+                // Детальные результаты
+                if (data.test_results) {
+                    html += `<h3 style="margin-top: 30px; margin-bottom: 15px; color: var(--gray-700);">Детальные результаты:</h3>`;
+
+                    for (const [lang, files] of Object.entries(data.test_results)) {
+                        html += `<div style="margin-bottom: 20px;">`;
+                        html += `<div style="font-weight: 600; color: var(--gray-700); margin-bottom: 10px;">Язык: ${lang}</div>`;
+
+                        for (const [filename, methods] of Object.entries(files)) {
+                            html += `<div style="margin-left: 20px; margin-bottom: 15px; padding: 12px; background: var(--gray-50); border-radius: 8px;">`;
+                            html += `<div style="font-weight: 600; color: var(--gray-600); margin-bottom: 8px;">📄 ${filename}</div>`;
+
+                            for (const [method, detectedLang] of Object.entries(methods)) {
+                                const isCorrect = detectedLang.toLowerCase() === lang.toLowerCase();
+                                const icon = isCorrect ? '✅' : '❌';
+                                const color = isCorrect ? 'var(--success)' : 'var(--error)';
+
+                                html += `
+                                    <div style="margin-left: 15px; margin-bottom: 5px; display: flex; align-items: center; gap: 10px;">
+                                        <span class="method-badge ${method}">${method.toUpperCase()}</span>
+                                        <span>→ ${detectedLang}</span>
+                                        <span style="color: ${color};">${icon}</span>
+                                    </div>
+                                `;
+                            }
+
+                            html += `</div>`;
+                        }
+
+                        html += `</div>`;
+                    }
+                }
+
+                html += `<div style="margin-top: 20px; padding: 15px; background: var(--gray-50); border-radius: 10px; text-align: center; color: var(--gray-600);">
+                    Всего тестов: ${data.total_tests}
+                </div>`;
+            } else {
+                html = '<div style="text-align: center; color: var(--gray-500); padding: 30px;">Нет результатов тестирования</div>';
+            }
+
+            testResultsContent.innerHTML = html;
+        }
+
+        // Показать ошибку
+        function showError(message) {
+            resultsContainer.innerHTML = `
+                <div class="result-card">
+                    <div class="result-header">
+                        <div class="result-method" style="color: var(--error);">ОШИБКА</div>
+                        <div class="result-language error">Ошибка</div>
+                    </div>
+                    <div class="result-details" style="color: var(--error);">
+                        ${message}
+                    </div>
+                </div>
+            `;
+        }
+
+        // Drag and drop для файлов
+        fileUploadArea.addEventListener('click', () => {
+            fileInput.click();
+        });
+
+        fileInput.addEventListener('change', () => {
+            if (fileInput.files[0]) {
+                selectedFileName.textContent = `Выбран файл: ${fileInput.files[0].name}`;
+                selectedFileName.style.color = 'var(--primary)';
+            }
+        });
+
+        fileUploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            fileUploadArea.classList.add('dragover');
+        });
+
+        fileUploadArea.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            fileUploadArea.classList.remove('dragover');
+        });
+
+        fileUploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            fileUploadArea.classList.remove('dragover');
+
+            if (e.dataTransfer.files.length) {
+                fileInput.files = e.dataTransfer.files;
+                selectedFileName.textContent = `Выбран файл: ${e.dataTransfer.files[0].name}`;
+                selectedFileName.style.color = 'var(--primary)';
+            }
+        });
+
+        // Инициализация при загрузке страницы
+        document.addEventListener('DOMContentLoaded', () => {
+            // Обновить статус системы
+            refreshStatus();
+
+            // Показать информацию о системе в консоли
+            console.log('Система распознавания языка загружена');
+            console.log('Языки:', {{ system_info.languages|tojson }});
+            console.log('Методы:', {{ system_info.methods|tojson }});
+        });
+    </script>
+</body>
+</html>
