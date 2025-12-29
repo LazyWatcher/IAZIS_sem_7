@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Результаты поиска - Boolean Search System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔍 Boolean Search System</h1>
+            <p>Результаты логического поиска</p>
+        </header>
+
+        <nav class="tabs">
+            <a href="/" class="tab">Новый поиск</a>
+            <a href="/evaluation" class="tab">Оценка качества</a>
+        </nav>
+
+        <main>
+            <div class="search-info">
+                <h2>Запрос: "{{ query }}"</h2>
+                <div class="search-stats">
+                    <p class="search-mode">
+                        <strong>Оператор:</strong> {{ operator }}
+                        {% if operator == 'AND' %}
+                        <span class="operator-badge and">AND</span>
+                        {% else %}
+                        <span class="operator-badge or">OR</span>
+                        {% endif %}
+                    </p>
+                    <p class="search-desc">
+                        {% if operator == 'AND' %}
+                        📌 Документы должны содержать <strong>все</strong> слова из запроса
+                        {% else %}
+                        📌 Документы должны содержать <strong>хотя бы одно</strong> слово из запроса
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+
+            {% if error %}
+            <div class="error-message">
+                Ошибка: {{ error }}
+            </div>
+            {% endif %}
+
+            <div class="results-section">
+                {% if results %}
+                    <div class="results-summary">
+                        <p class="results-count">
+                            Найдено документов: <strong>{{ results|length }}</strong>
+                            {% if total_docs %}
+                            из {{ total_docs }} ({{ ((results|length / total_docs * 100)|round(1)) if total_docs > 0 else 0 }}%)
+                            {% endif %}
+                        </p>
+                        <p class="results-sorted">
+                            📊 Сортировка по количеству совпавших терминов
+                        </p>
+                    </div>
+
+                    <div class="results-list">
+                        {% for result in results %}
+                        <div class="result-item">
+                            <h3 class="result-title">
+                                📄 {{ result.title }}
+                                <span class="doc-id">(ID: {{ result.id }})</span>
+                                <span class="file-type-badge {{ result.file_type }}">{{ result.file_type }}</span>
+                                <span class="relevance-badge" title="Совпало терминов: {{ result.score }}">
+                                    🔥 {{ result.score }}
+                                </span>
+                            </h3>
+                            <div class="result-snippet">
+                                {{ result.highlighted_snippet|safe }}
+                            </div>
+                            <div class="result-meta">
+                                <div class="matched-terms">
+                                    <span class="matched-label">Совпавшие термины:</span>
+                                    {% for term in result.matched_terms %}
+                                        <span class="term-tag">{{ term }}</span>
+                                    {% endfor %}
+                                </div>
+                                <div class="result-stats">
+                                    <span class="stat-item">Оператор: {{ result.operator }}</span>
+                                    {% if result.score > 0 %}
+                                    <span class="stat-item">Релевантность: {{ result.score }} из {{ query.split()|length }}</span>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <div class="no-results">
+                        <div class="no-results-icon">🔍</div>
+                        <p>По вашему запросу ничего не найдено.</p>
+                        <div class="suggestions">
+                            <p>Попробуйте:</p>
+                            <ul>
+                                {% if operator == 'AND' %}
+                                <li>Использовать оператор <strong>OR</strong> для более широкого поиска</li>
+                                <li>Упростить запрос, используя меньше слов</li>
+                                {% else %}
+                                <li>Использовать оператор <strong>AND</strong> для более точного поиска</li>
+                                <li>Добавить больше ключевых слов</li>
+                                {% endif %}
+                                <li>Проверить правильность написания слов</li>
+                                <li>Использовать английский язык для запросов</li>
+                            </ul>
+                        </div>
+                        <div class="quick-tips">
+                            <h4>🎯 Быстрые советы:</h4>
+                            <p>AND: "machine learning" → найдет документы с ОБОИМИ словами</p>
+                            <p>OR: "python java" → найдет документы с ЛЮБЫМ из этих слов</p>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </main>
+    </div>
+</body>
+</html>

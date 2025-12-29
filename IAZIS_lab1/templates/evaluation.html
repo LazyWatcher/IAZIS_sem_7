@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Оценка качества - AI Search System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Оценка качества поисковой системы</h1>
+            <p>Метрики оценки качества работы ИПС</p>
+        </header>
+
+        <nav class="tabs">
+            <a href="/" class="tab">Поиск</a>
+            <a href="/evaluation" class="tab active">Оценка качества</a>
+        </nav>
+
+        <main>
+            <div class="evaluation-section">
+                <div class="control-panel">
+                    <button id="runEvaluation" class="btn-primary">Запустить оценку качества</button>
+                    <button id="showMetricsInfo" class="btn-secondary">Информация о метриках</button>
+                </div>
+
+                <div id="loading" class="loading hidden">
+                    <p>Выполняется оценка качества... Это может занять несколько секунд.</p>
+                </div>
+
+                <div id="results" class="results-container hidden">
+                    <h2>Результаты оценки</h2>
+
+                    <div class="metrics-section">
+                        <h3>Макроусредненные метрики</h3>
+                        <div id="macroMetrics" class="metrics-grid"></div>
+                    </div>
+
+                    <div class="plots-section">
+                        <h3>Визуализация результатов</h3>
+                        <div id="plotsContainer" class="plots-grid"></div>
+                    </div>
+
+                    <div class="detailed-metrics">
+                        <h3>Детальные метрики по запросам</h3>
+                        <div id="detailedMetrics"></div>
+                    </div>
+                </div>
+
+                <div id="errorMessage" class="error-message hidden"></div>
+            </div>
+
+            <!-- Модальное окно с информацией о метриках -->
+            <div id="metricsModal" class="modal hidden">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <h2>Метрики оценки качества</h2>
+                    <div id="metricsInfo"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='evaluation.js') }}"></script>
+</body>
+</html>

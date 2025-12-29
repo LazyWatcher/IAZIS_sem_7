@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Boolean Search System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔍 AI Boolean Search System</h1>
+            <p>Логическая поисковая система с AI-анализом документов</p>
+        </header>
+
+        <nav class="tabs">
+            <a href="/" class="tab active">Поиск</a>
+            <a href="/evaluation" class="tab">Оценка качества</a>
+        </nav>
+
+        <main>
+            <!-- Секция выбора папки (новая версия) -->
+            <div class="folder-section">
+                <h3>📁 Укажите путь к папке с документами</h3>
+                <div class="folder-input-container">
+                    <div class="path-input-group">
+                        <input type="text" id="folderPath"
+                               placeholder="C:\Users\Имя\Documents\... или /home/user/documents/..."
+                               class="path-input">
+                        <button id="browseBtn" class="browse-btn">Обзор...</button>
+                    </div>
+                    <button id="processFolderBtn" class="process-folder-btn">
+                        📂 Анализировать папку
+                    </button>
+                </div>
+
+                <div class="folder-options">
+                    <label>
+                        <input type="checkbox" id="recursiveScan" checked>
+                        Рекурсивный обход подпапок
+                    </label>
+                    <label>
+                        <input type="checkbox" id="includePdf" checked>
+                        Включать PDF файлы
+                    </label>
+                </div>
+
+                <div id="folderInfo" class="folder-info hidden">
+                    <div class="folder-stats">
+                        <p>📊 Статистика папки:</p>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-label">Всего файлов:</span>
+                                <span class="stat-value" id="totalFiles">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Обработано:</span>
+                                <span class="stat-value" id="processedFiles">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Типы файлов:</span>
+                                <span class="stat-value" id="fileTypes">-</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="folderMessage" class="folder-message hidden"></div>
+            </div>
+
+            <!-- AI-рекомендации -->
+            <div class="ai-recommendations hidden" id="aiRecommendations">
+                <h3>🤖 AI-рекомендации для поиска</h3>
+                <p class="ai-description">ИИ проанализировал документы в папке и предлагает запросы:</p>
+                <div class="ai-queries" id="aiQueries">
+                    <!-- AI будет добавлять кнопки с рекомендациями -->
+                </div>
+                <div class="ai-loading hidden" id="aiLoading">
+                    <div class="spinner"></div>
+                    <p>AI анализирует документы... Это может занять время</p>
+                </div>
+            </div>
+
+            <!-- Секция поиска -->
+            <div class="search-section">
+                <form action="/search" method="POST" class="search-form">
+                    <div class="search-box">
+                        <input type="text" name="query" placeholder="Введите поисковый запрос на английском..."
+                               value="{{ request.form.get('query', '') }}" required
+                               id="searchQuery">
+                        <button type="submit" id="searchBtn">Найти</button>
+                    </div>
+                    <div class="search-options">
+                        <div class="operator-select">
+                            <label class="operator-option">
+                                <input type="radio" name="operator" value="AND" checked>
+                                <span class="operator-label">AND (все слова должны быть в документе)</span>
+                            </label>
+                            <label class="operator-option">
+                                <input type="radio" name="operator" value="OR">
+                                <span class="operator-label">OR (хотя бы одно слово должно быть в документе)</span>
+                            </label>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            {% if error %}
+            <div class="error-message">
+                Ошибка: {{ error }}
+            </div>
+            {% endif %}
+
+            <!-- Информация о системе -->
+            <div class="system-info">
+                <h4>📊 Информация о системе:</h4>
+                <p>Загружено документов: <span id="docCount">0</span></p>
+                <p>Индексировано терминов: <span id="indexTerms">0</span></p>
+                <p>Текущая папка: <span id="currentFolder">Не выбрана</span></p>
+                <p>Тип поиска: <strong>Булев (AND/OR)</strong></p>
+            </div>
+
+            <!-- Справка -->
+            <div class="help-section">
+                <h3>📘 Инструкция по использованию:</h3>
+                <ul>
+                    <li><strong>1. Укажите путь к папке</strong> с документами (txt, pdf)</li>
+                    <li><strong>2. Нажмите "Анализировать папку"</strong> - система просканирует файлы</li>
+                    <li><strong>3. Используйте AI-рекомендации</strong> или введите свой запрос</li>
+                    <li><strong>4. Выберите оператор:</strong> AND (все слова) или OR (любое слово)</li>
+                    <li><strong>Поддерживаются:</strong> .txt, .pdf (если установлены библиотеки)</li>
+                    <li><strong>Безопасность:</strong> Файлы не загружаются на сервер, читаются локально</li>
+                </ul>
+            </div>
+
+        </main>
+
+    </div>
+
+    <!-- Диалог выбора папки (скрытый) -->
+    <input type="file" id="folderPicker" webkitdirectory directory multiple style="display: none;">
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Элементы интерфейса
+            const folderPathInput = document.getElementById('folderPath');
+            const browseBtn = document.getElementById('browseBtn');
+            const processFolderBtn = document.getElementById('processFolderBtn');
+            const folderPicker = document.getElementById('folderPicker');
+            const folderInfo = document.getElementById('folderInfo');
+            const folderMessage = document.getElementById('folderMessage');
+            const recursiveScan = document.getElementById('recursiveScan');
+            const includePdf = document.getElementById('includePdf');
+
+            const totalFilesEl = document.getElementById('totalFiles');
+            const processedFilesEl = document.getElementById('processedFiles');
+            const fileTypesEl = document.getElementById('fileTypes');
+
+            const aiRecommendations = document.getElementById('aiRecommendations');
+            const aiQueries = document.getElementById('aiQueries');
+            const aiLoading = document.getElementById('aiLoading');
+
+            const docCountElement = document.getElementById('docCount');
+            const indexTermsElement = document.getElementById('indexTerms');
+            const currentFolderElement = document.getElementById('currentFolder');
+            const searchQueryInput = document.getElementById('searchQuery');
+
+            let selectedFolderPath = '';
+
+            // Загрузка информации о системе
+            function loadSystemInfo() {
+                fetch('/api/system/info')
+                    .then(response => response.json())
+                    .then(data => {
+                        docCountElement.textContent = data.documents_count;
+                        indexTermsElement.textContent = data.indexed_terms;
+
+                        if (data.current_folder) {
+                            currentFolderElement.textContent = data.current_folder;
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error loading system info:', error);
+                    });
+            }
+
+            // Инициализация
+            loadSystemInfo();
+
+            // Кнопка "Обзор..."
+            browseBtn.addEventListener('click', function() {
+                folderPicker.click();
+            });
+
+            // Обработка выбора папки через диалог
+            folderPicker.addEventListener('change', function(e) {
+                if (e.target.files.length > 0) {
+                    // Получаем путь к папке из первого файла
+                    const firstFile = e.target.files[0];
+                    if (firstFile.webkitRelativePath) {
+                        const pathParts = firstFile.webkitRelativePath.split('/');
+                        if (pathParts.length > 1) {
+                            // Собираем путь к папке
+                            selectedFolderPath = pathParts[0];
+                            folderPathInput.value = selectedFolderPath;
+                            showFolderMessage('Папка выбрана: ' + selectedFolderPath, 'info');
+                        }
+                    }
+                }
+            });
+
+            // Ручной ввод пути
+            folderPathInput.addEventListener('input', function() {
+                selectedFolderPath = this.value.trim();
+            });
+
+            // Кнопки быстрого выбора папки
+            document.querySelectorAll('.example-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const path = this.getAttribute('data-path');
+                    folderPathInput.value = path;
+                    selectedFolderPath = path;
+                    showFolderMessage('Указан путь: ' + path, 'info');
+                });
+            });
+
+            // Кнопка "Анализировать папку"
+            processFolderBtn.addEventListener('click', async function() {
+                if (!selectedFolderPath || selectedFolderPath.trim() === '') {
+                    showFolderMessage('Укажите путь к папке', 'error');
+                    return;
+                }
+
+                showFolderMessage('Сканирование папки...', 'loading');
+                folderInfo.classList.add('hidden');
+
+                try {
+                    const response = await fetch('/api/scan_folder', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            folder_path: selectedFolderPath,
+                            recursive: recursiveScan.checked,
+                            include_pdf: includePdf.checked
+                        })
+                    });
+
+                    const data = await response.json();
+
+                    if (data.success) {
+                        // Показываем статистику
+                        totalFilesEl.textContent = data.stats.total_files;
+                        processedFilesEl.textContent = data.stats.processed_files;
+                        fileTypesEl.textContent = data.stats.file_types.join(', ');
+
+                        folderInfo.classList.remove('hidden');
+                        showFolderMessage(`✅ Просканировано: ${data.stats.processed_files} файлов`, 'success');
+
+                        // Обновляем информацию о системе
+                        loadSystemInfo();
+
+                        // Получаем AI-рекомендации
+                        getAIRecommendations(selectedFolderPath);
+
+                    } else {
+                        showFolderMessage('❌ Ошибка: ' + data.error, 'error');
+                    }
+                } catch (error) {
+                    showFolderMessage('❌ Ошибка сканирования: ' + error.message, 'error');
+                }
+            });
+
+            // Добавляем кнопку сброса
+            addAIResetButton();
+
+            // Проверяем статус AI при загрузке
+            checkAIStatus();
+
+            // Функция получения AI-рекомендаций
+            async function getAIRecommendations(folderPath) {
+                // Проверяем статус AI
+                try {
+                    const statusResponse = await fetch('/api/ai/status');
+                    const statusData = await statusResponse.json();
+
+                    if (statusData.processing && statusData.seconds_since_last < 30) {
+                        showFolderMessage('AI уже анализирует документы. Подождите...', 'info');
+                        return;
+                    }
+                } catch (error) {
+                    console.log('Не удалось проверить статус AI:', error);
+                }
+
+                // Показываем загрузку
+                aiLoading.classList.remove('hidden');
+                aiRecommendations.classList.add('hidden');
+                aiQueries.innerHTML = '';
+
+                // Устанавливаем таймаут для автоматического скрытия
+                const loadingTimeout = setTimeout(() => {
+                    if (!aiLoading.classList.contains('hidden')) {
+                        aiLoading.classList.add('hidden');
+                        showFolderMessage('AI анализ занимает больше времени, чем ожидалось. Попробуйте позже.', 'info');
+                    }
+                }, 15000); // 15 секунд таймаут
+
+                try {
+                    const response = await fetch('/api/ai/recommend', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            folder_path: folderPath
+                        })
+                    });
+
+                    const data = await response.json();
+
+                    clearTimeout(loadingTimeout); // Очищаем таймаут
+
+                    if (data.success && data.recommendations && data.recommendations.length > 0) {
+                        displayAIRecommendations(data.recommendations);
+                        aiRecommendations.classList.remove('hidden');
+                        showFolderMessage('✅ AI рекомендации готовы!', 'success');
+                    } else {
+                        // Если AI не смог, показываем запасные варианты
+                        displayAIRecommendations([
+                            "machine learning",
+                            "data analysis",
+                            "artificial intelligence",
+                            "computer science",
+                            "programming"
+                        ]);
+                        aiRecommendations.classList.remove('hidden');
+                        showFolderMessage('AI использовал базовые рекомендации', 'info');
+                    }
+                } catch (error) {
+                    clearTimeout(loadingTimeout);
+                    console.error('AI recommendation error:', error);
+
+                    // Показываем запасные рекомендации при ошибке
+                    displayAIRecommendations([
+                        "machine learning",
+                        "data analysis",
+                        "artificial intelligence",
+                        "computer science",
+                        "information technology"
+                    ]);
+                    aiRecommendations.classList.remove('hidden');
+                    showFolderMessage('⚠️ Используются базовые рекомендации', 'info');
+                } finally {
+                    clearTimeout(loadingTimeout);
+                    aiLoading.classList.add('hidden');
+                }
+            }
+
+            function validateAIRecommendations(recommendations) {
+                return recommendations.filter(rec => {
+                    // Проверяем, что запрос не содержит операторов
+                    const hasOperators = /\b(AND|OR|NOT)\b/i.test(rec);
+                    const hasBrackets = /[()\[\]{}]/.test(rec);
+                    const hasQuotes = /["']/.test(rec);
+
+                    // Проверяем длину
+                    const wordCount = rec.split(/\s+/).length;
+                    const isValidLength = wordCount >= 1 && wordCount <= 4;
+
+                    // Проверяем, что это английский текст
+                    const isEnglish = /^[a-z\s]+$/i.test(rec.replace(/[^a-z\s]/gi, ''));
+
+                    return !hasOperators && !hasBrackets && !hasQuotes && isValidLength && isEnglish;
+                });
+            }
+
+            function displayAIRecommendations(recommendations) {
+                aiQueries.innerHTML = '';
+
+                // Валидируем рекомендации
+                const validRecommendations = validateAIRecommendations(recommendations);
+
+                // Если все рекомендации невалидны, используем запасные
+                const finalRecommendations = validRecommendations.length > 0
+                    ? validRecommendations
+                    : [
+                        "machine learning",
+                        "data analysis",
+                        "artificial intelligence",
+                        "computer science",
+                        "programming"
+                    ];
+
+                finalRecommendations.forEach((query, index) => {
+                    const queryButton = document.createElement('button');
+                    queryButton.className = 'ai-query-btn';
+                    queryButton.innerHTML = `
+                        <span class="ai-query-number">${index + 1}</span>
+                        <span class="ai-query-text">${query}</span>
+                    `;
+                    queryButton.title = `Нажмите для поиска: ${query}`;
+
+                    queryButton.addEventListener('click', function() {
+                        // Вставляем запрос в поле поиска
+                        searchQueryInput.value = query;
+                        // Выбираем AND по умолчанию
+                        document.querySelector('input[name="operator"][value="AND"]').checked = true;
+                        searchQueryInput.focus();
+
+                        // Анимация
+                        queryButton.classList.add('clicked');
+                        setTimeout(() => {
+                            queryButton.classList.remove('clicked');
+                        }, 300);
+                    });
+
+                    // Анимация появления
+                    setTimeout(() => {
+                        queryButton.style.opacity = '1';
+                        queryButton.style.transform = 'translateY(0)';
+                    }, index * 100);
+
+                    aiQueries.appendChild(queryButton);
+                });
+            }
+
+            function addAIResetButton() {
+                const resetBtn = document.createElement('button');
+                resetBtn.id = 'aiResetBtn';
+                resetBtn.className = 'ai-reset-btn hidden';
+                resetBtn.textContent = '🔄 Сбросить AI';
+                resetBtn.title = 'Сбросить статус AI анализа';
+
+                resetBtn.addEventListener('click', async function() {
+                    try {
+                        await fetch('/api/ai/status', {
+                            method: 'DELETE'
+                        });
+                        showFolderMessage('Статус AI сброшен', 'success');
+                    } catch (error) {
+                        console.error('Ошибка сброса AI:', error);
+                    }
+                });
+
+                document.querySelector('.ai-recommendations').appendChild(resetBtn);
+            }
+
+            // Функция отображения AI-рекомендаций
+            function displayAIRecommendations(recommendations) {
+                aiQueries.innerHTML = '';
+
+                recommendations.forEach((query, index) => {
+                    const queryButton = document.createElement('button');
+                    queryButton.className = 'ai-query-btn';
+                    queryButton.innerHTML = `
+                        <span class="ai-query-number">${index + 1}</span>
+                        <span class="ai-query-text">${query}</span>
+                    `;
+                    queryButton.title = `Нажмите для поиска: ${query}`;
+
+                    queryButton.addEventListener('click', function() {
+                        // Вставляем запрос в поле поиска
+                        searchQueryInput.value = query;
+                        // Выбираем AND по умолчанию
+                        document.querySelector('input[name="operator"][value="AND"]').checked = true;
+                        searchQueryInput.focus();
+
+                        // Анимация
+                        queryButton.classList.add('clicked');
+                        setTimeout(() => {
+                            queryButton.classList.remove('clicked');
+                        }, 300);
+                    });
+
+                    // Анимация появления
+                    setTimeout(() => {
+                        queryButton.style.opacity = '1';
+                        queryButton.style.transform = 'translateY(0)';
+                    }, index * 100);
+
+                    aiQueries.appendChild(queryButton);
+                });
+            }
+
+            // Функция показа сообщений
+            function showFolderMessage(message, type) {
+                folderMessage.textContent = message;
+                folderMessage.className = 'folder-message';
+
+                // Очищаем предыдущие классы
+                folderMessage.classList.remove('success', 'error', 'info', 'loading');
+
+                if (type) {
+                    folderMessage.classList.add(type);
+                }
+
+                folderMessage.classList.remove('hidden');
+
+                // Автоматически скрываем сообщения
+                if (type !== 'loading') {
+                    setTimeout(() => {
+                        folderMessage.classList.add('hidden');
+                    }, 5000);
+                }
+            }
+
+            // Примеры запросов (уже в форме)
+            // Подсказки при вводе
+            searchQueryInput.addEventListener('focus', function() {
+                if (!this.value) {
+                    this.placeholder = 'Примеры: "machine learning", "data AND analysis", "python OR java"';
+                }
+            });
+
+            searchQueryInput.addEventListener('blur', function() {
+                this.placeholder = 'Введите поисковый запрос на английском...';
+            });
+
+            // Drag & Drop для пути
+            folderPathInput.addEventListener('dragover', function(e) {
+                e.preventDefault();
+                this.classList.add('drag-over');
+            });
+
+            folderPathInput.addEventListener('dragleave', function() {
+                this.classList.remove('drag-over');
+            });
+
+            folderPathInput.addEventListener('drop', function(e) {
+                e.preventDefault();
+                this.classList.remove('drag-over');
+
+                // Получаем путь к перетащенной папке (работает в некоторых браузерах)
+                if (e.dataTransfer.items) {
+                    for (let i = 0; i < e.dataTransfer.items.length; i++) {
+                        if (e.dataTransfer.items[i].kind === 'file') {
+                            const file = e.dataTransfer.items[i].getAsFile();
+                            if (file && file.path) {
+                                this.value = file.path;
+                                selectedFolderPath = file.path;
+                                showFolderMessage('Перетащен путь: ' + file.path, 'info');
+                                break;
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Инициализация AI-рекомендаций если есть документы
+            if (parseInt(docCountElement.textContent) > 0) {
+                setTimeout(() => {
+                    // Пытаемся получить рекомендации для текущей папки
+                    if (currentFolderElement.textContent !== 'Не выбрана') {
+                        getAIRecommendations(currentFolderElement.textContent);
+                    }
+                }, 1000);
+            }
+        });
+    </script>
+</body>
+</html>
