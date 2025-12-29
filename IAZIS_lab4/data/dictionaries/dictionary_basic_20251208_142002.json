@@ -1,0 +1,262 @@
+[
+  {
+    "source_word": "hello",
+    "target_word": "привет",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "UH",
+    "pos_explanation": "междометие",
+    "domain": "general",
+    "frequency": 10
+  },
+  {
+    "source_word": "world",
+    "target_word": "мир",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 8
+  },
+  {
+    "source_word": "computer",
+    "target_word": "компьютер",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 15
+  },
+  {
+    "source_word": "programming",
+    "target_word": "программирование",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 12
+  },
+  {
+    "source_word": "algorithm",
+    "target_word": "алгоритм",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 9
+  },
+  {
+    "source_word": "database",
+    "target_word": "база данных",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 7
+  },
+  {
+    "source_word": "beautiful",
+    "target_word": "красивый",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "JJ",
+    "pos_explanation": "прилагательное",
+    "domain": "general",
+    "frequency": 5
+  },
+  {
+    "source_word": "quickly",
+    "target_word": "быстро",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "RB",
+    "pos_explanation": "наречие",
+    "domain": "general",
+    "frequency": 6
+  },
+  {
+    "source_word": "understand",
+    "target_word": "понимать",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "VB",
+    "pos_explanation": "глагол, базовая форма",
+    "domain": "general",
+    "frequency": 11
+  },
+  {
+    "source_word": "translation",
+    "target_word": "перевод",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 14
+  },
+  {
+    "source_word": "system",
+    "target_word": "система",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 13
+  },
+  {
+    "source_word": "machine",
+    "target_word": "машина",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 8
+  },
+  {
+    "source_word": "learning",
+    "target_word": "обучение",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 10
+  },
+  {
+    "source_word": "artificial",
+    "target_word": "искусственный",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "JJ",
+    "pos_explanation": "прилагательное",
+    "domain": "computer_science",
+    "frequency": 7
+  },
+  {
+    "source_word": "intelligence",
+    "target_word": "интеллект",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 9
+  },
+  {
+    "source_word": "development",
+    "target_word": "развитие",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 6
+  },
+  {
+    "source_word": "statistical",
+    "target_word": "статистический",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "JJ",
+    "pos_explanation": "прилагательное",
+    "domain": "computer_science",
+    "frequency": 5
+  },
+  {
+    "source_word": "model",
+    "target_word": "модель",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 8
+  },
+  {
+    "source_word": "improve",
+    "target_word": "улучшать",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "VB",
+    "pos_explanation": "глагол, базовая форма",
+    "domain": "general",
+    "frequency": 7
+  },
+  {
+    "source_word": "performance",
+    "target_word": "производительность",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "computer_science",
+    "frequency": 6
+  },
+  {
+    "source_word": "experience",
+    "target_word": "опыт",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 5
+  },
+  {
+    "source_word": "task",
+    "target_word": "задача",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 9
+  },
+  {
+    "source_word": "text",
+    "target_word": "текст",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 11
+  },
+  {
+    "source_word": "analysis",
+    "target_word": "анализ",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "general",
+    "frequency": 6
+  },
+  {
+    "source_word": "syntax",
+    "target_word": "синтаксис",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "linguistics",
+    "frequency": 4
+  },
+  {
+    "source_word": "grammar",
+    "target_word": "грамматика",
+    "source_lang": "en",
+    "target_lang": "ru",
+    "pos_tag": "NN",
+    "pos_explanation": "существительное, единственное число",
+    "domain": "linguistics",
+    "frequency": 5
+  }
+]

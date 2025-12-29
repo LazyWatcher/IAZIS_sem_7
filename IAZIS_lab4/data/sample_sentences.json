@@ -1,0 +1,44 @@
+[
+  {
+    "english": "Machine learning is a branch of artificial intelligence.",
+    "russian": "Машинное обучение - это раздел искусственного интеллекта.",
+    "domain": "computer_science",
+    "difficulty": "medium"
+  },
+  {
+    "english": "The quick brown fox jumps over the lazy dog.",
+    "russian": "Быстрая коричневая лиса перепрыгивает через ленивую собаку.",
+    "domain": "general",
+    "difficulty": "easy"
+  },
+  {
+    "english": "Programming requires logical thinking and attention to detail.",
+    "russian": "Программирование требует логического мышления и внимания к деталям.",
+    "domain": "computer_science",
+    "difficulty": "medium"
+  },
+  {
+    "english": "Hello world! This is my first program.",
+    "russian": "Привет мир! Это моя первая программа.",
+    "domain": "computer_science",
+    "difficulty": "easy"
+  },
+  {
+    "english": "The system performs statistical analysis of the text.",
+    "russian": "Система выполняет статистический анализ текста.",
+    "domain": "computer_science",
+    "difficulty": "medium"
+  },
+  {
+    "english": "Translation systems have improved significantly in recent years.",
+    "russian": "Системы перевода значительно улучшились в последние годы.",
+    "domain": "general",
+    "difficulty": "medium"
+  },
+  {
+    "english": "Natural language processing is a complex field of study.",
+    "russian": "Обработка естественного языка - это сложная область изучения.",
+    "domain": "linguistics",
+    "difficulty": "hard"
+  }
+]

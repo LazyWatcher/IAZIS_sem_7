@@ -1,0 +1,27 @@
+source_word,target_word,source_lang,target_lang,pos_tag,pos_explanation,domain,frequency
+hello,привет,en,ru,UH,междометие,general,10
+world,мир,en,ru,NN,"существительное, единственное число",general,8
+computer,компьютер,en,ru,NN,"существительное, единственное число",computer_science,15
+programming,программирование,en,ru,NN,"существительное, единственное число",computer_science,12
+algorithm,алгоритм,en,ru,NN,"существительное, единственное число",computer_science,9
+database,база данных,en,ru,NN,"существительное, единственное число",computer_science,7
+beautiful,красивый,en,ru,JJ,прилагательное,general,5
+quickly,быстро,en,ru,RB,наречие,general,6
+understand,понимать,en,ru,VB,"глагол, базовая форма",general,11
+translation,перевод,en,ru,NN,"существительное, единственное число",general,14
+system,система,en,ru,NN,"существительное, единственное число",computer_science,13
+machine,машина,en,ru,NN,"существительное, единственное число",general,8
+learning,обучение,en,ru,NN,"существительное, единственное число",computer_science,10
+artificial,искусственный,en,ru,JJ,прилагательное,computer_science,7
+intelligence,интеллект,en,ru,NN,"существительное, единственное число",computer_science,9
+development,развитие,en,ru,NN,"существительное, единственное число",general,6
+statistical,статистический,en,ru,JJ,прилагательное,computer_science,5
+model,модель,en,ru,NN,"существительное, единственное число",general,8
+improve,улучшать,en,ru,VB,"глагол, базовая форма",general,7
+performance,производительность,en,ru,NN,"существительное, единственное число",computer_science,6
+experience,опыт,en,ru,NN,"существительное, единственное число",general,5
+task,задача,en,ru,NN,"существительное, единственное число",general,9
+text,текст,en,ru,NN,"существительное, единственное число",general,11
+analysis,анализ,en,ru,NN,"существительное, единственное число",general,6
+syntax,синтаксис,en,ru,NN,"существительное, единственное число",linguistics,4
+grammar,грамматика,en,ru,NN,"существительное, единственное число",linguistics,5

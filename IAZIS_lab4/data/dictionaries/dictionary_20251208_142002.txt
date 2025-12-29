@@ -1,0 +1,26 @@
+hello -> привет [UH] (general) использовано: 10 раз
+world -> мир [NN] (general) использовано: 8 раз
+computer -> компьютер [NN] (computer_science) использовано: 15 раз
+programming -> программирование [NN] (computer_science) использовано: 12 раз
+algorithm -> алгоритм [NN] (computer_science) использовано: 9 раз
+database -> база данных [NN] (computer_science) использовано: 7 раз
+beautiful -> красивый [JJ] (general) использовано: 5 раз
+quickly -> быстро [RB] (general) использовано: 6 раз
+understand -> понимать [VB] (general) использовано: 11 раз
+translation -> перевод [NN] (general) использовано: 14 раз
+system -> система [NN] (computer_science) использовано: 13 раз
+machine -> машина [NN] (general) использовано: 8 раз
+learning -> обучение [NN] (computer_science) использовано: 10 раз
+artificial -> искусственный [JJ] (computer_science) использовано: 7 раз
+intelligence -> интеллект [NN] (computer_science) использовано: 9 раз
+development -> развитие [NN] (general) использовано: 6 раз
+statistical -> статистический [JJ] (computer_science) использовано: 5 раз
+model -> модель [NN] (general) использовано: 8 раз
+improve -> улучшать [VB] (general) использовано: 7 раз
+performance -> производительность [NN] (computer_science) использовано: 6 раз
+experience -> опыт [NN] (general) использовано: 5 раз
+task -> задача [NN] (general) использовано: 9 раз
+text -> текст [NN] (general) использовано: 11 раз
+analysis -> анализ [NN] (general) использовано: 6 раз
+syntax -> синтаксис [NN] (linguistics) использовано: 4 раз
+grammar -> грамматика [NN] (linguistics) использовано: 5 раз
