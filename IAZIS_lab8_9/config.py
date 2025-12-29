@@ -1,0 +1,2 @@
+OPENROUTER_API_KEY = "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"
+MODEL_NAME = "xiaomi/mimo-v2-flash:free"
